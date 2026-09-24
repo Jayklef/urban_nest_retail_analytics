@@ -1,0 +1,9 @@
+text# ==========================================
+# Virtual Environments
+# ==========================================
+.urban_retail/
+urban/
+.venv/
+venv/
+ENV/
+env/
