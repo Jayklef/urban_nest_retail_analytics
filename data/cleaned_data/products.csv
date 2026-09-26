@@ -1,0 +1,31 @@
+product_id,product_name,product_category,unit_price,discount_rate
+PRD0017,Sneakers,Fashion,10000,0.2
+PRD0004,Running Shoes,Sports,40000,0.05
+PRD0002,Makeup Kit,Beauty,75000,0.0
+PRD0020,Air Fryer,Home & Kitchen,75000,0.0
+PRD0021,Laptop,Electronics,3500,0.2
+PRD0018,Laptop,Electronics,75000,0.15
+PRD0015,Running Shoes,Sports,15000,0.1
+PRD0028,Cereal,Groceries,120000,0.2
+PRD0003,Beverage Pack,Groceries,15000,0.0
+PRD0010,Perfume,Beauty,10000,0.05
+PRD0009,Jeans,Fashion,5000,0.0
+PRD0007,Gym Bag,Sports,40000,0.05
+PRD0011,Wireless Earbuds,Electronics,25000,0.05
+PRD0026,Beverage Pack,Groceries,40000,0.2
+PRD0023,Running Shoes,Sports,120000,0.1
+PRD0027,Cereal,Groceries,25000,0.15
+PRD0024,Smart TV,Electronics,10000,0.0
+PRD0030,Handbag,Fashion,40000,0.0
+PRD0025,Hair Dryer,Beauty,25000,0.1
+PRD0001,Beverage Pack,Groceries,25000,0.2
+PRD0029,Air Fryer,Home & Kitchen,7500,0.1
+PRD0013,Yoga Mat,Sports,15000,0.05
+PRD0012,Cooking Oil,Groceries,75000,0.1
+PRD0014,Shirt,Fashion,75000,0.0
+PRD0019,Perfume,Beauty,75000,0.1
+PRD0005,Makeup Kit,Beauty,40000,0.15
+PRD0008,Vacuum Cleaner,Home & Kitchen,15000,0.2
+PRD0006,Rice,Groceries,7500,0.05
+PRD0016,Cereal,Groceries,3500,0.0
+PRD0022,Air Fryer,Home & Kitchen,7500,0.05

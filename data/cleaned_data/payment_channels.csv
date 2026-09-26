@@ -1,0 +1,5001 @@
+order_id,payment_method,sales_channel
+ORD000001,Bank Transfer,Mobile App
+ORD000002,Card,Instagram
+ORD000003,Card,Mobile App
+ORD000004,Cash on Delivery,Store
+ORD000005,Wallet,Store
+ORD000006,Bank Transfer,mobile app
+ORD000007,Wallet,Marketplace
+ORD000008,Bank Transfer,mobile app
+ORD000009,Unknown,Website
+ORD000010,CARD,Mobile App
+ORD000011,Card,Store
+ORD000012,Card,Marketplace
+ORD000013,Cash on Delivery,Website
+ORD000014,Bank Transfer,Instagram
+ORD000015,Bank Transfer,Mobile App
+ORD000016,Wallet,Mobile App
+ORD000017,Bank Transfer,website
+ORD000018,bank transfer,Website
+ORD000019,Cash on Delivery,Website
+ORD000020,Cash on Delivery,mobile app
+ORD000021,USSD,Website
+ORD000022,Card,Store
+ORD000023,Wallet,Instagram
+ORD000024,Card,Instagram
+ORD000025,Card,Marketplace
+ORD000026,Card,Instagram
+ORD000027,Unknown,Website
+ORD000028,Cash on Delivery,Unknown
+ORD000029,Wallet,Unknown
+ORD000030,Wallet,website
+ORD000031,Unknown,Instagram
+ORD000032,Bank Transfer,mobile app
+ORD000033,Wallet,Mobile App
+ORD000034,CARD,mobile app
+ORD000035,USSD,Website
+ORD000036,Bank Transfer,Mobile App
+ORD000037,Wallet,Instagram
+ORD000038,bank transfer,Marketplace
+ORD000039,Bank Transfer,Marketplace
+ORD000040,Cash on Delivery,Mobile App
+ORD000041,Card,Website
+ORD000042,USSD,Store
+ORD000043,Bank Transfer,website
+ORD000044,Bank Transfer,Website
+ORD000045,USSD,Instagram
+ORD000046,Bank Transfer,Marketplace
+ORD000047,Cash on Delivery,Store
+ORD000048,Cash on Delivery,Marketplace
+ORD000049,Cash on Delivery,website
+ORD000050,Card,Unknown
+ORD000051,Unknown,Website
+ORD000052,Cash on Delivery,Website
+ORD000053,Unknown,Marketplace
+ORD000054,Cash on Delivery,Website
+ORD000055,CARD,Instagram
+ORD000056,Unknown,Instagram
+ORD000057,CARD,Marketplace
+ORD000058,Cash on Delivery,Instagram
+ORD000059,CARD,Instagram
+ORD000060,USSD,Website
+ORD000061,Card,mobile app
+ORD000062,Card,Instagram
+ORD000063,USSD,mobile app
+ORD000064,Unknown,Website
+ORD000065,Bank Transfer,Marketplace
+ORD000066,Bank Transfer,Website
+ORD000067,Wallet,Unknown
+ORD000068,USSD,Website
+ORD000069,Cash on Delivery,Instagram
+ORD000070,Bank Transfer,Instagram
+ORD000071,Cash on Delivery,website
+ORD000072,Cash on Delivery,Store
+ORD000073,Bank Transfer,Marketplace
+ORD000074,Wallet,Marketplace
+ORD000075,Cash on Delivery,Unknown
+ORD000076,Bank Transfer,Instagram
+ORD000077,USSD,Marketplace
+ORD000078,Bank Transfer,Store
+ORD000079,Unknown,Website
+ORD000080,Cash on Delivery,website
+ORD000081,Card,Marketplace
+ORD000082,Card,Website
+ORD000083,Card,Mobile App
+ORD000084,Card,Unknown
+ORD000085,Cash on Delivery,Instagram
+ORD000086,Card,Marketplace
+ORD000087,Unknown,Unknown
+ORD000088,Wallet,Unknown
+ORD000089,Cash on Delivery,Website
+ORD000090,USSD,Store
+ORD000091,Card,Unknown
+ORD000092,Card,Mobile App
+ORD000093,CARD,Unknown
+ORD000094,Bank Transfer,Website
+ORD000095,Card,Store
+ORD000096,Unknown,Mobile App
+ORD000097,Cash on Delivery,Mobile App
+ORD000098,Card,Marketplace
+ORD000099,Bank Transfer,Website
+ORD000100,Cash on Delivery,Mobile App
+ORD000101,USSD,Unknown
+ORD000102,Cash on Delivery,Instagram
+ORD000103,CARD,Store
+ORD000104,Bank Transfer,Marketplace
+ORD000105,Card,Store
+ORD000106,Cash on Delivery,Marketplace
+ORD000107,Card,website
+ORD000108,Card,Store
+ORD000109,CARD,Store
+ORD000110,Bank Transfer,Mobile App
+ORD000111,Wallet,Mobile App
+ORD000112,Card,Website
+ORD000113,bank transfer,Instagram
+ORD000114,bank transfer,website
+ORD000115,Wallet,mobile app
+ORD000116,Bank Transfer,Instagram
+ORD000117,Wallet,mobile app
+ORD000118,Card,Mobile App
+ORD000119,Bank Transfer,mobile app
+ORD000120,Card,Store
+ORD000121,Card,Marketplace
+ORD000122,Wallet,Unknown
+ORD000123,Unknown,Mobile App
+ORD000124,Cash on Delivery,Store
+ORD000125,Wallet,Marketplace
+ORD000126,Cash on Delivery,Store
+ORD000127,Cash on Delivery,Mobile App
+ORD000128,CARD,Website
+ORD000129,Card,website
+ORD000130,USSD,website
+ORD000131,USSD,Store
+ORD000132,Cash on Delivery,website
+ORD000133,Wallet,website
+ORD000134,CARD,Store
+ORD000135,Card,Website
+ORD000136,CARD,Store
+ORD000137,USSD,Website
+ORD000138,Unknown,Marketplace
+ORD000139,USSD,Marketplace
+ORD000140,USSD,Store
+ORD000141,Bank Transfer,Mobile App
+ORD000142,Unknown,Store
+ORD000143,Card,Website
+ORD000144,Card,Store
+ORD000145,Card,Mobile App
+ORD000146,Card,Website
+ORD000147,CARD,Mobile App
+ORD000148,Card,Marketplace
+ORD000149,Card,Instagram
+ORD000150,USSD,Mobile App
+ORD000151,Card,Website
+ORD000152,USSD,Mobile App
+ORD000153,Unknown,Website
+ORD000154,Bank Transfer,Store
+ORD000155,Bank Transfer,Marketplace
+ORD000156,Card,Instagram
+ORD000157,CARD,Store
+ORD000158,USSD,Marketplace
+ORD000159,Wallet,Website
+ORD000160,Bank Transfer,Mobile App
+ORD000161,Cash on Delivery,Unknown
+ORD000162,Bank Transfer,Unknown
+ORD000163,Bank Transfer,Mobile App
+ORD000164,bank transfer,Marketplace
+ORD000165,USSD,Mobile App
+ORD000166,bank transfer,Mobile App
+ORD000167,Card,Store
+ORD000168,bank transfer,Marketplace
+ORD000169,Bank Transfer,Marketplace
+ORD000170,Cash on Delivery,Instagram
+ORD000171,Bank Transfer,Store
+ORD000172,USSD,Website
+ORD000173,Wallet,Website
+ORD000174,Wallet,Instagram
+ORD000175,USSD,Instagram
+ORD000176,Card,Instagram
+ORD000177,Card,Store
+ORD000178,bank transfer,Store
+ORD000179,Cash on Delivery,Marketplace
+ORD000180,Bank Transfer,Marketplace
+ORD000181,Cash on Delivery,Unknown
+ORD000182,Unknown,Website
+ORD000183,Card,Store
+ORD000184,Unknown,Marketplace
+ORD000185,Cash on Delivery,mobile app
+ORD000186,Wallet,Marketplace
+ORD000187,Card,Store
+ORD000188,Bank Transfer,Unknown
+ORD000189,USSD,Website
+ORD000190,Bank Transfer,Marketplace
+ORD000191,USSD,Mobile App
+ORD000192,Cash on Delivery,mobile app
+ORD000193,Cash on Delivery,Store
+ORD000194,USSD,Instagram
+ORD000195,bank transfer,Store
+ORD000196,bank transfer,Store
+ORD000197,Bank Transfer,Store
+ORD000198,Wallet,Marketplace
+ORD000199,bank transfer,website
+ORD000200,Cash on Delivery,Store
+ORD000201,Bank Transfer,website
+ORD000202,USSD,Store
+ORD000203,Bank Transfer,Store
+ORD000204,USSD,Instagram
+ORD000205,Cash on Delivery,mobile app
+ORD000206,Cash on Delivery,Mobile App
+ORD000207,Cash on Delivery,Instagram
+ORD000208,USSD,Instagram
+ORD000209,Card,Mobile App
+ORD000210,USSD,Marketplace
+ORD000211,Cash on Delivery,Store
+ORD000212,Wallet,Mobile App
+ORD000213,Wallet,Marketplace
+ORD000214,Unknown,Marketplace
+ORD000215,Unknown,Store
+ORD000216,Cash on Delivery,Instagram
+ORD000217,Cash on Delivery,Store
+ORD000218,Bank Transfer,Store
+ORD000219,Unknown,Mobile App
+ORD000220,Bank Transfer,Store
+ORD000221,bank transfer,Store
+ORD000222,USSD,Website
+ORD000223,Card,Marketplace
+ORD000224,Wallet,Store
+ORD000225,CARD,Website
+ORD000226,Wallet,Instagram
+ORD000227,USSD,Store
+ORD000228,Cash on Delivery,Marketplace
+ORD000229,CARD,Store
+ORD000230,Wallet,Marketplace
+ORD000231,Cash on Delivery,Unknown
+ORD000232,USSD,mobile app
+ORD000233,Card,Website
+ORD000234,USSD,Mobile App
+ORD000235,Cash on Delivery,Website
+ORD000236,USSD,Marketplace
+ORD000237,CARD,Mobile App
+ORD000238,USSD,Mobile App
+ORD000239,USSD,Store
+ORD000240,Bank Transfer,Mobile App
+ORD000241,Unknown,Marketplace
+ORD000242,Cash on Delivery,Unknown
+ORD000243,Card,Website
+ORD000244,Unknown,website
+ORD000245,Cash on Delivery,mobile app
+ORD000246,Card,Store
+ORD000247,CARD,Mobile App
+ORD000248,USSD,Marketplace
+ORD000249,USSD,Unknown
+ORD000250,Cash on Delivery,website
+ORD000251,USSD,Store
+ORD000252,Card,mobile app
+ORD000253,USSD,website
+ORD000254,Wallet,Mobile App
+ORD000255,USSD,Website
+ORD000256,Card,Unknown
+ORD000257,Card,Website
+ORD000258,CARD,Marketplace
+ORD000259,USSD,mobile app
+ORD000260,Wallet,mobile app
+ORD000261,Wallet,Marketplace
+ORD000262,Bank Transfer,Mobile App
+ORD000263,Wallet,Store
+ORD000264,Unknown,Store
+ORD000265,Cash on Delivery,website
+ORD000266,Card,Marketplace
+ORD000267,Cash on Delivery,Mobile App
+ORD000268,CARD,Website
+ORD000269,Bank Transfer,Unknown
+ORD000270,Unknown,Website
+ORD000271,Card,mobile app
+ORD000272,Cash on Delivery,website
+ORD000273,Cash on Delivery,Instagram
+ORD000274,Wallet,Website
+ORD000275,Card,Mobile App
+ORD000276,Unknown,Mobile App
+ORD000277,Card,Store
+ORD000278,Bank Transfer,website
+ORD000279,Bank Transfer,Store
+ORD000280,Cash on Delivery,website
+ORD000281,Card,mobile app
+ORD000282,Bank Transfer,Website
+ORD000283,Unknown,Website
+ORD000284,Card,Mobile App
+ORD000285,Bank Transfer,Store
+ORD000286,Cash on Delivery,Website
+ORD000287,Bank Transfer,Marketplace
+ORD000288,Card,Store
+ORD000289,USSD,mobile app
+ORD000290,USSD,Store
+ORD000291,Bank Transfer,Unknown
+ORD000292,Card,Store
+ORD000293,USSD,Website
+ORD000294,Bank Transfer,Website
+ORD000295,Cash on Delivery,Mobile App
+ORD000296,Card,Instagram
+ORD000297,Cash on Delivery,Store
+ORD000298,Card,Website
+ORD000299,Bank Transfer,Website
+ORD000300,USSD,Store
+ORD000301,bank transfer,website
+ORD000302,bank transfer,Website
+ORD000303,Wallet,Website
+ORD000304,Cash on Delivery,Website
+ORD000305,Bank Transfer,Unknown
+ORD000306,Bank Transfer,Website
+ORD000307,Wallet,Unknown
+ORD000308,USSD,Website
+ORD000309,Cash on Delivery,Instagram
+ORD000310,CARD,Unknown
+ORD000311,Card,Store
+ORD000312,Cash on Delivery,Marketplace
+ORD000313,USSD,Store
+ORD000314,Cash on Delivery,Instagram
+ORD000315,Bank Transfer,Store
+ORD000316,bank transfer,Marketplace
+ORD000317,Card,Marketplace
+ORD000318,Bank Transfer,Website
+ORD000319,USSD,Marketplace
+ORD000320,Bank Transfer,Marketplace
+ORD000321,Cash on Delivery,Instagram
+ORD000322,Wallet,Website
+ORD000323,bank transfer,Marketplace
+ORD000324,Bank Transfer,Instagram
+ORD000325,Card,Store
+ORD000326,Card,Marketplace
+ORD000327,Cash on Delivery,Website
+ORD000328,Unknown,Mobile App
+ORD000329,Card,Website
+ORD000330,Cash on Delivery,Instagram
+ORD000331,Card,Mobile App
+ORD000332,Card,Marketplace
+ORD000333,Card,Instagram
+ORD000334,USSD,Mobile App
+ORD000335,Card,Unknown
+ORD000336,bank transfer,Website
+ORD000337,CARD,Website
+ORD000338,Cash on Delivery,Store
+ORD000339,USSD,Mobile App
+ORD000340,Bank Transfer,Store
+ORD000341,Unknown,Store
+ORD000342,CARD,Store
+ORD000343,CARD,Website
+ORD000344,Unknown,mobile app
+ORD000345,Cash on Delivery,Mobile App
+ORD000346,Cash on Delivery,Store
+ORD000347,USSD,Mobile App
+ORD000348,Wallet,Mobile App
+ORD000349,Bank Transfer,Mobile App
+ORD000350,Unknown,Store
+ORD000351,Cash on Delivery,Store
+ORD000352,Bank Transfer,Mobile App
+ORD000353,Bank Transfer,Mobile App
+ORD000354,Wallet,website
+ORD000355,USSD,mobile app
+ORD000356,Card,Marketplace
+ORD000357,Cash on Delivery,website
+ORD000358,Wallet,Website
+ORD000359,Card,Marketplace
+ORD000360,bank transfer,Store
+ORD000361,Unknown,Unknown
+ORD000362,Unknown,Website
+ORD000363,USSD,Marketplace
+ORD000364,Bank Transfer,Store
+ORD000365,USSD,Store
+ORD000366,USSD,Website
+ORD000367,Bank Transfer,Instagram
+ORD000368,Card,Instagram
+ORD000369,USSD,Website
+ORD000370,Wallet,website
+ORD000371,USSD,Instagram
+ORD000372,Cash on Delivery,Mobile App
+ORD000373,CARD,Store
+ORD000374,USSD,Website
+ORD000375,Cash on Delivery,Instagram
+ORD000376,USSD,Mobile App
+ORD000377,Cash on Delivery,Store
+ORD000378,Cash on Delivery,Instagram
+ORD000379,Cash on Delivery,Instagram
+ORD000380,Card,Mobile App
+ORD000381,Cash on Delivery,Mobile App
+ORD000382,Bank Transfer,Instagram
+ORD000383,bank transfer,mobile app
+ORD000384,Cash on Delivery,Unknown
+ORD000385,USSD,Mobile App
+ORD000386,Wallet,Mobile App
+ORD000387,CARD,Website
+ORD000388,Card,Instagram
+ORD000389,Bank Transfer,Website
+ORD000390,Wallet,Mobile App
+ORD000391,Bank Transfer,Mobile App
+ORD000392,Bank Transfer,Mobile App
+ORD000393,USSD,Store
+ORD000394,Cash on Delivery,Store
+ORD000395,Card,Store
+ORD000396,Wallet,Website
+ORD000397,Wallet,Mobile App
+ORD000398,Card,Website
+ORD000399,Bank Transfer,Mobile App
+ORD000400,Bank Transfer,Mobile App
+ORD000401,Card,Mobile App
+ORD000402,Wallet,Instagram
+ORD000403,Unknown,Store
+ORD000404,Card,Store
+ORD000405,Card,Marketplace
+ORD000406,Cash on Delivery,Marketplace
+ORD000407,Unknown,Website
+ORD000408,USSD,Store
+ORD000409,Bank Transfer,Mobile App
+ORD000410,Bank Transfer,Instagram
+ORD000411,CARD,website
+ORD000412,Cash on Delivery,Mobile App
+ORD000413,Unknown,Store
+ORD000414,Card,Store
+ORD000415,Cash on Delivery,website
+ORD000416,Bank Transfer,Store
+ORD000417,Bank Transfer,Instagram
+ORD000418,Card,Mobile App
+ORD000419,Card,website
+ORD000420,CARD,Unknown
+ORD000421,Card,Mobile App
+ORD000422,Wallet,Store
+ORD000423,Wallet,Website
+ORD000424,Wallet,Marketplace
+ORD000425,Card,Website
+ORD000426,USSD,Mobile App
+ORD000427,USSD,Marketplace
+ORD000428,USSD,mobile app
+ORD000429,Bank Transfer,Website
+ORD000430,USSD,Store
+ORD000431,USSD,mobile app
+ORD000432,Cash on Delivery,Store
+ORD000433,CARD,Mobile App
+ORD000434,Cash on Delivery,Mobile App
+ORD000435,Cash on Delivery,Mobile App
+ORD000436,USSD,Store
+ORD000437,Unknown,mobile app
+ORD000438,CARD,website
+ORD000439,Cash on Delivery,Marketplace
+ORD000440,USSD,Instagram
+ORD000441,bank transfer,Mobile App
+ORD000442,Bank Transfer,Marketplace
+ORD000443,Unknown,Store
+ORD000444,Unknown,Store
+ORD000445,bank transfer,Store
+ORD000446,Wallet,Mobile App
+ORD000447,USSD,Store
+ORD000448,USSD,Website
+ORD000449,Bank Transfer,Marketplace
+ORD000450,Cash on Delivery,Website
+ORD000451,Bank Transfer,Marketplace
+ORD000452,Card,Store
+ORD000453,USSD,Marketplace
+ORD000454,bank transfer,Unknown
+ORD000455,CARD,Instagram
+ORD000456,Bank Transfer,Marketplace
+ORD000457,USSD,Store
+ORD000458,Card,Website
+ORD000459,USSD,Instagram
+ORD000460,Unknown,Instagram
+ORD000461,Cash on Delivery,Marketplace
+ORD000462,Card,Mobile App
+ORD000463,Unknown,Marketplace
+ORD000464,Wallet,Mobile App
+ORD000465,Bank Transfer,Store
+ORD000466,USSD,Unknown
+ORD000467,Cash on Delivery,Marketplace
+ORD000468,Cash on Delivery,mobile app
+ORD000469,Unknown,Marketplace
+ORD000470,USSD,Mobile App
+ORD000471,Unknown,Marketplace
+ORD000472,Card,Unknown
+ORD000473,USSD,Marketplace
+ORD000474,Wallet,Unknown
+ORD000475,Wallet,Mobile App
+ORD000476,Unknown,Instagram
+ORD000477,bank transfer,Website
+ORD000478,Card,Store
+ORD000479,Card,Mobile App
+ORD000480,Wallet,Store
+ORD000481,CARD,Marketplace
+ORD000482,Card,Website
+ORD000483,Wallet,Website
+ORD000484,Unknown,Website
+ORD000485,CARD,Website
+ORD000486,Bank Transfer,Instagram
+ORD000487,Bank Transfer,Mobile App
+ORD000488,Wallet,Marketplace
+ORD000489,Cash on Delivery,Instagram
+ORD000490,Wallet,Store
+ORD000491,Cash on Delivery,Unknown
+ORD000492,Card,Unknown
+ORD000493,Cash on Delivery,Mobile App
+ORD000494,bank transfer,Website
+ORD000495,CARD,Website
+ORD000496,Wallet,Unknown
+ORD000497,Cash on Delivery,Store
+ORD000498,CARD,mobile app
+ORD000499,bank transfer,Marketplace
+ORD000500,CARD,Instagram
+ORD000501,Unknown,Store
+ORD000502,bank transfer,Marketplace
+ORD000503,Cash on Delivery,mobile app
+ORD000504,USSD,mobile app
+ORD000505,Cash on Delivery,Store
+ORD000506,Cash on Delivery,Mobile App
+ORD000507,bank transfer,Website
+ORD000508,Card,Website
+ORD000509,Cash on Delivery,Website
+ORD000510,CARD,Website
+ORD000511,Cash on Delivery,mobile app
+ORD000512,Card,Mobile App
+ORD000513,Unknown,Mobile App
+ORD000514,Cash on Delivery,Store
+ORD000515,Bank Transfer,Mobile App
+ORD000516,bank transfer,Unknown
+ORD000517,Unknown,Store
+ORD000518,Unknown,Mobile App
+ORD000519,Bank Transfer,Store
+ORD000520,USSD,mobile app
+ORD000521,Unknown,Mobile App
+ORD000522,Card,Website
+ORD000523,Cash on Delivery,Mobile App
+ORD000524,Wallet,Website
+ORD000525,Unknown,website
+ORD000526,Cash on Delivery,Store
+ORD000527,Cash on Delivery,Website
+ORD000528,Cash on Delivery,Website
+ORD000529,Wallet,Store
+ORD000530,Card,Mobile App
+ORD000531,USSD,Store
+ORD000532,Bank Transfer,Website
+ORD000533,Cash on Delivery,Store
+ORD000534,Card,Instagram
+ORD000535,USSD,Mobile App
+ORD000536,Wallet,Website
+ORD000537,bank transfer,Store
+ORD000538,Card,Website
+ORD000539,Cash on Delivery,Marketplace
+ORD000540,USSD,Unknown
+ORD000541,Bank Transfer,Unknown
+ORD000542,Bank Transfer,Website
+ORD000543,bank transfer,website
+ORD000544,Bank Transfer,mobile app
+ORD000545,Card,Unknown
+ORD000546,USSD,Instagram
+ORD000547,Wallet,Instagram
+ORD000548,bank transfer,Website
+ORD000549,Wallet,Marketplace
+ORD000550,USSD,Website
+ORD000551,Wallet,Website
+ORD000552,Bank Transfer,Website
+ORD000553,Cash on Delivery,Mobile App
+ORD000554,Unknown,Mobile App
+ORD000555,Cash on Delivery,Store
+ORD000556,Card,Mobile App
+ORD000557,Card,mobile app
+ORD000558,Wallet,Unknown
+ORD000559,Bank Transfer,Website
+ORD000560,Bank Transfer,Store
+ORD000561,Cash on Delivery,Website
+ORD000562,Card,Website
+ORD000563,Card,Store
+ORD000564,USSD,Instagram
+ORD000565,Wallet,Marketplace
+ORD000566,Wallet,Mobile App
+ORD000567,Wallet,mobile app
+ORD000568,Bank Transfer,Mobile App
+ORD000569,Unknown,Instagram
+ORD000570,Wallet,Mobile App
+ORD000571,USSD,Store
+ORD000572,Cash on Delivery,Unknown
+ORD000573,Wallet,Mobile App
+ORD000574,Card,Store
+ORD000575,bank transfer,Unknown
+ORD000576,Bank Transfer,Website
+ORD000577,Bank Transfer,website
+ORD000578,USSD,Website
+ORD000579,CARD,website
+ORD000580,Bank Transfer,mobile app
+ORD000581,USSD,Mobile App
+ORD000582,Unknown,Website
+ORD000583,Wallet,Instagram
+ORD000584,Unknown,mobile app
+ORD000585,Card,Mobile App
+ORD000586,Bank Transfer,Instagram
+ORD000587,Bank Transfer,mobile app
+ORD000588,Wallet,Website
+ORD000589,CARD,Website
+ORD000590,Card,Marketplace
+ORD000591,Wallet,Instagram
+ORD000592,Wallet,Marketplace
+ORD000593,CARD,Marketplace
+ORD000594,Cash on Delivery,Website
+ORD000595,bank transfer,mobile app
+ORD000596,Cash on Delivery,mobile app
+ORD000597,Bank Transfer,Website
+ORD000598,Unknown,Instagram
+ORD000599,Bank Transfer,Store
+ORD000600,Card,Mobile App
+ORD000601,USSD,Marketplace
+ORD000602,bank transfer,Marketplace
+ORD000603,Cash on Delivery,Website
+ORD000604,bank transfer,Unknown
+ORD000605,bank transfer,Store
+ORD000606,Bank Transfer,Marketplace
+ORD000607,Bank Transfer,Website
+ORD000608,CARD,Instagram
+ORD000609,Wallet,Website
+ORD000610,Card,Mobile App
+ORD000611,USSD,Store
+ORD000612,Card,Marketplace
+ORD000613,Bank Transfer,Website
+ORD000614,Cash on Delivery,Instagram
+ORD000615,CARD,Instagram
+ORD000616,Wallet,mobile app
+ORD000617,Cash on Delivery,Instagram
+ORD000618,Unknown,Website
+ORD000619,Card,Store
+ORD000620,USSD,Website
+ORD000621,Card,Mobile App
+ORD000622,Bank Transfer,Mobile App
+ORD000623,USSD,Mobile App
+ORD000624,Cash on Delivery,Store
+ORD000625,USSD,Website
+ORD000626,Cash on Delivery,Mobile App
+ORD000627,Cash on Delivery,Website
+ORD000628,Cash on Delivery,Marketplace
+ORD000629,USSD,Website
+ORD000630,USSD,Mobile App
+ORD000631,Cash on Delivery,Store
+ORD000632,Cash on Delivery,Marketplace
+ORD000633,USSD,Website
+ORD000634,Cash on Delivery,Mobile App
+ORD000635,Bank Transfer,Website
+ORD000636,Card,Mobile App
+ORD000637,Bank Transfer,Store
+ORD000638,Cash on Delivery,mobile app
+ORD000639,Cash on Delivery,Unknown
+ORD000640,Cash on Delivery,website
+ORD000641,Bank Transfer,Mobile App
+ORD000642,Wallet,Marketplace
+ORD000643,Wallet,Store
+ORD000644,Wallet,Mobile App
+ORD000645,Wallet,Mobile App
+ORD000646,Cash on Delivery,Website
+ORD000647,Card,Marketplace
+ORD000648,CARD,Mobile App
+ORD000649,Cash on Delivery,Unknown
+ORD000650,Card,Marketplace
+ORD000651,Cash on Delivery,Website
+ORD000652,CARD,Mobile App
+ORD000653,Cash on Delivery,Marketplace
+ORD000654,Wallet,Instagram
+ORD000655,USSD,Website
+ORD000656,Unknown,Mobile App
+ORD000657,USSD,Instagram
+ORD000658,Card,Website
+ORD000659,Card,mobile app
+ORD000660,Card,Marketplace
+ORD000661,Bank Transfer,website
+ORD000662,Card,Store
+ORD000663,Cash on Delivery,Marketplace
+ORD000664,Cash on Delivery,Store
+ORD000665,Card,website
+ORD000666,Cash on Delivery,Mobile App
+ORD000667,USSD,Store
+ORD000668,Cash on Delivery,Website
+ORD000669,Bank Transfer,Unknown
+ORD000670,CARD,website
+ORD000671,USSD,website
+ORD000672,Cash on Delivery,Website
+ORD000673,Wallet,Marketplace
+ORD000674,Card,Website
+ORD000675,USSD,Instagram
+ORD000676,Cash on Delivery,Website
+ORD000677,Wallet,Unknown
+ORD000678,Bank Transfer,Website
+ORD000679,Bank Transfer,website
+ORD000680,bank transfer,Mobile App
+ORD000681,CARD,mobile app
+ORD000682,Unknown,Store
+ORD000683,USSD,Store
+ORD000684,Card,Marketplace
+ORD000685,CARD,Instagram
+ORD000686,USSD,Store
+ORD000687,Wallet,Marketplace
+ORD000688,USSD,Unknown
+ORD000689,Cash on Delivery,Unknown
+ORD000690,Bank Transfer,Unknown
+ORD000691,Cash on Delivery,Marketplace
+ORD000692,Cash on Delivery,Mobile App
+ORD000693,Card,Mobile App
+ORD000694,Card,Website
+ORD000695,Card,Instagram
+ORD000696,CARD,Store
+ORD000697,USSD,Unknown
+ORD000698,Bank Transfer,Marketplace
+ORD000699,bank transfer,Mobile App
+ORD000700,Bank Transfer,Website
+ORD000701,Cash on Delivery,Mobile App
+ORD000702,Card,Marketplace
+ORD000703,Bank Transfer,mobile app
+ORD000704,Card,Instagram
+ORD000705,Card,Website
+ORD000706,USSD,Store
+ORD000707,bank transfer,website
+ORD000708,Bank Transfer,Marketplace
+ORD000709,Cash on Delivery,Marketplace
+ORD000710,Bank Transfer,Store
+ORD000711,Unknown,Store
+ORD000712,Card,Website
+ORD000713,Card,Store
+ORD000714,Bank Transfer,Instagram
+ORD000715,CARD,Website
+ORD000716,Cash on Delivery,Mobile App
+ORD000717,Bank Transfer,mobile app
+ORD000718,USSD,Store
+ORD000719,Wallet,Instagram
+ORD000720,Card,Instagram
+ORD000721,bank transfer,Mobile App
+ORD000722,Bank Transfer,Instagram
+ORD000723,Bank Transfer,Store
+ORD000724,Cash on Delivery,Store
+ORD000725,Cash on Delivery,Store
+ORD000726,Unknown,Store
+ORD000727,Card,Unknown
+ORD000728,Cash on Delivery,Unknown
+ORD000729,Wallet,Store
+ORD000730,Bank Transfer,Marketplace
+ORD000731,Card,Instagram
+ORD000732,bank transfer,Mobile App
+ORD000733,USSD,Website
+ORD000734,Wallet,Website
+ORD000735,Bank Transfer,Marketplace
+ORD000736,Card,website
+ORD000737,bank transfer,Website
+ORD000738,Cash on Delivery,Marketplace
+ORD000739,CARD,Marketplace
+ORD000740,Bank Transfer,Marketplace
+ORD000741,Wallet,Website
+ORD000742,Bank Transfer,Website
+ORD000743,Bank Transfer,Store
+ORD000744,Card,Mobile App
+ORD000745,Bank Transfer,Marketplace
+ORD000746,Cash on Delivery,Instagram
+ORD000747,Cash on Delivery,Marketplace
+ORD000748,Cash on Delivery,Mobile App
+ORD000749,CARD,Instagram
+ORD000750,bank transfer,website
+ORD000751,Cash on Delivery,Instagram
+ORD000752,Cash on Delivery,Unknown
+ORD000753,Bank Transfer,Store
+ORD000754,Cash on Delivery,Marketplace
+ORD000755,bank transfer,website
+ORD000756,bank transfer,Marketplace
+ORD000757,Card,Marketplace
+ORD000758,USSD,Mobile App
+ORD000759,CARD,Website
+ORD000760,Bank Transfer,Website
+ORD000761,Bank Transfer,Store
+ORD000762,Wallet,Store
+ORD000763,Bank Transfer,Mobile App
+ORD000764,Wallet,Mobile App
+ORD000765,USSD,Website
+ORD000766,Cash on Delivery,website
+ORD000767,Cash on Delivery,website
+ORD000768,Cash on Delivery,Marketplace
+ORD000769,CARD,Instagram
+ORD000770,Card,Marketplace
+ORD000771,Wallet,Unknown
+ORD000772,Card,Marketplace
+ORD000773,Cash on Delivery,Website
+ORD000774,Card,Store
+ORD000775,Unknown,Mobile App
+ORD000776,Card,Marketplace
+ORD000777,Bank Transfer,website
+ORD000778,Cash on Delivery,Mobile App
+ORD000779,Card,Store
+ORD000780,USSD,Mobile App
+ORD000781,USSD,mobile app
+ORD000782,Bank Transfer,Website
+ORD000783,Cash on Delivery,Marketplace
+ORD000784,Wallet,Store
+ORD000785,Bank Transfer,Store
+ORD000786,USSD,Mobile App
+ORD000787,USSD,Store
+ORD000788,USSD,Website
+ORD000789,bank transfer,Instagram
+ORD000790,Card,Store
+ORD000791,Card,Marketplace
+ORD000792,Card,Mobile App
+ORD000793,Bank Transfer,Marketplace
+ORD000794,Wallet,Store
+ORD000795,USSD,Mobile App
+ORD000796,USSD,website
+ORD000797,USSD,Website
+ORD000798,Bank Transfer,Store
+ORD000799,Card,Website
+ORD000800,Wallet,Mobile App
+ORD000801,Card,Marketplace
+ORD000802,bank transfer,Mobile App
+ORD000803,CARD,Store
+ORD000804,CARD,Instagram
+ORD000805,Wallet,Mobile App
+ORD000806,Bank Transfer,Website
+ORD000807,Unknown,Website
+ORD000808,Cash on Delivery,Instagram
+ORD000809,Bank Transfer,Website
+ORD000810,bank transfer,website
+ORD000811,USSD,Unknown
+ORD000812,Card,Unknown
+ORD000813,Cash on Delivery,Mobile App
+ORD000814,bank transfer,Website
+ORD000815,USSD,Store
+ORD000816,USSD,Marketplace
+ORD000817,USSD,Marketplace
+ORD000818,Card,Mobile App
+ORD000819,USSD,Website
+ORD000820,Wallet,Marketplace
+ORD000821,bank transfer,Mobile App
+ORD000822,Cash on Delivery,Unknown
+ORD000823,USSD,Mobile App
+ORD000824,Cash on Delivery,website
+ORD000825,Cash on Delivery,Marketplace
+ORD000826,USSD,Store
+ORD000827,Wallet,Website
+ORD000828,Wallet,Marketplace
+ORD000829,Bank Transfer,Mobile App
+ORD000830,bank transfer,Store
+ORD000831,Bank Transfer,Instagram
+ORD000832,Wallet,Website
+ORD000833,Cash on Delivery,Store
+ORD000834,Card,Store
+ORD000835,CARD,Website
+ORD000836,Cash on Delivery,mobile app
+ORD000837,Card,Website
+ORD000838,Bank Transfer,Mobile App
+ORD000839,USSD,Store
+ORD000840,Wallet,Instagram
+ORD000841,Unknown,Marketplace
+ORD000842,USSD,Marketplace
+ORD000843,Bank Transfer,website
+ORD000844,Card,Marketplace
+ORD000845,bank transfer,Website
+ORD000846,Bank Transfer,Marketplace
+ORD000847,Card,mobile app
+ORD000848,Bank Transfer,Mobile App
+ORD000849,Bank Transfer,Unknown
+ORD000850,Unknown,mobile app
+ORD000851,Card,Website
+ORD000852,Wallet,Marketplace
+ORD000853,Bank Transfer,Mobile App
+ORD000854,Wallet,Website
+ORD000855,USSD,Mobile App
+ORD000856,Card,Instagram
+ORD000857,Card,Store
+ORD000858,USSD,website
+ORD000859,USSD,Website
+ORD000860,CARD,Website
+ORD000861,Cash on Delivery,Store
+ORD000862,USSD,Store
+ORD000863,Bank Transfer,Mobile App
+ORD000864,Card,Marketplace
+ORD000865,Bank Transfer,Mobile App
+ORD000866,Wallet,Store
+ORD000867,Bank Transfer,mobile app
+ORD000868,USSD,mobile app
+ORD000869,Wallet,website
+ORD000870,Card,Store
+ORD000871,Card,Instagram
+ORD000872,Card,Store
+ORD000873,Bank Transfer,Instagram
+ORD000874,CARD,Instagram
+ORD000875,Cash on Delivery,Website
+ORD000876,Unknown,Marketplace
+ORD000877,USSD,Instagram
+ORD000878,Unknown,Marketplace
+ORD000879,Wallet,website
+ORD000880,USSD,Store
+ORD000881,Wallet,Instagram
+ORD000882,bank transfer,website
+ORD000883,Bank Transfer,Instagram
+ORD000884,Wallet,Mobile App
+ORD000885,Wallet,Unknown
+ORD000886,Unknown,website
+ORD000887,Cash on Delivery,Unknown
+ORD000888,Cash on Delivery,Mobile App
+ORD000889,USSD,Instagram
+ORD000890,Cash on Delivery,mobile app
+ORD000891,USSD,Marketplace
+ORD000892,CARD,Store
+ORD000893,USSD,Mobile App
+ORD000894,CARD,Website
+ORD000895,Bank Transfer,Marketplace
+ORD000896,Cash on Delivery,Mobile App
+ORD000897,Unknown,Unknown
+ORD000898,Wallet,Instagram
+ORD000899,Wallet,Mobile App
+ORD000900,Bank Transfer,Marketplace
+ORD000901,Cash on Delivery,Website
+ORD000902,Cash on Delivery,Mobile App
+ORD000903,bank transfer,Unknown
+ORD000904,USSD,website
+ORD000905,Cash on Delivery,Mobile App
+ORD000906,Card,Mobile App
+ORD000907,Unknown,Marketplace
+ORD000908,Bank Transfer,Marketplace
+ORD000909,USSD,Marketplace
+ORD000910,Unknown,Marketplace
+ORD000911,Cash on Delivery,Website
+ORD000912,USSD,website
+ORD000913,Unknown,Instagram
+ORD000914,Bank Transfer,Mobile App
+ORD000915,Unknown,Mobile App
+ORD000916,USSD,website
+ORD000917,Unknown,Store
+ORD000918,Bank Transfer,Marketplace
+ORD000919,Wallet,Mobile App
+ORD000920,Cash on Delivery,Instagram
+ORD000921,Unknown,website
+ORD000922,Unknown,Mobile App
+ORD000923,Card,Instagram
+ORD000924,Bank Transfer,Mobile App
+ORD000925,Bank Transfer,Instagram
+ORD000926,Card,Marketplace
+ORD000927,Unknown,Unknown
+ORD000928,Cash on Delivery,Marketplace
+ORD000929,Card,Instagram
+ORD000930,Card,Mobile App
+ORD000931,Card,Mobile App
+ORD000932,Wallet,Store
+ORD000933,USSD,Website
+ORD000934,Wallet,Instagram
+ORD000935,bank transfer,Instagram
+ORD000936,Card,Instagram
+ORD000937,bank transfer,Mobile App
+ORD000938,Wallet,Website
+ORD000939,Wallet,Store
+ORD000940,Wallet,Unknown
+ORD000941,bank transfer,Marketplace
+ORD000942,Cash on Delivery,Instagram
+ORD000943,Unknown,Store
+ORD000944,Card,Mobile App
+ORD000945,Bank Transfer,Mobile App
+ORD000946,Bank Transfer,Mobile App
+ORD000947,Cash on Delivery,Website
+ORD000948,USSD,Marketplace
+ORD000949,Cash on Delivery,mobile app
+ORD000950,Wallet,Marketplace
+ORD000951,CARD,Website
+ORD000952,Cash on Delivery,Instagram
+ORD000953,Bank Transfer,Mobile App
+ORD000954,Card,mobile app
+ORD000955,USSD,Website
+ORD000956,bank transfer,Store
+ORD000957,Unknown,Mobile App
+ORD000958,Card,Store
+ORD000959,Card,Store
+ORD000960,Cash on Delivery,Marketplace
+ORD000961,bank transfer,Instagram
+ORD000962,Card,Marketplace
+ORD000963,Wallet,Marketplace
+ORD000964,Wallet,Website
+ORD000965,Wallet,mobile app
+ORD000966,Card,Marketplace
+ORD000967,Unknown,Mobile App
+ORD000968,Cash on Delivery,Instagram
+ORD000969,Cash on Delivery,mobile app
+ORD000970,Card,Mobile App
+ORD000971,Bank Transfer,Instagram
+ORD000972,Cash on Delivery,Mobile App
+ORD000973,bank transfer,Mobile App
+ORD000974,CARD,website
+ORD000975,Unknown,Store
+ORD000976,Cash on Delivery,Instagram
+ORD000977,Cash on Delivery,Instagram
+ORD000978,Cash on Delivery,Mobile App
+ORD000979,Wallet,Website
+ORD000980,USSD,Website
+ORD000981,Unknown,Marketplace
+ORD000982,Cash on Delivery,Mobile App
+ORD000983,CARD,Marketplace
+ORD000984,USSD,Marketplace
+ORD000985,Wallet,Instagram
+ORD000986,Cash on Delivery,Website
+ORD000987,USSD,Store
+ORD000988,Bank Transfer,Instagram
+ORD000989,Cash on Delivery,Instagram
+ORD000990,Card,Unknown
+ORD000991,Unknown,Store
+ORD000992,Bank Transfer,Instagram
+ORD000993,CARD,Unknown
+ORD000994,Cash on Delivery,Store
+ORD000995,Wallet,Website
+ORD000996,Bank Transfer,Website
+ORD000997,Wallet,website
+ORD000998,Unknown,Store
+ORD000999,Card,Store
+ORD001000,Card,Website
+ORD001001,Cash on Delivery,Mobile App
+ORD001002,Card,Mobile App
+ORD001003,Bank Transfer,Mobile App
+ORD001004,Unknown,Website
+ORD001005,Bank Transfer,Store
+ORD001006,Bank Transfer,Instagram
+ORD001007,Wallet,Marketplace
+ORD001008,Card,website
+ORD001009,Cash on Delivery,Website
+ORD001010,Card,Store
+ORD001011,USSD,website
+ORD001012,Card,Website
+ORD001013,Card,Unknown
+ORD001014,bank transfer,Marketplace
+ORD001015,Cash on Delivery,Website
+ORD001016,Bank Transfer,website
+ORD001017,Wallet,Store
+ORD001018,USSD,Instagram
+ORD001019,Wallet,Website
+ORD001020,Cash on Delivery,Store
+ORD001021,Card,Mobile App
+ORD001022,Card,Instagram
+ORD001023,bank transfer,Store
+ORD001024,USSD,Mobile App
+ORD001025,Card,Store
+ORD001026,Card,mobile app
+ORD001027,Cash on Delivery,Website
+ORD001028,Bank Transfer,website
+ORD001029,bank transfer,Marketplace
+ORD001030,Unknown,Unknown
+ORD001031,Cash on Delivery,Mobile App
+ORD001032,Bank Transfer,Instagram
+ORD001033,CARD,Store
+ORD001034,Bank Transfer,Instagram
+ORD001035,Card,Marketplace
+ORD001036,Card,website
+ORD001037,Bank Transfer,Unknown
+ORD001038,Cash on Delivery,website
+ORD001039,Unknown,Store
+ORD001040,Unknown,Marketplace
+ORD001041,Cash on Delivery,Instagram
+ORD001042,Bank Transfer,Website
+ORD001043,USSD,Store
+ORD001044,Bank Transfer,Marketplace
+ORD001045,USSD,Mobile App
+ORD001046,bank transfer,Mobile App
+ORD001047,Wallet,Store
+ORD001048,Card,mobile app
+ORD001049,CARD,Instagram
+ORD001050,Card,Store
+ORD001051,Bank Transfer,Unknown
+ORD001052,Wallet,Website
+ORD001053,Unknown,Marketplace
+ORD001054,Card,Mobile App
+ORD001055,USSD,Mobile App
+ORD001056,CARD,website
+ORD001057,Unknown,Store
+ORD001058,CARD,Mobile App
+ORD001059,Cash on Delivery,Website
+ORD001060,Wallet,mobile app
+ORD001061,Bank Transfer,Instagram
+ORD001062,Cash on Delivery,Store
+ORD001063,USSD,Website
+ORD001064,USSD,Website
+ORD001065,Card,Mobile App
+ORD001066,Wallet,Website
+ORD001067,USSD,Instagram
+ORD001068,Card,Website
+ORD001069,Bank Transfer,Mobile App
+ORD001070,Card,Instagram
+ORD001071,bank transfer,Mobile App
+ORD001072,USSD,Mobile App
+ORD001073,USSD,Unknown
+ORD001074,USSD,Mobile App
+ORD001075,Cash on Delivery,Website
+ORD001076,Unknown,mobile app
+ORD001077,Card,Mobile App
+ORD001078,Cash on Delivery,Website
+ORD001079,Cash on Delivery,Mobile App
+ORD001080,Cash on Delivery,Mobile App
+ORD001081,Card,Marketplace
+ORD001082,Card,Store
+ORD001083,Cash on Delivery,Store
+ORD001084,Bank Transfer,Unknown
+ORD001085,bank transfer,Instagram
+ORD001086,Bank Transfer,mobile app
+ORD001087,Cash on Delivery,Mobile App
+ORD001088,Cash on Delivery,Unknown
+ORD001089,USSD,Instagram
+ORD001090,Bank Transfer,Website
+ORD001091,Card,Website
+ORD001092,Card,mobile app
+ORD001093,Unknown,Mobile App
+ORD001094,USSD,Unknown
+ORD001095,Card,Store
+ORD001096,Cash on Delivery,Website
+ORD001097,Unknown,Website
+ORD001098,Card,Instagram
+ORD001099,Cash on Delivery,Marketplace
+ORD001100,Bank Transfer,Store
+ORD001101,Bank Transfer,Mobile App
+ORD001102,Cash on Delivery,Website
+ORD001103,Bank Transfer,Store
+ORD001104,Unknown,Instagram
+ORD001105,Bank Transfer,Website
+ORD001106,Bank Transfer,Mobile App
+ORD001107,Wallet,Marketplace
+ORD001108,Cash on Delivery,Website
+ORD001109,Card,Website
+ORD001110,USSD,Mobile App
+ORD001111,USSD,Unknown
+ORD001112,Cash on Delivery,Marketplace
+ORD001113,Cash on Delivery,Unknown
+ORD001114,Wallet,Store
+ORD001115,Card,Website
+ORD001116,Card,Mobile App
+ORD001117,Unknown,Instagram
+ORD001118,Wallet,Instagram
+ORD001119,Cash on Delivery,Marketplace
+ORD001120,Unknown,Marketplace
+ORD001121,Wallet,Store
+ORD001122,Card,Store
+ORD001123,Cash on Delivery,mobile app
+ORD001124,Card,Website
+ORD001125,Cash on Delivery,Website
+ORD001126,Unknown,mobile app
+ORD001127,Card,Store
+ORD001128,USSD,Store
+ORD001129,bank transfer,Instagram
+ORD001130,USSD,Store
+ORD001131,Bank Transfer,mobile app
+ORD001132,Wallet,Store
+ORD001133,Unknown,Mobile App
+ORD001134,Wallet,Store
+ORD001135,USSD,Website
+ORD001136,Cash on Delivery,Marketplace
+ORD001137,Card,Store
+ORD001138,USSD,Instagram
+ORD001139,Cash on Delivery,Store
+ORD001140,Cash on Delivery,Unknown
+ORD001141,Bank Transfer,Instagram
+ORD001142,Cash on Delivery,Website
+ORD001143,Cash on Delivery,Instagram
+ORD001144,Cash on Delivery,Website
+ORD001145,Wallet,Marketplace
+ORD001146,Cash on Delivery,Unknown
+ORD001147,Bank Transfer,Store
+ORD001148,Card,Website
+ORD001149,Bank Transfer,Store
+ORD001150,Bank Transfer,Marketplace
+ORD001151,Bank Transfer,Mobile App
+ORD001152,Card,Website
+ORD001153,Unknown,Store
+ORD001154,Card,Store
+ORD001155,USSD,Website
+ORD001156,Wallet,Mobile App
+ORD001157,Wallet,Mobile App
+ORD001158,USSD,Store
+ORD001159,Cash on Delivery,Marketplace
+ORD001160,Card,Website
+ORD001161,Card,mobile app
+ORD001162,bank transfer,Mobile App
+ORD001163,Cash on Delivery,Mobile App
+ORD001164,bank transfer,Marketplace
+ORD001165,Cash on Delivery,Unknown
+ORD001166,bank transfer,Unknown
+ORD001167,Cash on Delivery,Website
+ORD001168,Cash on Delivery,Marketplace
+ORD001169,Bank Transfer,Marketplace
+ORD001170,Card,Store
+ORD001171,Bank Transfer,mobile app
+ORD001172,Bank Transfer,Website
+ORD001173,USSD,Unknown
+ORD001174,Card,Store
+ORD001175,USSD,Unknown
+ORD001176,Bank Transfer,Instagram
+ORD001177,CARD,Store
+ORD001178,Unknown,Store
+ORD001179,Unknown,Store
+ORD001180,Cash on Delivery,Website
+ORD001181,bank transfer,Marketplace
+ORD001182,Bank Transfer,Instagram
+ORD001183,Cash on Delivery,Marketplace
+ORD001184,Cash on Delivery,Mobile App
+ORD001185,Cash on Delivery,Unknown
+ORD001186,USSD,Unknown
+ORD001187,Bank Transfer,Marketplace
+ORD001188,CARD,mobile app
+ORD001189,Card,Store
+ORD001190,Cash on Delivery,Mobile App
+ORD001191,Card,mobile app
+ORD001192,bank transfer,mobile app
+ORD001193,Unknown,Unknown
+ORD001194,Wallet,Instagram
+ORD001195,bank transfer,Mobile App
+ORD001196,Card,Unknown
+ORD001197,Card,Website
+ORD001198,USSD,Marketplace
+ORD001199,Cash on Delivery,Instagram
+ORD001200,Unknown,Mobile App
+ORD001201,Wallet,Website
+ORD001202,Wallet,Mobile App
+ORD001203,Card,Instagram
+ORD001204,Bank Transfer,Mobile App
+ORD001205,Card,Mobile App
+ORD001206,Card,mobile app
+ORD001207,USSD,Mobile App
+ORD001208,Card,Store
+ORD001209,Bank Transfer,website
+ORD001210,Card,Website
+ORD001211,Bank Transfer,Store
+ORD001212,Unknown,Website
+ORD001213,Wallet,Website
+ORD001214,Wallet,Unknown
+ORD001215,Unknown,Store
+ORD001216,Wallet,website
+ORD001217,Card,website
+ORD001218,Cash on Delivery,Instagram
+ORD001219,bank transfer,Marketplace
+ORD001220,Unknown,Website
+ORD001221,bank transfer,Instagram
+ORD001222,Card,Website
+ORD001223,Card,Store
+ORD001224,Bank Transfer,Instagram
+ORD001225,Bank Transfer,Website
+ORD001226,CARD,website
+ORD001227,USSD,Mobile App
+ORD001228,bank transfer,Unknown
+ORD001229,Wallet,Store
+ORD001230,Cash on Delivery,Website
+ORD001231,Card,Marketplace
+ORD001232,Cash on Delivery,Store
+ORD001233,Wallet,Mobile App
+ORD001234,Bank Transfer,Store
+ORD001235,Cash on Delivery,Mobile App
+ORD001236,Card,website
+ORD001237,bank transfer,Marketplace
+ORD001238,Unknown,Instagram
+ORD001239,CARD,Store
+ORD001240,Unknown,Store
+ORD001241,Cash on Delivery,Unknown
+ORD001242,bank transfer,Store
+ORD001243,Cash on Delivery,Instagram
+ORD001244,USSD,Mobile App
+ORD001245,Cash on Delivery,Website
+ORD001246,Card,Instagram
+ORD001247,bank transfer,Mobile App
+ORD001248,USSD,Store
+ORD001249,USSD,Store
+ORD001250,Unknown,Marketplace
+ORD001251,Wallet,Website
+ORD001252,Card,Marketplace
+ORD001253,USSD,Instagram
+ORD001254,Wallet,Website
+ORD001255,Unknown,Unknown
+ORD001256,Bank Transfer,Website
+ORD001257,Wallet,Store
+ORD001258,Bank Transfer,mobile app
+ORD001259,Bank Transfer,Store
+ORD001260,Card,Store
+ORD001261,Unknown,Website
+ORD001262,Bank Transfer,Marketplace
+ORD001263,Cash on Delivery,Website
+ORD001264,Unknown,Unknown
+ORD001265,Bank Transfer,Instagram
+ORD001266,Bank Transfer,website
+ORD001267,USSD,Store
+ORD001268,Card,Mobile App
+ORD001269,USSD,Mobile App
+ORD001270,Bank Transfer,Mobile App
+ORD001271,CARD,Store
+ORD001272,Card,Store
+ORD001273,Cash on Delivery,Store
+ORD001274,Bank Transfer,Store
+ORD001275,Card,website
+ORD001276,Cash on Delivery,Instagram
+ORD001277,Cash on Delivery,Marketplace
+ORD001278,Cash on Delivery,Website
+ORD001279,bank transfer,website
+ORD001280,USSD,Instagram
+ORD001281,Bank Transfer,Store
+ORD001282,Wallet,Marketplace
+ORD001283,Bank Transfer,website
+ORD001284,bank transfer,Website
+ORD001285,USSD,Marketplace
+ORD001286,Cash on Delivery,Instagram
+ORD001287,Cash on Delivery,Store
+ORD001288,Card,Mobile App
+ORD001289,Bank Transfer,Marketplace
+ORD001290,Card,Unknown
+ORD001291,Wallet,Marketplace
+ORD001292,Cash on Delivery,Mobile App
+ORD001293,Unknown,Marketplace
+ORD001294,Card,Unknown
+ORD001295,Cash on Delivery,website
+ORD001296,USSD,Marketplace
+ORD001297,Cash on Delivery,Mobile App
+ORD001298,Bank Transfer,Website
+ORD001299,Card,Marketplace
+ORD001300,Cash on Delivery,Website
+ORD001301,Card,Mobile App
+ORD001302,Cash on Delivery,Website
+ORD001303,Bank Transfer,Marketplace
+ORD001304,Unknown,Store
+ORD001305,Card,Store
+ORD001306,Card,Store
+ORD001307,bank transfer,Mobile App
+ORD001308,Wallet,Store
+ORD001309,Bank Transfer,Store
+ORD001310,Wallet,Unknown
+ORD001311,Card,website
+ORD001312,Card,Mobile App
+ORD001313,Cash on Delivery,Marketplace
+ORD001314,Card,Marketplace
+ORD001315,Card,website
+ORD001316,USSD,Store
+ORD001317,Card,Store
+ORD001318,Bank Transfer,Mobile App
+ORD001319,Card,Marketplace
+ORD001320,Wallet,Store
+ORD001321,Card,Mobile App
+ORD001322,Card,Instagram
+ORD001323,Card,Store
+ORD001324,Cash on Delivery,Store
+ORD001325,Cash on Delivery,Store
+ORD001326,Wallet,Website
+ORD001327,bank transfer,Instagram
+ORD001328,Wallet,Unknown
+ORD001329,Cash on Delivery,Instagram
+ORD001330,CARD,Store
+ORD001331,USSD,Store
+ORD001332,Wallet,Store
+ORD001333,Card,Mobile App
+ORD001334,Bank Transfer,Unknown
+ORD001335,Bank Transfer,Website
+ORD001336,Cash on Delivery,website
+ORD001337,Wallet,Store
+ORD001338,Wallet,Instagram
+ORD001339,Wallet,Instagram
+ORD001340,USSD,Marketplace
+ORD001341,USSD,Marketplace
+ORD001342,Card,Website
+ORD001343,Card,Marketplace
+ORD001344,Unknown,Unknown
+ORD001345,Wallet,Store
+ORD001346,Cash on Delivery,mobile app
+ORD001347,Unknown,Store
+ORD001348,Cash on Delivery,Marketplace
+ORD001349,USSD,Mobile App
+ORD001350,USSD,Mobile App
+ORD001351,Wallet,Mobile App
+ORD001352,Card,Store
+ORD001353,Unknown,Store
+ORD001354,Cash on Delivery,mobile app
+ORD001355,USSD,Marketplace
+ORD001356,Bank Transfer,Mobile App
+ORD001357,Cash on Delivery,Instagram
+ORD001358,Bank Transfer,Website
+ORD001359,Cash on Delivery,Store
+ORD001360,USSD,Marketplace
+ORD001361,Cash on Delivery,Website
+ORD001362,Unknown,Marketplace
+ORD001363,Cash on Delivery,mobile app
+ORD001364,Card,mobile app
+ORD001365,CARD,Website
+ORD001366,Cash on Delivery,Mobile App
+ORD001367,bank transfer,Mobile App
+ORD001368,Card,Store
+ORD001369,Card,Marketplace
+ORD001370,Wallet,Unknown
+ORD001371,Cash on Delivery,website
+ORD001372,USSD,website
+ORD001373,Card,mobile app
+ORD001374,Cash on Delivery,Instagram
+ORD001375,Bank Transfer,Website
+ORD001376,Bank Transfer,Store
+ORD001377,USSD,Marketplace
+ORD001378,Bank Transfer,Unknown
+ORD001379,Bank Transfer,Store
+ORD001380,Cash on Delivery,Store
+ORD001381,Wallet,Store
+ORD001382,Card,Instagram
+ORD001383,bank transfer,Instagram
+ORD001384,Wallet,website
+ORD001385,Wallet,Marketplace
+ORD001386,Cash on Delivery,Website
+ORD001387,CARD,Website
+ORD001388,CARD,Unknown
+ORD001389,Card,Mobile App
+ORD001390,Cash on Delivery,Store
+ORD001391,Unknown,Marketplace
+ORD001392,Unknown,Website
+ORD001393,Bank Transfer,website
+ORD001394,CARD,Instagram
+ORD001395,Wallet,Marketplace
+ORD001396,Cash on Delivery,Mobile App
+ORD001397,Cash on Delivery,Website
+ORD001398,Cash on Delivery,Mobile App
+ORD001399,Card,Mobile App
+ORD001400,Wallet,Instagram
+ORD001401,Unknown,Instagram
+ORD001402,Card,Store
+ORD001403,CARD,Website
+ORD001404,Cash on Delivery,Unknown
+ORD001405,Bank Transfer,Mobile App
+ORD001406,USSD,mobile app
+ORD001407,Cash on Delivery,Mobile App
+ORD001408,bank transfer,Unknown
+ORD001409,CARD,Unknown
+ORD001410,USSD,Website
+ORD001411,Cash on Delivery,website
+ORD001412,Unknown,Store
+ORD001413,Cash on Delivery,Marketplace
+ORD001414,bank transfer,Store
+ORD001415,Card,Instagram
+ORD001416,Wallet,Website
+ORD001417,USSD,Instagram
+ORD001418,Wallet,Mobile App
+ORD001419,USSD,Store
+ORD001420,Cash on Delivery,Store
+ORD001421,Bank Transfer,Store
+ORD001422,Cash on Delivery,Marketplace
+ORD001423,CARD,mobile app
+ORD001424,CARD,mobile app
+ORD001425,Unknown,Website
+ORD001426,bank transfer,Store
+ORD001427,Card,Instagram
+ORD001428,Wallet,Mobile App
+ORD001429,USSD,mobile app
+ORD001430,USSD,website
+ORD001431,Bank Transfer,Website
+ORD001432,Cash on Delivery,Store
+ORD001433,Unknown,Marketplace
+ORD001434,USSD,Mobile App
+ORD001435,USSD,Website
+ORD001436,Card,Marketplace
+ORD001437,Cash on Delivery,Instagram
+ORD001438,Cash on Delivery,mobile app
+ORD001439,Bank Transfer,Website
+ORD001440,Bank Transfer,Mobile App
+ORD001441,USSD,Mobile App
+ORD001442,Wallet,Website
+ORD001443,Card,Unknown
+ORD001444,Card,Unknown
+ORD001445,Wallet,Website
+ORD001446,Wallet,mobile app
+ORD001447,bank transfer,Mobile App
+ORD001448,bank transfer,Marketplace
+ORD001449,Card,Store
+ORD001450,Card,Website
+ORD001451,Wallet,Store
+ORD001452,Card,Instagram
+ORD001453,CARD,Website
+ORD001454,USSD,Store
+ORD001455,USSD,website
+ORD001456,Bank Transfer,Mobile App
+ORD001457,Bank Transfer,Unknown
+ORD001458,Unknown,Marketplace
+ORD001459,CARD,Mobile App
+ORD001460,CARD,Website
+ORD001461,bank transfer,Store
+ORD001462,USSD,Mobile App
+ORD001463,Cash on Delivery,Mobile App
+ORD001464,Bank Transfer,Mobile App
+ORD001465,bank transfer,Store
+ORD001466,Unknown,Mobile App
+ORD001467,Unknown,Website
+ORD001468,Cash on Delivery,Store
+ORD001469,Cash on Delivery,Instagram
+ORD001470,bank transfer,Marketplace
+ORD001471,Bank Transfer,mobile app
+ORD001472,Cash on Delivery,Website
+ORD001473,Bank Transfer,Unknown
+ORD001474,USSD,Mobile App
+ORD001475,Bank Transfer,Marketplace
+ORD001476,Card,Store
+ORD001477,Wallet,Marketplace
+ORD001478,Card,Marketplace
+ORD001479,CARD,mobile app
+ORD001480,USSD,Mobile App
+ORD001481,CARD,Website
+ORD001482,Bank Transfer,Mobile App
+ORD001483,Card,Instagram
+ORD001484,Wallet,Store
+ORD001485,Unknown,website
+ORD001486,Bank Transfer,Marketplace
+ORD001487,Unknown,Website
+ORD001488,USSD,Instagram
+ORD001489,Card,Website
+ORD001490,USSD,Instagram
+ORD001491,Bank Transfer,website
+ORD001492,Cash on Delivery,Website
+ORD001493,Card,Store
+ORD001494,CARD,Mobile App
+ORD001495,CARD,Store
+ORD001496,Card,Website
+ORD001497,Wallet,Website
+ORD001498,CARD,mobile app
+ORD001499,Cash on Delivery,Website
+ORD001500,Card,Store
+ORD001501,USSD,Store
+ORD001502,USSD,mobile app
+ORD001503,CARD,Store
+ORD001504,bank transfer,website
+ORD001505,Card,Store
+ORD001506,Cash on Delivery,Instagram
+ORD001507,Bank Transfer,Website
+ORD001508,Cash on Delivery,Store
+ORD001509,Bank Transfer,Mobile App
+ORD001510,CARD,Marketplace
+ORD001511,Cash on Delivery,website
+ORD001512,Card,Unknown
+ORD001513,Card,Mobile App
+ORD001514,USSD,Website
+ORD001515,Card,Website
+ORD001516,USSD,Marketplace
+ORD001517,Card,Marketplace
+ORD001518,bank transfer,Instagram
+ORD001519,bank transfer,Instagram
+ORD001520,Cash on Delivery,mobile app
+ORD001521,Bank Transfer,Marketplace
+ORD001522,Unknown,website
+ORD001523,USSD,Instagram
+ORD001524,Cash on Delivery,Store
+ORD001525,Wallet,Marketplace
+ORD001526,Wallet,Unknown
+ORD001527,Wallet,Marketplace
+ORD001528,bank transfer,mobile app
+ORD001529,USSD,Mobile App
+ORD001530,Cash on Delivery,Marketplace
+ORD001531,Card,Instagram
+ORD001532,Bank Transfer,Instagram
+ORD001533,Unknown,Instagram
+ORD001534,Unknown,Instagram
+ORD001535,Card,Mobile App
+ORD001536,Bank Transfer,Website
+ORD001537,Bank Transfer,website
+ORD001538,Cash on Delivery,Instagram
+ORD001539,CARD,Website
+ORD001540,Unknown,Mobile App
+ORD001541,Cash on Delivery,Store
+ORD001542,Bank Transfer,Marketplace
+ORD001543,USSD,Marketplace
+ORD001544,Card,Unknown
+ORD001545,bank transfer,Unknown
+ORD001546,Bank Transfer,Marketplace
+ORD001547,Card,Marketplace
+ORD001548,Card,Marketplace
+ORD001549,Card,Marketplace
+ORD001550,bank transfer,Mobile App
+ORD001551,Card,Store
+ORD001552,Unknown,Website
+ORD001553,Card,mobile app
+ORD001554,Bank Transfer,Mobile App
+ORD001555,Card,Marketplace
+ORD001556,Unknown,Store
+ORD001557,Card,Marketplace
+ORD001558,Bank Transfer,Instagram
+ORD001559,bank transfer,website
+ORD001560,USSD,Website
+ORD001561,Cash on Delivery,Marketplace
+ORD001562,Cash on Delivery,Store
+ORD001563,bank transfer,website
+ORD001564,Cash on Delivery,Store
+ORD001565,bank transfer,Website
+ORD001566,Card,Mobile App
+ORD001567,USSD,Marketplace
+ORD001568,Cash on Delivery,Unknown
+ORD001569,Wallet,Mobile App
+ORD001570,Card,Marketplace
+ORD001571,Wallet,Mobile App
+ORD001572,Wallet,Instagram
+ORD001573,bank transfer,mobile app
+ORD001574,Bank Transfer,Instagram
+ORD001575,Cash on Delivery,Website
+ORD001576,Bank Transfer,Instagram
+ORD001577,Wallet,website
+ORD001578,Bank Transfer,Unknown
+ORD001579,bank transfer,Website
+ORD001580,Card,Instagram
+ORD001581,Cash on Delivery,Marketplace
+ORD001582,Wallet,website
+ORD001583,USSD,Instagram
+ORD001584,Card,Website
+ORD001585,Bank Transfer,Marketplace
+ORD001586,Card,Store
+ORD001587,Bank Transfer,Store
+ORD001588,Card,Marketplace
+ORD001589,Card,mobile app
+ORD001590,Bank Transfer,Store
+ORD001591,Card,Instagram
+ORD001592,CARD,Store
+ORD001593,bank transfer,Marketplace
+ORD001594,bank transfer,Website
+ORD001595,Unknown,Website
+ORD001596,Cash on Delivery,Website
+ORD001597,Cash on Delivery,Marketplace
+ORD001598,Wallet,Store
+ORD001599,Bank Transfer,Marketplace
+ORD001600,Wallet,Mobile App
+ORD001601,Cash on Delivery,website
+ORD001602,Wallet,Unknown
+ORD001603,Cash on Delivery,mobile app
+ORD001604,Cash on Delivery,website
+ORD001605,Cash on Delivery,Instagram
+ORD001606,bank transfer,Store
+ORD001607,Card,website
+ORD001608,Cash on Delivery,Store
+ORD001609,Unknown,Mobile App
+ORD001610,Unknown,Website
+ORD001611,Wallet,website
+ORD001612,CARD,mobile app
+ORD001613,Card,Mobile App
+ORD001614,Cash on Delivery,Website
+ORD001615,Cash on Delivery,Website
+ORD001616,bank transfer,Instagram
+ORD001617,CARD,Store
+ORD001618,Bank Transfer,Instagram
+ORD001619,Wallet,mobile app
+ORD001620,USSD,Store
+ORD001621,Cash on Delivery,mobile app
+ORD001622,Cash on Delivery,Mobile App
+ORD001623,bank transfer,Store
+ORD001624,USSD,Marketplace
+ORD001625,Cash on Delivery,Marketplace
+ORD001626,CARD,Unknown
+ORD001627,Wallet,Marketplace
+ORD001628,Cash on Delivery,Website
+ORD001629,Card,Marketplace
+ORD001630,CARD,Instagram
+ORD001631,Bank Transfer,Marketplace
+ORD001632,Wallet,Unknown
+ORD001633,Cash on Delivery,Website
+ORD001634,Unknown,Marketplace
+ORD001635,Card,Unknown
+ORD001636,Wallet,Instagram
+ORD001637,Card,Mobile App
+ORD001638,Bank Transfer,Website
+ORD001639,CARD,Mobile App
+ORD001640,Cash on Delivery,Store
+ORD001641,Cash on Delivery,Mobile App
+ORD001642,Unknown,Store
+ORD001643,Wallet,Marketplace
+ORD001644,bank transfer,Store
+ORD001645,Cash on Delivery,Website
+ORD001646,Wallet,Website
+ORD001647,USSD,mobile app
+ORD001648,Card,mobile app
+ORD001649,Cash on Delivery,Instagram
+ORD001650,Cash on Delivery,Marketplace
+ORD001651,Bank Transfer,Instagram
+ORD001652,Card,Mobile App
+ORD001653,Bank Transfer,Store
+ORD001654,USSD,Unknown
+ORD001655,Cash on Delivery,Marketplace
+ORD001656,USSD,Unknown
+ORD001657,Cash on Delivery,Marketplace
+ORD001658,bank transfer,website
+ORD001659,Bank Transfer,Marketplace
+ORD001660,Card,Mobile App
+ORD001661,Wallet,Unknown
+ORD001662,Card,Marketplace
+ORD001663,Bank Transfer,Website
+ORD001664,USSD,Mobile App
+ORD001665,Unknown,Marketplace
+ORD001666,Unknown,Instagram
+ORD001667,Card,Instagram
+ORD001668,Cash on Delivery,mobile app
+ORD001669,USSD,Mobile App
+ORD001670,Cash on Delivery,Unknown
+ORD001671,Cash on Delivery,Store
+ORD001672,bank transfer,Website
+ORD001673,Card,Instagram
+ORD001674,Bank Transfer,Marketplace
+ORD001675,USSD,Website
+ORD001676,Cash on Delivery,Mobile App
+ORD001677,Cash on Delivery,Website
+ORD001678,CARD,Mobile App
+ORD001679,USSD,Website
+ORD001680,Unknown,Website
+ORD001681,Card,Mobile App
+ORD001682,Card,Marketplace
+ORD001683,bank transfer,Mobile App
+ORD001684,bank transfer,Website
+ORD001685,USSD,Website
+ORD001686,Cash on Delivery,Store
+ORD001687,Card,Website
+ORD001688,Unknown,Store
+ORD001689,USSD,Marketplace
+ORD001690,USSD,Mobile App
+ORD001691,Card,Website
+ORD001692,Bank Transfer,Instagram
+ORD001693,Wallet,Marketplace
+ORD001694,Bank Transfer,Unknown
+ORD001695,Card,Marketplace
+ORD001696,Cash on Delivery,Store
+ORD001697,USSD,Marketplace
+ORD001698,Bank Transfer,Store
+ORD001699,Bank Transfer,website
+ORD001700,CARD,Mobile App
+ORD001701,Card,Mobile App
+ORD001702,Bank Transfer,Website
+ORD001703,Wallet,Website
+ORD001704,Bank Transfer,Marketplace
+ORD001705,Card,Store
+ORD001706,Wallet,website
+ORD001707,Wallet,Mobile App
+ORD001708,Card,Unknown
+ORD001709,Wallet,Website
+ORD001710,Wallet,Store
+ORD001711,Unknown,Unknown
+ORD001712,Cash on Delivery,mobile app
+ORD001713,Card,Marketplace
+ORD001714,USSD,website
+ORD001715,bank transfer,Mobile App
+ORD001716,Cash on Delivery,Website
+ORD001717,Bank Transfer,Mobile App
+ORD001718,Bank Transfer,Website
+ORD001719,Bank Transfer,website
+ORD001720,Card,website
+ORD001721,USSD,Store
+ORD001722,Bank Transfer,Store
+ORD001723,Wallet,Website
+ORD001724,Card,Unknown
+ORD001725,Wallet,Marketplace
+ORD001726,USSD,Mobile App
+ORD001727,Unknown,Website
+ORD001728,Bank Transfer,Unknown
+ORD001729,bank transfer,Mobile App
+ORD001730,Wallet,Store
+ORD001731,Unknown,Website
+ORD001732,Unknown,Mobile App
+ORD001733,Card,Website
+ORD001734,Cash on Delivery,Marketplace
+ORD001735,Cash on Delivery,Marketplace
+ORD001736,Wallet,Website
+ORD001737,USSD,Instagram
+ORD001738,Wallet,Website
+ORD001739,Unknown,Instagram
+ORD001740,Wallet,Store
+ORD001741,Cash on Delivery,Store
+ORD001742,CARD,Instagram
+ORD001743,Wallet,Website
+ORD001744,USSD,mobile app
+ORD001745,Bank Transfer,website
+ORD001746,Wallet,Unknown
+ORD001747,Wallet,Instagram
+ORD001748,Card,Instagram
+ORD001749,Unknown,Instagram
+ORD001750,USSD,Store
+ORD001751,Card,Mobile App
+ORD001752,Wallet,Mobile App
+ORD001753,Card,Marketplace
+ORD001754,Card,Mobile App
+ORD001755,CARD,Mobile App
+ORD001756,bank transfer,Store
+ORD001757,Bank Transfer,Website
+ORD001758,CARD,Store
+ORD001759,Cash on Delivery,Marketplace
+ORD001760,USSD,Marketplace
+ORD001761,Card,Marketplace
+ORD001762,Bank Transfer,mobile app
+ORD001763,Card,Instagram
+ORD001764,Unknown,Store
+ORD001765,Card,Mobile App
+ORD001766,Card,Marketplace
+ORD001767,Card,Store
+ORD001768,Card,website
+ORD001769,CARD,website
+ORD001770,Cash on Delivery,Instagram
+ORD001771,Cash on Delivery,Mobile App
+ORD001772,Cash on Delivery,Store
+ORD001773,CARD,Website
+ORD001774,Bank Transfer,Marketplace
+ORD001775,USSD,Website
+ORD001776,Wallet,Website
+ORD001777,Cash on Delivery,Website
+ORD001778,Card,Website
+ORD001779,bank transfer,Store
+ORD001780,USSD,Mobile App
+ORD001781,Card,website
+ORD001782,USSD,Store
+ORD001783,USSD,Instagram
+ORD001784,Unknown,Unknown
+ORD001785,bank transfer,Marketplace
+ORD001786,Wallet,Website
+ORD001787,CARD,website
+ORD001788,Card,Website
+ORD001789,bank transfer,Instagram
+ORD001790,Card,Mobile App
+ORD001791,Card,Marketplace
+ORD001792,CARD,Unknown
+ORD001793,Card,Instagram
+ORD001794,Wallet,Mobile App
+ORD001795,USSD,Store
+ORD001796,USSD,Website
+ORD001797,CARD,website
+ORD001798,Card,Store
+ORD001799,Unknown,Store
+ORD001800,Unknown,Mobile App
+ORD001801,Cash on Delivery,Store
+ORD001802,Wallet,Marketplace
+ORD001803,Bank Transfer,Marketplace
+ORD001804,Cash on Delivery,Mobile App
+ORD001805,USSD,Website
+ORD001806,Card,Website
+ORD001807,Card,Marketplace
+ORD001808,Cash on Delivery,Website
+ORD001809,Card,Unknown
+ORD001810,CARD,Unknown
+ORD001811,Card,Website
+ORD001812,Unknown,Instagram
+ORD001813,Bank Transfer,website
+ORD001814,Card,Website
+ORD001815,Cash on Delivery,Website
+ORD001816,Cash on Delivery,Website
+ORD001817,Card,Store
+ORD001818,CARD,Marketplace
+ORD001819,Card,Website
+ORD001820,Bank Transfer,Unknown
+ORD001821,Cash on Delivery,Marketplace
+ORD001822,Cash on Delivery,Mobile App
+ORD001823,USSD,Instagram
+ORD001824,Cash on Delivery,Instagram
+ORD001825,Bank Transfer,Mobile App
+ORD001826,CARD,Store
+ORD001827,Bank Transfer,Website
+ORD001828,Bank Transfer,Website
+ORD001829,bank transfer,website
+ORD001830,Card,Store
+ORD001831,Cash on Delivery,Mobile App
+ORD001832,USSD,website
+ORD001833,CARD,Unknown
+ORD001834,Cash on Delivery,Marketplace
+ORD001835,CARD,Marketplace
+ORD001836,Card,Mobile App
+ORD001837,Wallet,Mobile App
+ORD001838,Card,Unknown
+ORD001839,Unknown,Marketplace
+ORD001840,CARD,Mobile App
+ORD001841,Bank Transfer,Website
+ORD001842,USSD,Store
+ORD001843,CARD,mobile app
+ORD001844,USSD,Unknown
+ORD001845,USSD,Marketplace
+ORD001846,Cash on Delivery,Unknown
+ORD001847,Wallet,Mobile App
+ORD001848,Cash on Delivery,Website
+ORD001849,Bank Transfer,Website
+ORD001850,Bank Transfer,Mobile App
+ORD001851,Cash on Delivery,Unknown
+ORD001852,Wallet,Mobile App
+ORD001853,CARD,Website
+ORD001854,Bank Transfer,Instagram
+ORD001855,Cash on Delivery,Marketplace
+ORD001856,Cash on Delivery,website
+ORD001857,Cash on Delivery,mobile app
+ORD001858,Cash on Delivery,Mobile App
+ORD001859,Cash on Delivery,Instagram
+ORD001860,Card,Website
+ORD001861,CARD,mobile app
+ORD001862,Wallet,Store
+ORD001863,Cash on Delivery,Website
+ORD001864,Unknown,Unknown
+ORD001865,USSD,Instagram
+ORD001866,Cash on Delivery,Website
+ORD001867,Wallet,Store
+ORD001868,Cash on Delivery,Instagram
+ORD001869,bank transfer,Website
+ORD001870,bank transfer,Store
+ORD001871,bank transfer,Website
+ORD001872,Cash on Delivery,Marketplace
+ORD001873,Unknown,Website
+ORD001874,Cash on Delivery,Store
+ORD001875,Bank Transfer,Website
+ORD001876,Card,Mobile App
+ORD001877,bank transfer,website
+ORD001878,Cash on Delivery,Marketplace
+ORD001879,Card,Website
+ORD001880,Cash on Delivery,Unknown
+ORD001881,CARD,Website
+ORD001882,Wallet,Mobile App
+ORD001883,bank transfer,Store
+ORD001884,Cash on Delivery,Website
+ORD001885,Bank Transfer,mobile app
+ORD001886,Card,Mobile App
+ORD001887,Wallet,Store
+ORD001888,USSD,Marketplace
+ORD001889,Card,Website
+ORD001890,USSD,Website
+ORD001891,Wallet,website
+ORD001892,Cash on Delivery,Unknown
+ORD001893,Wallet,Marketplace
+ORD001894,CARD,Mobile App
+ORD001895,Card,Instagram
+ORD001896,Bank Transfer,Website
+ORD001897,Card,Store
+ORD001898,USSD,website
+ORD001899,CARD,Unknown
+ORD001900,Card,Website
+ORD001901,Card,Store
+ORD001902,USSD,Store
+ORD001903,Cash on Delivery,Store
+ORD001904,CARD,Mobile App
+ORD001905,Unknown,Website
+ORD001906,CARD,Store
+ORD001907,Bank Transfer,Website
+ORD001908,USSD,Marketplace
+ORD001909,Bank Transfer,website
+ORD001910,Wallet,Store
+ORD001911,USSD,Website
+ORD001912,Unknown,Website
+ORD001913,USSD,Website
+ORD001914,Card,Marketplace
+ORD001915,Cash on Delivery,Marketplace
+ORD001916,Card,website
+ORD001917,USSD,Mobile App
+ORD001918,Cash on Delivery,website
+ORD001919,Bank Transfer,Website
+ORD001920,Card,Mobile App
+ORD001921,bank transfer,Marketplace
+ORD001922,USSD,Marketplace
+ORD001923,Unknown,Marketplace
+ORD001924,Cash on Delivery,Instagram
+ORD001925,Cash on Delivery,Mobile App
+ORD001926,Card,Unknown
+ORD001927,Unknown,Mobile App
+ORD001928,Cash on Delivery,Instagram
+ORD001929,Cash on Delivery,Instagram
+ORD001930,Cash on Delivery,Mobile App
+ORD001931,CARD,Store
+ORD001932,CARD,website
+ORD001933,Bank Transfer,Instagram
+ORD001934,USSD,Store
+ORD001935,Cash on Delivery,Website
+ORD001936,Cash on Delivery,website
+ORD001937,Cash on Delivery,Unknown
+ORD001938,Cash on Delivery,Mobile App
+ORD001939,USSD,Marketplace
+ORD001940,USSD,Unknown
+ORD001941,Card,Mobile App
+ORD001942,USSD,Unknown
+ORD001943,Wallet,mobile app
+ORD001944,CARD,Unknown
+ORD001945,Unknown,Store
+ORD001946,bank transfer,Unknown
+ORD001947,Wallet,Mobile App
+ORD001948,Bank Transfer,website
+ORD001949,Cash on Delivery,Website
+ORD001950,Card,Mobile App
+ORD001951,Card,Instagram
+ORD001952,bank transfer,Website
+ORD001953,Card,Website
+ORD001954,Unknown,Instagram
+ORD001955,Card,Instagram
+ORD001956,CARD,Website
+ORD001957,Wallet,Mobile App
+ORD001958,Wallet,Instagram
+ORD001959,USSD,website
+ORD001960,Card,mobile app
+ORD001961,USSD,Marketplace
+ORD001962,Wallet,Website
+ORD001963,Unknown,Instagram
+ORD001964,USSD,Instagram
+ORD001965,Wallet,Store
+ORD001966,USSD,Marketplace
+ORD001967,Bank Transfer,Unknown
+ORD001968,bank transfer,Website
+ORD001969,Cash on Delivery,Unknown
+ORD001970,USSD,Website
+ORD001971,Wallet,Website
+ORD001972,USSD,Website
+ORD001973,Wallet,Store
+ORD001974,Unknown,Store
+ORD001975,Cash on Delivery,mobile app
+ORD001976,Card,mobile app
+ORD001977,CARD,Store
+ORD001978,Bank Transfer,Website
+ORD001979,Wallet,Instagram
+ORD001980,Bank Transfer,Marketplace
+ORD001981,Card,Marketplace
+ORD001982,Cash on Delivery,mobile app
+ORD001983,CARD,mobile app
+ORD001984,Bank Transfer,Instagram
+ORD001985,Wallet,Instagram
+ORD001986,Card,Website
+ORD001987,Cash on Delivery,Website
+ORD001988,Card,mobile app
+ORD001989,Bank Transfer,Marketplace
+ORD001990,Unknown,Store
+ORD001991,Bank Transfer,Website
+ORD001992,Bank Transfer,Mobile App
+ORD001993,Wallet,Store
+ORD001994,Wallet,website
+ORD001995,bank transfer,Website
+ORD001996,Card,Mobile App
+ORD001997,Card,mobile app
+ORD001998,Bank Transfer,Instagram
+ORD001999,bank transfer,Unknown
+ORD002000,Unknown,Unknown
+ORD002001,Bank Transfer,Website
+ORD002002,CARD,Marketplace
+ORD002003,USSD,Marketplace
+ORD002004,Bank Transfer,Unknown
+ORD002005,Bank Transfer,Instagram
+ORD002006,Card,Store
+ORD002007,Card,Unknown
+ORD002008,Bank Transfer,Website
+ORD002009,Cash on Delivery,Store
+ORD002010,Card,Marketplace
+ORD002011,Bank Transfer,Website
+ORD002012,Card,Store
+ORD002013,Cash on Delivery,Store
+ORD002014,CARD,Mobile App
+ORD002015,Wallet,mobile app
+ORD002016,Bank Transfer,Store
+ORD002017,Wallet,Instagram
+ORD002018,Cash on Delivery,Marketplace
+ORD002019,USSD,Mobile App
+ORD002020,Wallet,Unknown
+ORD002021,CARD,Marketplace
+ORD002022,Bank Transfer,Store
+ORD002023,Card,Website
+ORD002024,Wallet,Website
+ORD002025,Unknown,Mobile App
+ORD002026,USSD,Mobile App
+ORD002027,Unknown,website
+ORD002028,USSD,Website
+ORD002029,bank transfer,Website
+ORD002030,Card,Website
+ORD002031,Card,Instagram
+ORD002032,Bank Transfer,Website
+ORD002033,Cash on Delivery,Store
+ORD002034,Bank Transfer,Instagram
+ORD002035,Cash on Delivery,Marketplace
+ORD002036,Card,Store
+ORD002037,USSD,Marketplace
+ORD002038,USSD,Mobile App
+ORD002039,bank transfer,Store
+ORD002040,Cash on Delivery,Mobile App
+ORD002041,Cash on Delivery,Instagram
+ORD002042,Card,Instagram
+ORD002043,USSD,Store
+ORD002044,Card,website
+ORD002045,Unknown,Marketplace
+ORD002046,USSD,Website
+ORD002047,USSD,website
+ORD002048,USSD,Marketplace
+ORD002049,bank transfer,Website
+ORD002050,bank transfer,Website
+ORD002051,Bank Transfer,mobile app
+ORD002052,Bank Transfer,Website
+ORD002053,USSD,Marketplace
+ORD002054,Bank Transfer,Website
+ORD002055,Unknown,Instagram
+ORD002056,CARD,Website
+ORD002057,Card,Mobile App
+ORD002058,Bank Transfer,Marketplace
+ORD002059,CARD,Mobile App
+ORD002060,Cash on Delivery,Website
+ORD002061,Cash on Delivery,Unknown
+ORD002062,USSD,Marketplace
+ORD002063,Bank Transfer,Marketplace
+ORD002064,Cash on Delivery,Marketplace
+ORD002065,CARD,Store
+ORD002066,Bank Transfer,Marketplace
+ORD002067,Wallet,Store
+ORD002068,Wallet,Store
+ORD002069,bank transfer,Website
+ORD002070,Card,Instagram
+ORD002071,Wallet,Website
+ORD002072,Wallet,website
+ORD002073,USSD,mobile app
+ORD002074,Cash on Delivery,Mobile App
+ORD002075,USSD,website
+ORD002076,Bank Transfer,Instagram
+ORD002077,Cash on Delivery,mobile app
+ORD002078,Card,Mobile App
+ORD002079,Card,mobile app
+ORD002080,Card,Marketplace
+ORD002081,Cash on Delivery,Marketplace
+ORD002082,Cash on Delivery,Marketplace
+ORD002083,Wallet,Marketplace
+ORD002084,Wallet,Instagram
+ORD002085,USSD,Store
+ORD002086,Cash on Delivery,Website
+ORD002087,CARD,Mobile App
+ORD002088,USSD,Marketplace
+ORD002089,Card,Store
+ORD002090,USSD,Marketplace
+ORD002091,Card,Mobile App
+ORD002092,USSD,Store
+ORD002093,Cash on Delivery,Unknown
+ORD002094,Cash on Delivery,Instagram
+ORD002095,Cash on Delivery,website
+ORD002096,Cash on Delivery,Mobile App
+ORD002097,Unknown,Store
+ORD002098,Unknown,Website
+ORD002099,Cash on Delivery,Store
+ORD002100,Cash on Delivery,mobile app
+ORD002101,Card,Store
+ORD002102,Cash on Delivery,Website
+ORD002103,Bank Transfer,Marketplace
+ORD002104,Bank Transfer,Mobile App
+ORD002105,Bank Transfer,website
+ORD002106,Unknown,Instagram
+ORD002107,USSD,Instagram
+ORD002108,Card,Unknown
+ORD002109,bank transfer,Instagram
+ORD002110,Wallet,Marketplace
+ORD002111,Bank Transfer,Unknown
+ORD002112,Bank Transfer,Marketplace
+ORD002113,Wallet,Website
+ORD002114,USSD,Mobile App
+ORD002115,CARD,Marketplace
+ORD002116,bank transfer,Unknown
+ORD002117,Wallet,Website
+ORD002118,Bank Transfer,Store
+ORD002119,Card,Instagram
+ORD002120,USSD,Store
+ORD002121,Cash on Delivery,Website
+ORD002122,Wallet,Unknown
+ORD002123,Card,Marketplace
+ORD002124,Cash on Delivery,Store
+ORD002125,Bank Transfer,Marketplace
+ORD002126,bank transfer,Store
+ORD002127,Cash on Delivery,Marketplace
+ORD002128,bank transfer,Mobile App
+ORD002129,CARD,Website
+ORD002130,Wallet,Instagram
+ORD002131,Card,Unknown
+ORD002132,Card,Marketplace
+ORD002133,Unknown,Instagram
+ORD002134,USSD,Store
+ORD002135,USSD,Instagram
+ORD002136,Card,Website
+ORD002137,bank transfer,website
+ORD002138,Wallet,Store
+ORD002139,Card,website
+ORD002140,Cash on Delivery,Marketplace
+ORD002141,USSD,Website
+ORD002142,Card,Instagram
+ORD002143,Wallet,Instagram
+ORD002144,bank transfer,Store
+ORD002145,USSD,Mobile App
+ORD002146,Cash on Delivery,Unknown
+ORD002147,bank transfer,Website
+ORD002148,USSD,Marketplace
+ORD002149,Card,Unknown
+ORD002150,Wallet,Website
+ORD002151,Card,Marketplace
+ORD002152,Card,Instagram
+ORD002153,Wallet,Mobile App
+ORD002154,Unknown,Mobile App
+ORD002155,Card,Unknown
+ORD002156,Wallet,Unknown
+ORD002157,USSD,Mobile App
+ORD002158,bank transfer,Marketplace
+ORD002159,Unknown,Mobile App
+ORD002160,Card,Mobile App
+ORD002161,USSD,Store
+ORD002162,Cash on Delivery,Mobile App
+ORD002163,USSD,Mobile App
+ORD002164,Bank Transfer,Unknown
+ORD002165,Wallet,Mobile App
+ORD002166,USSD,Store
+ORD002167,CARD,Marketplace
+ORD002168,Card,Website
+ORD002169,Bank Transfer,website
+ORD002170,USSD,Mobile App
+ORD002171,Bank Transfer,Unknown
+ORD002172,Bank Transfer,Store
+ORD002173,Bank Transfer,Instagram
+ORD002174,USSD,Mobile App
+ORD002175,CARD,Store
+ORD002176,Cash on Delivery,Website
+ORD002177,Bank Transfer,Instagram
+ORD002178,CARD,Store
+ORD002179,Cash on Delivery,Instagram
+ORD002180,Bank Transfer,Mobile App
+ORD002181,Bank Transfer,Store
+ORD002182,Bank Transfer,website
+ORD002183,Wallet,Website
+ORD002184,Bank Transfer,Marketplace
+ORD002185,Wallet,Mobile App
+ORD002186,Bank Transfer,Unknown
+ORD002187,Unknown,Store
+ORD002188,CARD,Unknown
+ORD002189,Cash on Delivery,Marketplace
+ORD002190,Bank Transfer,Unknown
+ORD002191,CARD,Mobile App
+ORD002192,Unknown,Marketplace
+ORD002193,Card,mobile app
+ORD002194,Card,Instagram
+ORD002195,Wallet,Unknown
+ORD002196,Unknown,Store
+ORD002197,USSD,Website
+ORD002198,USSD,Store
+ORD002199,Cash on Delivery,Unknown
+ORD002200,Bank Transfer,website
+ORD002201,Unknown,Marketplace
+ORD002202,Card,Website
+ORD002203,Wallet,website
+ORD002204,Card,website
+ORD002205,Unknown,mobile app
+ORD002206,Wallet,Website
+ORD002207,Card,Store
+ORD002208,USSD,Mobile App
+ORD002209,Bank Transfer,Instagram
+ORD002210,Card,Instagram
+ORD002211,Wallet,Store
+ORD002212,Bank Transfer,Instagram
+ORD002213,Cash on Delivery,Mobile App
+ORD002214,CARD,Instagram
+ORD002215,Unknown,Mobile App
+ORD002216,Card,Store
+ORD002217,Wallet,Marketplace
+ORD002218,Cash on Delivery,mobile app
+ORD002219,bank transfer,Store
+ORD002220,USSD,Website
+ORD002221,Bank Transfer,Mobile App
+ORD002222,Bank Transfer,Marketplace
+ORD002223,bank transfer,Instagram
+ORD002224,Bank Transfer,Website
+ORD002225,Unknown,Store
+ORD002226,USSD,Mobile App
+ORD002227,Cash on Delivery,Instagram
+ORD002228,Bank Transfer,Website
+ORD002229,USSD,Unknown
+ORD002230,Card,Website
+ORD002231,Wallet,Mobile App
+ORD002232,CARD,Unknown
+ORD002233,USSD,Marketplace
+ORD002234,Wallet,Store
+ORD002235,Bank Transfer,Website
+ORD002236,Card,Website
+ORD002237,Card,Mobile App
+ORD002238,Bank Transfer,Unknown
+ORD002239,Wallet,Unknown
+ORD002240,Unknown,Store
+ORD002241,USSD,Instagram
+ORD002242,Bank Transfer,Instagram
+ORD002243,Bank Transfer,Mobile App
+ORD002244,Unknown,Website
+ORD002245,Card,Website
+ORD002246,Card,Mobile App
+ORD002247,Cash on Delivery,Marketplace
+ORD002248,Cash on Delivery,Mobile App
+ORD002249,Wallet,Website
+ORD002250,Cash on Delivery,Unknown
+ORD002251,Card,Instagram
+ORD002252,USSD,Instagram
+ORD002253,Card,Store
+ORD002254,bank transfer,Website
+ORD002255,Cash on Delivery,Store
+ORD002256,Unknown,Mobile App
+ORD002257,USSD,Website
+ORD002258,CARD,Marketplace
+ORD002259,Bank Transfer,Instagram
+ORD002260,USSD,Mobile App
+ORD002261,Unknown,website
+ORD002262,Cash on Delivery,Store
+ORD002263,Card,mobile app
+ORD002264,Cash on Delivery,Website
+ORD002265,Bank Transfer,Marketplace
+ORD002266,Cash on Delivery,Store
+ORD002267,CARD,Store
+ORD002268,Card,website
+ORD002269,Bank Transfer,Instagram
+ORD002270,Card,Unknown
+ORD002271,Card,Website
+ORD002272,Bank Transfer,website
+ORD002273,bank transfer,Website
+ORD002274,Cash on Delivery,Store
+ORD002275,CARD,Store
+ORD002276,USSD,mobile app
+ORD002277,USSD,Store
+ORD002278,Cash on Delivery,Store
+ORD002279,Bank Transfer,Store
+ORD002280,Cash on Delivery,Website
+ORD002281,bank transfer,Store
+ORD002282,Card,Store
+ORD002283,USSD,website
+ORD002284,bank transfer,mobile app
+ORD002285,Cash on Delivery,Website
+ORD002286,USSD,Marketplace
+ORD002287,Cash on Delivery,Website
+ORD002288,Cash on Delivery,Store
+ORD002289,Card,Instagram
+ORD002290,Bank Transfer,website
+ORD002291,Bank Transfer,Store
+ORD002292,Bank Transfer,mobile app
+ORD002293,Bank Transfer,Marketplace
+ORD002294,Cash on Delivery,mobile app
+ORD002295,Cash on Delivery,Marketplace
+ORD002296,Unknown,Unknown
+ORD002297,USSD,Unknown
+ORD002298,Cash on Delivery,Website
+ORD002299,Card,Instagram
+ORD002300,Wallet,Website
+ORD002301,Cash on Delivery,Instagram
+ORD002302,USSD,Website
+ORD002303,Cash on Delivery,Instagram
+ORD002304,USSD,website
+ORD002305,Bank Transfer,Mobile App
+ORD002306,Wallet,Marketplace
+ORD002307,Bank Transfer,Instagram
+ORD002308,Cash on Delivery,Website
+ORD002309,Bank Transfer,Mobile App
+ORD002310,Card,Mobile App
+ORD002311,Bank Transfer,Mobile App
+ORD002312,Card,Marketplace
+ORD002313,CARD,Mobile App
+ORD002314,Wallet,Store
+ORD002315,CARD,Store
+ORD002316,bank transfer,Store
+ORD002317,bank transfer,Marketplace
+ORD002318,Bank Transfer,Website
+ORD002319,Wallet,Marketplace
+ORD002320,Cash on Delivery,Website
+ORD002321,bank transfer,website
+ORD002322,Cash on Delivery,Mobile App
+ORD002323,CARD,Mobile App
+ORD002324,Bank Transfer,Store
+ORD002325,Unknown,Store
+ORD002326,USSD,Marketplace
+ORD002327,Cash on Delivery,Instagram
+ORD002328,USSD,Instagram
+ORD002329,bank transfer,website
+ORD002330,Card,Marketplace
+ORD002331,Card,mobile app
+ORD002332,Card,Mobile App
+ORD002333,USSD,Store
+ORD002334,CARD,Instagram
+ORD002335,Card,Mobile App
+ORD002336,USSD,Unknown
+ORD002337,CARD,Store
+ORD002338,USSD,Store
+ORD002339,CARD,Instagram
+ORD002340,Cash on Delivery,Website
+ORD002341,USSD,Mobile App
+ORD002342,Wallet,Instagram
+ORD002343,USSD,Website
+ORD002344,Bank Transfer,Store
+ORD002345,Unknown,Marketplace
+ORD002346,USSD,website
+ORD002347,Bank Transfer,website
+ORD002348,CARD,Store
+ORD002349,bank transfer,mobile app
+ORD002350,Card,Website
+ORD002351,Cash on Delivery,Store
+ORD002352,Bank Transfer,website
+ORD002353,Bank Transfer,Website
+ORD002354,Cash on Delivery,Store
+ORD002355,Cash on Delivery,website
+ORD002356,USSD,Unknown
+ORD002357,CARD,Instagram
+ORD002358,Unknown,Mobile App
+ORD002359,bank transfer,Instagram
+ORD002360,USSD,Website
+ORD002361,Unknown,Instagram
+ORD002362,Card,Website
+ORD002363,Cash on Delivery,website
+ORD002364,USSD,Instagram
+ORD002365,Card,Website
+ORD002366,USSD,Instagram
+ORD002367,Card,Instagram
+ORD002368,bank transfer,Marketplace
+ORD002369,Cash on Delivery,Marketplace
+ORD002370,Cash on Delivery,Mobile App
+ORD002371,CARD,Mobile App
+ORD002372,Card,Website
+ORD002373,Bank Transfer,Store
+ORD002374,Wallet,Store
+ORD002375,Cash on Delivery,website
+ORD002376,Wallet,website
+ORD002377,Card,Store
+ORD002378,Bank Transfer,Website
+ORD002379,CARD,Marketplace
+ORD002380,USSD,Website
+ORD002381,Unknown,website
+ORD002382,CARD,Instagram
+ORD002383,Unknown,Website
+ORD002384,Card,Instagram
+ORD002385,Card,Website
+ORD002386,Unknown,Marketplace
+ORD002387,Cash on Delivery,Mobile App
+ORD002388,Cash on Delivery,Mobile App
+ORD002389,USSD,Website
+ORD002390,bank transfer,Mobile App
+ORD002391,USSD,mobile app
+ORD002392,Card,Unknown
+ORD002393,USSD,Instagram
+ORD002394,Card,Store
+ORD002395,bank transfer,Instagram
+ORD002396,Cash on Delivery,Unknown
+ORD002397,USSD,Website
+ORD002398,Bank Transfer,Website
+ORD002399,Cash on Delivery,Website
+ORD002400,USSD,Mobile App
+ORD002401,bank transfer,Store
+ORD002402,bank transfer,Website
+ORD002403,CARD,Mobile App
+ORD002404,Wallet,Mobile App
+ORD002405,Wallet,Mobile App
+ORD002406,Bank Transfer,Website
+ORD002407,Card,Store
+ORD002408,Cash on Delivery,Website
+ORD002409,Cash on Delivery,Website
+ORD002410,Cash on Delivery,Unknown
+ORD002411,Wallet,Unknown
+ORD002412,Card,Store
+ORD002413,USSD,Marketplace
+ORD002414,Wallet,Website
+ORD002415,USSD,Marketplace
+ORD002416,Card,Website
+ORD002417,Cash on Delivery,Mobile App
+ORD002418,Bank Transfer,Mobile App
+ORD002419,Unknown,Mobile App
+ORD002420,Bank Transfer,Mobile App
+ORD002421,Wallet,Store
+ORD002422,Cash on Delivery,Store
+ORD002423,Card,Website
+ORD002424,Cash on Delivery,Website
+ORD002425,Bank Transfer,Store
+ORD002426,Wallet,Store
+ORD002427,Cash on Delivery,Store
+ORD002428,Card,Marketplace
+ORD002429,Card,Mobile App
+ORD002430,USSD,Marketplace
+ORD002431,Bank Transfer,Website
+ORD002432,USSD,Store
+ORD002433,Card,Store
+ORD002434,Bank Transfer,Store
+ORD002435,Cash on Delivery,Marketplace
+ORD002436,Card,Marketplace
+ORD002437,Unknown,Mobile App
+ORD002438,Card,Marketplace
+ORD002439,CARD,Store
+ORD002440,USSD,Instagram
+ORD002441,Unknown,Marketplace
+ORD002442,Cash on Delivery,website
+ORD002443,Cash on Delivery,Marketplace
+ORD002444,Cash on Delivery,Instagram
+ORD002445,USSD,Mobile App
+ORD002446,Bank Transfer,Store
+ORD002447,USSD,Marketplace
+ORD002448,Unknown,Marketplace
+ORD002449,Card,Unknown
+ORD002450,Unknown,Website
+ORD002451,Unknown,Store
+ORD002452,Wallet,Marketplace
+ORD002453,Card,Mobile App
+ORD002454,CARD,Unknown
+ORD002455,Wallet,mobile app
+ORD002456,Bank Transfer,Mobile App
+ORD002457,CARD,Website
+ORD002458,Unknown,mobile app
+ORD002459,Cash on Delivery,Mobile App
+ORD002460,Cash on Delivery,Unknown
+ORD002461,CARD,Website
+ORD002462,USSD,Store
+ORD002463,Cash on Delivery,Unknown
+ORD002464,Cash on Delivery,Instagram
+ORD002465,Card,Website
+ORD002466,Wallet,Store
+ORD002467,USSD,Mobile App
+ORD002468,USSD,Mobile App
+ORD002469,USSD,mobile app
+ORD002470,Wallet,Instagram
+ORD002471,Unknown,Instagram
+ORD002472,Cash on Delivery,Instagram
+ORD002473,Card,Instagram
+ORD002474,Card,Website
+ORD002475,Card,Instagram
+ORD002476,Cash on Delivery,Store
+ORD002477,Unknown,Website
+ORD002478,Wallet,mobile app
+ORD002479,USSD,Unknown
+ORD002480,Unknown,Website
+ORD002481,Card,Marketplace
+ORD002482,Card,Instagram
+ORD002483,Card,Mobile App
+ORD002484,USSD,Instagram
+ORD002485,bank transfer,Instagram
+ORD002486,Bank Transfer,mobile app
+ORD002487,Card,Marketplace
+ORD002488,Bank Transfer,Website
+ORD002489,CARD,Store
+ORD002490,Bank Transfer,Unknown
+ORD002491,CARD,Marketplace
+ORD002492,CARD,mobile app
+ORD002493,Cash on Delivery,Website
+ORD002494,Cash on Delivery,mobile app
+ORD002495,bank transfer,Marketplace
+ORD002496,USSD,mobile app
+ORD002497,Cash on Delivery,Unknown
+ORD002498,Cash on Delivery,Store
+ORD002499,USSD,website
+ORD002500,Wallet,website
+ORD002501,Unknown,Mobile App
+ORD002502,Unknown,mobile app
+ORD002503,bank transfer,Mobile App
+ORD002504,Cash on Delivery,Website
+ORD002505,Card,Website
+ORD002506,Bank Transfer,Instagram
+ORD002507,Cash on Delivery,Mobile App
+ORD002508,Bank Transfer,Unknown
+ORD002509,Bank Transfer,Instagram
+ORD002510,Cash on Delivery,Marketplace
+ORD002511,Bank Transfer,Marketplace
+ORD002512,Cash on Delivery,mobile app
+ORD002513,CARD,mobile app
+ORD002514,Card,Marketplace
+ORD002515,Unknown,Marketplace
+ORD002516,Card,Instagram
+ORD002517,CARD,mobile app
+ORD002518,Card,Store
+ORD002519,Wallet,website
+ORD002520,Wallet,website
+ORD002521,Cash on Delivery,Instagram
+ORD002522,Cash on Delivery,Marketplace
+ORD002523,Cash on Delivery,Marketplace
+ORD002524,Cash on Delivery,Website
+ORD002525,Unknown,website
+ORD002526,Wallet,Mobile App
+ORD002527,bank transfer,Store
+ORD002528,Cash on Delivery,Marketplace
+ORD002529,USSD,website
+ORD002530,Wallet,Mobile App
+ORD002531,USSD,Website
+ORD002532,bank transfer,Store
+ORD002533,bank transfer,Store
+ORD002534,bank transfer,Mobile App
+ORD002535,Cash on Delivery,Marketplace
+ORD002536,USSD,Store
+ORD002537,Bank Transfer,Mobile App
+ORD002538,USSD,Website
+ORD002539,USSD,Mobile App
+ORD002540,Wallet,Mobile App
+ORD002541,USSD,Mobile App
+ORD002542,Cash on Delivery,Instagram
+ORD002543,Unknown,Mobile App
+ORD002544,Bank Transfer,Instagram
+ORD002545,Unknown,Instagram
+ORD002546,Card,Instagram
+ORD002547,Unknown,Unknown
+ORD002548,Bank Transfer,Store
+ORD002549,Cash on Delivery,Mobile App
+ORD002550,Wallet,Marketplace
+ORD002551,Cash on Delivery,Website
+ORD002552,Unknown,Unknown
+ORD002553,Card,Unknown
+ORD002554,Cash on Delivery,Mobile App
+ORD002555,bank transfer,Instagram
+ORD002556,Unknown,Store
+ORD002557,Card,Website
+ORD002558,Cash on Delivery,Marketplace
+ORD002559,Cash on Delivery,Website
+ORD002560,Cash on Delivery,Unknown
+ORD002561,Bank Transfer,Mobile App
+ORD002562,Wallet,Website
+ORD002563,Bank Transfer,Website
+ORD002564,USSD,Instagram
+ORD002565,USSD,Unknown
+ORD002566,Bank Transfer,Marketplace
+ORD002567,Bank Transfer,Website
+ORD002568,Card,Website
+ORD002569,Cash on Delivery,Instagram
+ORD002570,Card,Marketplace
+ORD002571,Card,Website
+ORD002572,Card,Marketplace
+ORD002573,Bank Transfer,Marketplace
+ORD002574,Cash on Delivery,Marketplace
+ORD002575,Unknown,Website
+ORD002576,Wallet,mobile app
+ORD002577,Cash on Delivery,Mobile App
+ORD002578,USSD,website
+ORD002579,Cash on Delivery,website
+ORD002580,Bank Transfer,Store
+ORD002581,Card,Website
+ORD002582,Cash on Delivery,Marketplace
+ORD002583,USSD,Store
+ORD002584,Wallet,Mobile App
+ORD002585,Cash on Delivery,Mobile App
+ORD002586,USSD,website
+ORD002587,USSD,Marketplace
+ORD002588,Card,Instagram
+ORD002589,USSD,Mobile App
+ORD002590,USSD,Marketplace
+ORD002591,Cash on Delivery,Mobile App
+ORD002592,USSD,Website
+ORD002593,USSD,Instagram
+ORD002594,Unknown,Instagram
+ORD002595,Cash on Delivery,Marketplace
+ORD002596,Unknown,Website
+ORD002597,Cash on Delivery,Mobile App
+ORD002598,Wallet,Mobile App
+ORD002599,Cash on Delivery,Website
+ORD002600,Wallet,Instagram
+ORD002601,bank transfer,Instagram
+ORD002602,Cash on Delivery,Marketplace
+ORD002603,Bank Transfer,Website
+ORD002604,Cash on Delivery,Unknown
+ORD002605,bank transfer,Marketplace
+ORD002606,Bank Transfer,Mobile App
+ORD002607,CARD,Mobile App
+ORD002608,CARD,Mobile App
+ORD002609,Unknown,Mobile App
+ORD002610,Cash on Delivery,Website
+ORD002611,Cash on Delivery,Instagram
+ORD002612,bank transfer,website
+ORD002613,Wallet,Store
+ORD002614,bank transfer,Marketplace
+ORD002615,Unknown,Website
+ORD002616,USSD,Store
+ORD002617,Unknown,website
+ORD002618,Bank Transfer,website
+ORD002619,Cash on Delivery,Mobile App
+ORD002620,Cash on Delivery,Mobile App
+ORD002621,Card,Store
+ORD002622,USSD,Store
+ORD002623,Bank Transfer,Website
+ORD002624,Bank Transfer,Website
+ORD002625,CARD,Store
+ORD002626,Cash on Delivery,Unknown
+ORD002627,USSD,Unknown
+ORD002628,Bank Transfer,Instagram
+ORD002629,Unknown,Marketplace
+ORD002630,Cash on Delivery,Instagram
+ORD002631,Bank Transfer,Mobile App
+ORD002632,CARD,mobile app
+ORD002633,Cash on Delivery,mobile app
+ORD002634,USSD,Unknown
+ORD002635,Card,Website
+ORD002636,USSD,Mobile App
+ORD002637,Card,Instagram
+ORD002638,CARD,Store
+ORD002639,bank transfer,Unknown
+ORD002640,Card,Website
+ORD002641,bank transfer,Store
+ORD002642,USSD,Website
+ORD002643,Wallet,Unknown
+ORD002644,Card,Website
+ORD002645,Cash on Delivery,Instagram
+ORD002646,CARD,mobile app
+ORD002647,Bank Transfer,Mobile App
+ORD002648,USSD,Mobile App
+ORD002649,bank transfer,Marketplace
+ORD002650,Card,Marketplace
+ORD002651,bank transfer,Store
+ORD002652,Cash on Delivery,website
+ORD002653,Bank Transfer,Website
+ORD002654,USSD,Unknown
+ORD002655,Cash on Delivery,Mobile App
+ORD002656,Bank Transfer,Unknown
+ORD002657,Card,Website
+ORD002658,Cash on Delivery,Unknown
+ORD002659,Wallet,Marketplace
+ORD002660,Unknown,Mobile App
+ORD002661,USSD,Website
+ORD002662,Unknown,Instagram
+ORD002663,USSD,Website
+ORD002664,Cash on Delivery,Marketplace
+ORD002665,Cash on Delivery,Website
+ORD002666,CARD,Instagram
+ORD002667,Cash on Delivery,Store
+ORD002668,Card,Mobile App
+ORD002669,Wallet,Mobile App
+ORD002670,USSD,website
+ORD002671,Wallet,Marketplace
+ORD002672,Cash on Delivery,Store
+ORD002673,Cash on Delivery,Store
+ORD002674,USSD,website
+ORD002675,Wallet,website
+ORD002676,Card,Marketplace
+ORD002677,Cash on Delivery,Store
+ORD002678,CARD,Store
+ORD002679,Cash on Delivery,Website
+ORD002680,Bank Transfer,Unknown
+ORD002681,bank transfer,website
+ORD002682,USSD,Mobile App
+ORD002683,CARD,Website
+ORD002684,Cash on Delivery,Website
+ORD002685,Bank Transfer,Store
+ORD002686,USSD,Marketplace
+ORD002687,Unknown,Mobile App
+ORD002688,Cash on Delivery,Instagram
+ORD002689,bank transfer,Store
+ORD002690,Unknown,Website
+ORD002691,USSD,Mobile App
+ORD002692,USSD,Website
+ORD002693,Bank Transfer,mobile app
+ORD002694,Unknown,Marketplace
+ORD002695,Card,Store
+ORD002696,Card,mobile app
+ORD002697,Bank Transfer,Website
+ORD002698,Card,Unknown
+ORD002699,Card,Mobile App
+ORD002700,USSD,Marketplace
+ORD002701,USSD,Unknown
+ORD002702,USSD,Marketplace
+ORD002703,Wallet,website
+ORD002704,USSD,mobile app
+ORD002705,Wallet,Website
+ORD002706,Card,Marketplace
+ORD002707,Bank Transfer,website
+ORD002708,USSD,Marketplace
+ORD002709,Cash on Delivery,Unknown
+ORD002710,Cash on Delivery,mobile app
+ORD002711,Unknown,mobile app
+ORD002712,USSD,Website
+ORD002713,USSD,Store
+ORD002714,Card,Unknown
+ORD002715,Bank Transfer,mobile app
+ORD002716,Bank Transfer,mobile app
+ORD002717,Cash on Delivery,Website
+ORD002718,Bank Transfer,Instagram
+ORD002719,bank transfer,Marketplace
+ORD002720,Wallet,Store
+ORD002721,Bank Transfer,Marketplace
+ORD002722,CARD,Instagram
+ORD002723,bank transfer,Website
+ORD002724,Unknown,mobile app
+ORD002725,Card,Store
+ORD002726,Bank Transfer,website
+ORD002727,USSD,Website
+ORD002728,Bank Transfer,Website
+ORD002729,Card,Website
+ORD002730,Cash on Delivery,Store
+ORD002731,Unknown,mobile app
+ORD002732,Cash on Delivery,website
+ORD002733,USSD,Website
+ORD002734,Card,Website
+ORD002735,CARD,Store
+ORD002736,CARD,Marketplace
+ORD002737,Bank Transfer,Store
+ORD002738,Cash on Delivery,Store
+ORD002739,Bank Transfer,Website
+ORD002740,Cash on Delivery,Marketplace
+ORD002741,CARD,Mobile App
+ORD002742,Cash on Delivery,Store
+ORD002743,Unknown,Mobile App
+ORD002744,Card,Store
+ORD002745,Cash on Delivery,Mobile App
+ORD002746,USSD,Instagram
+ORD002747,Cash on Delivery,Marketplace
+ORD002748,Card,Website
+ORD002749,Bank Transfer,Marketplace
+ORD002750,Card,Marketplace
+ORD002751,CARD,Mobile App
+ORD002752,Card,Marketplace
+ORD002753,Bank Transfer,Marketplace
+ORD002754,USSD,Instagram
+ORD002755,USSD,Marketplace
+ORD002756,Bank Transfer,website
+ORD002757,Cash on Delivery,mobile app
+ORD002758,Card,Store
+ORD002759,Wallet,Unknown
+ORD002760,Cash on Delivery,Instagram
+ORD002761,Card,Unknown
+ORD002762,CARD,Store
+ORD002763,Unknown,website
+ORD002764,Unknown,mobile app
+ORD002765,Card,Mobile App
+ORD002766,Unknown,Store
+ORD002767,Card,Instagram
+ORD002768,Card,Store
+ORD002769,Cash on Delivery,Store
+ORD002770,Card,Website
+ORD002771,Cash on Delivery,Marketplace
+ORD002772,Bank Transfer,Instagram
+ORD002773,Cash on Delivery,Website
+ORD002774,Unknown,Mobile App
+ORD002775,Card,website
+ORD002776,Cash on Delivery,Instagram
+ORD002777,CARD,Website
+ORD002778,bank transfer,Mobile App
+ORD002779,Wallet,Website
+ORD002780,USSD,Instagram
+ORD002781,CARD,Unknown
+ORD002782,Bank Transfer,Store
+ORD002783,Card,Instagram
+ORD002784,Card,Website
+ORD002785,Wallet,Website
+ORD002786,Card,Store
+ORD002787,bank transfer,Store
+ORD002788,Wallet,Mobile App
+ORD002789,Cash on Delivery,Website
+ORD002790,Wallet,Website
+ORD002791,Bank Transfer,Unknown
+ORD002792,bank transfer,Instagram
+ORD002793,bank transfer,Marketplace
+ORD002794,bank transfer,Mobile App
+ORD002795,bank transfer,mobile app
+ORD002796,CARD,Website
+ORD002797,Wallet,Instagram
+ORD002798,Card,Store
+ORD002799,Unknown,Unknown
+ORD002800,Wallet,Store
+ORD002801,Cash on Delivery,Store
+ORD002802,Bank Transfer,Mobile App
+ORD002803,CARD,Website
+ORD002804,Card,Unknown
+ORD002805,CARD,Store
+ORD002806,Cash on Delivery,Unknown
+ORD002807,Cash on Delivery,Unknown
+ORD002808,CARD,Mobile App
+ORD002809,Cash on Delivery,Instagram
+ORD002810,Cash on Delivery,Mobile App
+ORD002811,Cash on Delivery,Instagram
+ORD002812,CARD,Website
+ORD002813,Bank Transfer,Instagram
+ORD002814,Bank Transfer,Unknown
+ORD002815,Cash on Delivery,mobile app
+ORD002816,USSD,Store
+ORD002817,USSD,Mobile App
+ORD002818,Card,Store
+ORD002819,Wallet,Mobile App
+ORD002820,CARD,Marketplace
+ORD002821,bank transfer,Marketplace
+ORD002822,Bank Transfer,Store
+ORD002823,Unknown,mobile app
+ORD002824,Cash on Delivery,Marketplace
+ORD002825,USSD,Website
+ORD002826,Card,Unknown
+ORD002827,Cash on Delivery,website
+ORD002828,Wallet,Instagram
+ORD002829,Card,Store
+ORD002830,Bank Transfer,Instagram
+ORD002831,Wallet,Marketplace
+ORD002832,Bank Transfer,Unknown
+ORD002833,bank transfer,Store
+ORD002834,USSD,Marketplace
+ORD002835,Unknown,Mobile App
+ORD002836,Bank Transfer,Marketplace
+ORD002837,Cash on Delivery,Store
+ORD002838,Card,Marketplace
+ORD002839,Wallet,Store
+ORD002840,Card,Unknown
+ORD002841,Wallet,Mobile App
+ORD002842,USSD,website
+ORD002843,Cash on Delivery,Marketplace
+ORD002844,Cash on Delivery,Unknown
+ORD002845,Cash on Delivery,Store
+ORD002846,USSD,Store
+ORD002847,Cash on Delivery,Marketplace
+ORD002848,Cash on Delivery,Website
+ORD002849,Cash on Delivery,Website
+ORD002850,Cash on Delivery,Instagram
+ORD002851,Unknown,Mobile App
+ORD002852,Bank Transfer,Website
+ORD002853,USSD,Website
+ORD002854,Card,Mobile App
+ORD002855,Wallet,Marketplace
+ORD002856,Bank Transfer,Store
+ORD002857,Card,Website
+ORD002858,Bank Transfer,mobile app
+ORD002859,Bank Transfer,Store
+ORD002860,Card,Mobile App
+ORD002861,Wallet,Website
+ORD002862,Card,Mobile App
+ORD002863,Bank Transfer,Mobile App
+ORD002864,Card,Mobile App
+ORD002865,Bank Transfer,Unknown
+ORD002866,Unknown,Marketplace
+ORD002867,Card,Unknown
+ORD002868,Bank Transfer,Store
+ORD002869,Card,Website
+ORD002870,Cash on Delivery,Mobile App
+ORD002871,CARD,Store
+ORD002872,Bank Transfer,Store
+ORD002873,Bank Transfer,Unknown
+ORD002874,Cash on Delivery,Store
+ORD002875,Wallet,Mobile App
+ORD002876,Card,Website
+ORD002877,Wallet,Mobile App
+ORD002878,Bank Transfer,Marketplace
+ORD002879,Unknown,Store
+ORD002880,Card,Store
+ORD002881,Bank Transfer,Website
+ORD002882,bank transfer,Website
+ORD002883,Bank Transfer,Website
+ORD002884,Bank Transfer,Mobile App
+ORD002885,Wallet,Store
+ORD002886,Unknown,Website
+ORD002887,USSD,Mobile App
+ORD002888,Wallet,mobile app
+ORD002889,Wallet,Unknown
+ORD002890,Card,Store
+ORD002891,Cash on Delivery,Marketplace
+ORD002892,USSD,website
+ORD002893,Card,mobile app
+ORD002894,Cash on Delivery,Store
+ORD002895,Cash on Delivery,Store
+ORD002896,Bank Transfer,mobile app
+ORD002897,Cash on Delivery,Website
+ORD002898,Bank Transfer,Website
+ORD002899,Cash on Delivery,Instagram
+ORD002900,Wallet,Marketplace
+ORD002901,Bank Transfer,Mobile App
+ORD002902,USSD,Mobile App
+ORD002903,Bank Transfer,Store
+ORD002904,USSD,Unknown
+ORD002905,Wallet,Store
+ORD002906,Card,Website
+ORD002907,Card,Unknown
+ORD002908,bank transfer,Mobile App
+ORD002909,bank transfer,website
+ORD002910,Unknown,Marketplace
+ORD002911,bank transfer,Store
+ORD002912,Cash on Delivery,mobile app
+ORD002913,USSD,Unknown
+ORD002914,CARD,Mobile App
+ORD002915,USSD,Store
+ORD002916,Cash on Delivery,Store
+ORD002917,Cash on Delivery,Unknown
+ORD002918,CARD,website
+ORD002919,Wallet,Marketplace
+ORD002920,Wallet,Unknown
+ORD002921,Card,Mobile App
+ORD002922,Wallet,Marketplace
+ORD002923,Cash on Delivery,Mobile App
+ORD002924,Card,Store
+ORD002925,Cash on Delivery,Marketplace
+ORD002926,USSD,website
+ORD002927,Card,mobile app
+ORD002928,Unknown,Store
+ORD002929,Cash on Delivery,Mobile App
+ORD002930,Bank Transfer,Instagram
+ORD002931,Unknown,Marketplace
+ORD002932,USSD,website
+ORD002933,Unknown,Mobile App
+ORD002934,USSD,Store
+ORD002935,bank transfer,mobile app
+ORD002936,Bank Transfer,Website
+ORD002937,Unknown,Website
+ORD002938,bank transfer,Marketplace
+ORD002939,Cash on Delivery,Unknown
+ORD002940,Cash on Delivery,Website
+ORD002941,Card,Marketplace
+ORD002942,Card,Marketplace
+ORD002943,Wallet,Store
+ORD002944,USSD,Mobile App
+ORD002945,Cash on Delivery,Mobile App
+ORD002946,Cash on Delivery,Website
+ORD002947,Wallet,Website
+ORD002948,Bank Transfer,Website
+ORD002949,Card,Unknown
+ORD002950,Card,Unknown
+ORD002951,bank transfer,Unknown
+ORD002952,bank transfer,Mobile App
+ORD002953,Bank Transfer,Mobile App
+ORD002954,Cash on Delivery,Instagram
+ORD002955,Cash on Delivery,Store
+ORD002956,Bank Transfer,Website
+ORD002957,Bank Transfer,Mobile App
+ORD002958,Bank Transfer,Website
+ORD002959,Cash on Delivery,Website
+ORD002960,Card,Website
+ORD002961,bank transfer,Marketplace
+ORD002962,Bank Transfer,Marketplace
+ORD002963,USSD,Marketplace
+ORD002964,Cash on Delivery,Website
+ORD002965,USSD,mobile app
+ORD002966,Card,Website
+ORD002967,Card,Store
+ORD002968,Unknown,Unknown
+ORD002969,Cash on Delivery,Website
+ORD002970,Unknown,Marketplace
+ORD002971,Bank Transfer,Unknown
+ORD002972,Unknown,mobile app
+ORD002973,Cash on Delivery,Instagram
+ORD002974,CARD,mobile app
+ORD002975,USSD,Store
+ORD002976,Unknown,Instagram
+ORD002977,Cash on Delivery,Unknown
+ORD002978,Bank Transfer,Website
+ORD002979,Wallet,Instagram
+ORD002980,Card,Marketplace
+ORD002981,USSD,Website
+ORD002982,Card,Instagram
+ORD002983,USSD,Store
+ORD002984,Bank Transfer,Unknown
+ORD002985,Unknown,Marketplace
+ORD002986,Unknown,Website
+ORD002987,Card,mobile app
+ORD002988,Cash on Delivery,Marketplace
+ORD002989,Unknown,website
+ORD002990,Wallet,Store
+ORD002991,Bank Transfer,Instagram
+ORD002992,Bank Transfer,Mobile App
+ORD002993,Cash on Delivery,Unknown
+ORD002994,Unknown,Store
+ORD002995,Card,Store
+ORD002996,Unknown,Website
+ORD002997,USSD,Mobile App
+ORD002998,Cash on Delivery,website
+ORD002999,Cash on Delivery,mobile app
+ORD003000,CARD,Instagram
+ORD003001,Bank Transfer,Marketplace
+ORD003002,Cash on Delivery,Marketplace
+ORD003003,CARD,Website
+ORD003004,USSD,Store
+ORD003005,Card,Website
+ORD003006,Wallet,Store
+ORD003007,Unknown,Unknown
+ORD003008,Card,Store
+ORD003009,bank transfer,Store
+ORD003010,Card,Unknown
+ORD003011,Wallet,Mobile App
+ORD003012,Cash on Delivery,Mobile App
+ORD003013,Card,website
+ORD003014,Unknown,Website
+ORD003015,Card,Unknown
+ORD003016,Wallet,Store
+ORD003017,Unknown,Instagram
+ORD003018,bank transfer,Instagram
+ORD003019,Unknown,Website
+ORD003020,Wallet,Marketplace
+ORD003021,Card,Website
+ORD003022,Cash on Delivery,Unknown
+ORD003023,Card,Instagram
+ORD003024,Cash on Delivery,Marketplace
+ORD003025,USSD,Marketplace
+ORD003026,CARD,Marketplace
+ORD003027,bank transfer,Unknown
+ORD003028,Card,Mobile App
+ORD003029,Wallet,Unknown
+ORD003030,Cash on Delivery,website
+ORD003031,CARD,website
+ORD003032,Cash on Delivery,Instagram
+ORD003033,Bank Transfer,Store
+ORD003034,Wallet,Instagram
+ORD003035,Bank Transfer,Website
+ORD003036,Unknown,Website
+ORD003037,Card,website
+ORD003038,USSD,Mobile App
+ORD003039,Bank Transfer,Mobile App
+ORD003040,Unknown,Unknown
+ORD003041,Wallet,Store
+ORD003042,bank transfer,Mobile App
+ORD003043,Cash on Delivery,Instagram
+ORD003044,Cash on Delivery,Mobile App
+ORD003045,Unknown,Website
+ORD003046,Card,Website
+ORD003047,USSD,mobile app
+ORD003048,Cash on Delivery,Instagram
+ORD003049,CARD,Website
+ORD003050,Cash on Delivery,Marketplace
+ORD003051,Unknown,Marketplace
+ORD003052,Cash on Delivery,Website
+ORD003053,Wallet,website
+ORD003054,Wallet,Mobile App
+ORD003055,Wallet,Website
+ORD003056,Card,Unknown
+ORD003057,Card,Unknown
+ORD003058,Wallet,Store
+ORD003059,Card,Website
+ORD003060,Card,Website
+ORD003061,Unknown,Website
+ORD003062,Wallet,website
+ORD003063,Cash on Delivery,mobile app
+ORD003064,bank transfer,Marketplace
+ORD003065,Cash on Delivery,Unknown
+ORD003066,Unknown,Mobile App
+ORD003067,Card,Website
+ORD003068,Unknown,Marketplace
+ORD003069,bank transfer,Website
+ORD003070,Unknown,Website
+ORD003071,Card,Website
+ORD003072,bank transfer,Website
+ORD003073,Bank Transfer,Marketplace
+ORD003074,Card,Mobile App
+ORD003075,Bank Transfer,Instagram
+ORD003076,USSD,Mobile App
+ORD003077,Cash on Delivery,Mobile App
+ORD003078,Bank Transfer,Marketplace
+ORD003079,Cash on Delivery,Mobile App
+ORD003080,Cash on Delivery,website
+ORD003081,Bank Transfer,Marketplace
+ORD003082,Bank Transfer,mobile app
+ORD003083,Card,Marketplace
+ORD003084,Bank Transfer,mobile app
+ORD003085,Unknown,Marketplace
+ORD003086,Card,mobile app
+ORD003087,Card,Store
+ORD003088,bank transfer,Website
+ORD003089,Bank Transfer,Store
+ORD003090,Unknown,Store
+ORD003091,CARD,Store
+ORD003092,Wallet,mobile app
+ORD003093,Wallet,Marketplace
+ORD003094,Cash on Delivery,Marketplace
+ORD003095,Cash on Delivery,Instagram
+ORD003096,Cash on Delivery,Unknown
+ORD003097,Bank Transfer,Mobile App
+ORD003098,USSD,Mobile App
+ORD003099,Wallet,Store
+ORD003100,Card,Mobile App
+ORD003101,Bank Transfer,mobile app
+ORD003102,Cash on Delivery,Mobile App
+ORD003103,Wallet,Instagram
+ORD003104,Bank Transfer,mobile app
+ORD003105,Cash on Delivery,website
+ORD003106,USSD,Mobile App
+ORD003107,Wallet,Mobile App
+ORD003108,Wallet,Website
+ORD003109,Wallet,Store
+ORD003110,Card,Website
+ORD003111,Bank Transfer,Instagram
+ORD003112,Card,mobile app
+ORD003113,bank transfer,Website
+ORD003114,Bank Transfer,Marketplace
+ORD003115,bank transfer,Marketplace
+ORD003116,Cash on Delivery,Website
+ORD003117,Unknown,Store
+ORD003118,USSD,Unknown
+ORD003119,Cash on Delivery,Mobile App
+ORD003120,CARD,Instagram
+ORD003121,USSD,Unknown
+ORD003122,Card,Website
+ORD003123,USSD,website
+ORD003124,Cash on Delivery,Mobile App
+ORD003125,Card,Unknown
+ORD003126,Card,Store
+ORD003127,Cash on Delivery,Instagram
+ORD003128,Wallet,mobile app
+ORD003129,Bank Transfer,Mobile App
+ORD003130,Bank Transfer,mobile app
+ORD003131,USSD,Mobile App
+ORD003132,USSD,Website
+ORD003133,Wallet,Mobile App
+ORD003134,Unknown,Store
+ORD003135,Bank Transfer,Mobile App
+ORD003136,Unknown,Website
+ORD003137,Wallet,Store
+ORD003138,Bank Transfer,Mobile App
+ORD003139,Wallet,Mobile App
+ORD003140,USSD,Instagram
+ORD003141,Card,Instagram
+ORD003142,Card,Mobile App
+ORD003143,Unknown,Mobile App
+ORD003144,Unknown,Instagram
+ORD003145,Cash on Delivery,Instagram
+ORD003146,Cash on Delivery,Store
+ORD003147,Bank Transfer,Mobile App
+ORD003148,Bank Transfer,Mobile App
+ORD003149,Card,Marketplace
+ORD003150,Card,mobile app
+ORD003151,USSD,Unknown
+ORD003152,Card,website
+ORD003153,Unknown,Instagram
+ORD003154,Bank Transfer,Store
+ORD003155,Bank Transfer,Mobile App
+ORD003156,Wallet,Mobile App
+ORD003157,USSD,Website
+ORD003158,USSD,Store
+ORD003159,Card,Website
+ORD003160,Cash on Delivery,website
+ORD003161,Unknown,Marketplace
+ORD003162,Unknown,Instagram
+ORD003163,Bank Transfer,Store
+ORD003164,Card,Instagram
+ORD003165,CARD,Mobile App
+ORD003166,Unknown,Marketplace
+ORD003167,Card,Website
+ORD003168,Cash on Delivery,Store
+ORD003169,Bank Transfer,Marketplace
+ORD003170,Cash on Delivery,Marketplace
+ORD003171,Card,Store
+ORD003172,Wallet,Unknown
+ORD003173,Bank Transfer,Unknown
+ORD003174,Card,Website
+ORD003175,Card,Website
+ORD003176,Bank Transfer,Website
+ORD003177,USSD,Marketplace
+ORD003178,Wallet,Instagram
+ORD003179,Cash on Delivery,Website
+ORD003180,Bank Transfer,Unknown
+ORD003181,USSD,website
+ORD003182,Wallet,Mobile App
+ORD003183,Wallet,Mobile App
+ORD003184,Card,Marketplace
+ORD003185,Wallet,Marketplace
+ORD003186,USSD,Marketplace
+ORD003187,Card,Website
+ORD003188,Cash on Delivery,Store
+ORD003189,bank transfer,Instagram
+ORD003190,Cash on Delivery,Website
+ORD003191,Bank Transfer,Mobile App
+ORD003192,Wallet,Mobile App
+ORD003193,Bank Transfer,Instagram
+ORD003194,Bank Transfer,mobile app
+ORD003195,Wallet,Store
+ORD003196,USSD,Mobile App
+ORD003197,Bank Transfer,Store
+ORD003198,Cash on Delivery,Store
+ORD003199,Bank Transfer,Website
+ORD003200,Bank Transfer,Mobile App
+ORD003201,Cash on Delivery,Marketplace
+ORD003202,Bank Transfer,website
+ORD003203,bank transfer,Instagram
+ORD003204,USSD,Marketplace
+ORD003205,Cash on Delivery,Marketplace
+ORD003206,Bank Transfer,Instagram
+ORD003207,Bank Transfer,Unknown
+ORD003208,Wallet,Store
+ORD003209,CARD,Mobile App
+ORD003210,Card,Store
+ORD003211,USSD,Instagram
+ORD003212,Bank Transfer,Unknown
+ORD003213,Card,Mobile App
+ORD003214,CARD,Instagram
+ORD003215,Cash on Delivery,Store
+ORD003216,Wallet,Marketplace
+ORD003217,Card,Store
+ORD003218,Card,Store
+ORD003219,Wallet,Mobile App
+ORD003220,USSD,Mobile App
+ORD003221,Cash on Delivery,Unknown
+ORD003222,Cash on Delivery,Mobile App
+ORD003223,bank transfer,Store
+ORD003224,Cash on Delivery,Website
+ORD003225,Bank Transfer,Instagram
+ORD003226,Cash on Delivery,Instagram
+ORD003227,Card,Instagram
+ORD003228,USSD,website
+ORD003229,Unknown,Website
+ORD003230,CARD,Store
+ORD003231,CARD,Mobile App
+ORD003232,Card,Mobile App
+ORD003233,Card,Marketplace
+ORD003234,Unknown,Website
+ORD003235,bank transfer,Mobile App
+ORD003236,Bank Transfer,Website
+ORD003237,Unknown,Mobile App
+ORD003238,Card,Mobile App
+ORD003239,Cash on Delivery,Store
+ORD003240,bank transfer,Marketplace
+ORD003241,Card,Website
+ORD003242,Card,Instagram
+ORD003243,Cash on Delivery,Store
+ORD003244,Cash on Delivery,Mobile App
+ORD003245,USSD,Unknown
+ORD003246,Bank Transfer,Instagram
+ORD003247,Wallet,Mobile App
+ORD003248,Bank Transfer,Instagram
+ORD003249,Unknown,Store
+ORD003250,CARD,Website
+ORD003251,Cash on Delivery,Unknown
+ORD003252,USSD,Website
+ORD003253,Wallet,Mobile App
+ORD003254,Bank Transfer,Mobile App
+ORD003255,Cash on Delivery,Instagram
+ORD003256,Cash on Delivery,mobile app
+ORD003257,Wallet,Mobile App
+ORD003258,CARD,Marketplace
+ORD003259,Bank Transfer,Unknown
+ORD003260,bank transfer,Store
+ORD003261,Card,Marketplace
+ORD003262,Cash on Delivery,Unknown
+ORD003263,bank transfer,Mobile App
+ORD003264,Card,Website
+ORD003265,Cash on Delivery,website
+ORD003266,Card,Store
+ORD003267,bank transfer,Website
+ORD003268,Card,Store
+ORD003269,Cash on Delivery,Mobile App
+ORD003270,Wallet,Marketplace
+ORD003271,Unknown,Store
+ORD003272,Bank Transfer,website
+ORD003273,USSD,Instagram
+ORD003274,Card,Mobile App
+ORD003275,Unknown,Store
+ORD003276,Cash on Delivery,Website
+ORD003277,Wallet,Store
+ORD003278,USSD,Marketplace
+ORD003279,Card,Store
+ORD003280,CARD,Marketplace
+ORD003281,Unknown,Mobile App
+ORD003282,Card,Website
+ORD003283,Card,Website
+ORD003284,Cash on Delivery,Unknown
+ORD003285,USSD,Marketplace
+ORD003286,USSD,Website
+ORD003287,Card,mobile app
+ORD003288,Card,Instagram
+ORD003289,Cash on Delivery,Website
+ORD003290,USSD,Unknown
+ORD003291,bank transfer,website
+ORD003292,Card,Mobile App
+ORD003293,Bank Transfer,Website
+ORD003294,Bank Transfer,Instagram
+ORD003295,Unknown,Store
+ORD003296,USSD,Instagram
+ORD003297,Unknown,website
+ORD003298,bank transfer,Marketplace
+ORD003299,Bank Transfer,Store
+ORD003300,CARD,Marketplace
+ORD003301,USSD,Mobile App
+ORD003302,USSD,Website
+ORD003303,CARD,Instagram
+ORD003304,bank transfer,Store
+ORD003305,USSD,Store
+ORD003306,CARD,Marketplace
+ORD003307,USSD,Marketplace
+ORD003308,Card,Website
+ORD003309,CARD,Website
+ORD003310,bank transfer,Unknown
+ORD003311,Card,Store
+ORD003312,bank transfer,Mobile App
+ORD003313,Card,Website
+ORD003314,Wallet,website
+ORD003315,USSD,Store
+ORD003316,bank transfer,mobile app
+ORD003317,CARD,Store
+ORD003318,Bank Transfer,Website
+ORD003319,Bank Transfer,Instagram
+ORD003320,bank transfer,Mobile App
+ORD003321,bank transfer,Marketplace
+ORD003322,Unknown,Mobile App
+ORD003323,Bank Transfer,Instagram
+ORD003324,USSD,Instagram
+ORD003325,Bank Transfer,Marketplace
+ORD003326,Cash on Delivery,Instagram
+ORD003327,Bank Transfer,Mobile App
+ORD003328,Bank Transfer,Mobile App
+ORD003329,Card,Marketplace
+ORD003330,Unknown,Marketplace
+ORD003331,USSD,Website
+ORD003332,Cash on Delivery,Mobile App
+ORD003333,USSD,Instagram
+ORD003334,Wallet,Store
+ORD003335,bank transfer,Marketplace
+ORD003336,CARD,Marketplace
+ORD003337,CARD,mobile app
+ORD003338,Bank Transfer,Marketplace
+ORD003339,bank transfer,Marketplace
+ORD003340,Wallet,Store
+ORD003341,Wallet,mobile app
+ORD003342,Unknown,Store
+ORD003343,USSD,Website
+ORD003344,Wallet,Unknown
+ORD003345,Wallet,Mobile App
+ORD003346,Unknown,Instagram
+ORD003347,Card,Instagram
+ORD003348,USSD,Store
+ORD003349,Card,Store
+ORD003350,Card,Mobile App
+ORD003351,Card,Mobile App
+ORD003352,Wallet,Mobile App
+ORD003353,Card,Mobile App
+ORD003354,bank transfer,Marketplace
+ORD003355,Cash on Delivery,Store
+ORD003356,Cash on Delivery,Unknown
+ORD003357,Cash on Delivery,Store
+ORD003358,Bank Transfer,Website
+ORD003359,Wallet,website
+ORD003360,Wallet,website
+ORD003361,USSD,Store
+ORD003362,Card,mobile app
+ORD003363,USSD,Marketplace
+ORD003364,Card,Website
+ORD003365,Card,mobile app
+ORD003366,Wallet,Mobile App
+ORD003367,Card,Store
+ORD003368,USSD,Marketplace
+ORD003369,Wallet,Mobile App
+ORD003370,Bank Transfer,Marketplace
+ORD003371,Card,website
+ORD003372,Cash on Delivery,Website
+ORD003373,Bank Transfer,Mobile App
+ORD003374,Cash on Delivery,Website
+ORD003375,Cash on Delivery,Unknown
+ORD003376,USSD,Unknown
+ORD003377,Bank Transfer,Website
+ORD003378,Cash on Delivery,Website
+ORD003379,Cash on Delivery,Mobile App
+ORD003380,Wallet,Mobile App
+ORD003381,bank transfer,Marketplace
+ORD003382,Bank Transfer,Store
+ORD003383,Cash on Delivery,Marketplace
+ORD003384,Bank Transfer,Website
+ORD003385,Card,Store
+ORD003386,Bank Transfer,Website
+ORD003387,Wallet,Marketplace
+ORD003388,Unknown,Mobile App
+ORD003389,Wallet,Website
+ORD003390,Wallet,Mobile App
+ORD003391,Wallet,website
+ORD003392,USSD,Marketplace
+ORD003393,USSD,Store
+ORD003394,Card,Store
+ORD003395,Unknown,Marketplace
+ORD003396,Cash on Delivery,Store
+ORD003397,Bank Transfer,Website
+ORD003398,bank transfer,Website
+ORD003399,bank transfer,Website
+ORD003400,Cash on Delivery,Website
+ORD003401,Cash on Delivery,Website
+ORD003402,Bank Transfer,Store
+ORD003403,USSD,Marketplace
+ORD003404,bank transfer,Instagram
+ORD003405,Cash on Delivery,Instagram
+ORD003406,USSD,Store
+ORD003407,Wallet,Instagram
+ORD003408,Bank Transfer,Store
+ORD003409,Card,Mobile App
+ORD003410,Wallet,Mobile App
+ORD003411,Cash on Delivery,Marketplace
+ORD003412,Cash on Delivery,Instagram
+ORD003413,Wallet,Website
+ORD003414,Card,Mobile App
+ORD003415,Bank Transfer,website
+ORD003416,USSD,Marketplace
+ORD003417,Cash on Delivery,Instagram
+ORD003418,bank transfer,Mobile App
+ORD003419,Card,Instagram
+ORD003420,Bank Transfer,Mobile App
+ORD003421,Wallet,Marketplace
+ORD003422,Bank Transfer,Unknown
+ORD003423,Wallet,website
+ORD003424,Unknown,website
+ORD003425,Card,Marketplace
+ORD003426,Wallet,Store
+ORD003427,Cash on Delivery,Website
+ORD003428,USSD,Instagram
+ORD003429,Card,Store
+ORD003430,Bank Transfer,Mobile App
+ORD003431,Card,Unknown
+ORD003432,Unknown,Instagram
+ORD003433,Bank Transfer,Unknown
+ORD003434,bank transfer,Mobile App
+ORD003435,Bank Transfer,Store
+ORD003436,Bank Transfer,Unknown
+ORD003437,Wallet,Instagram
+ORD003438,Cash on Delivery,mobile app
+ORD003439,Unknown,Store
+ORD003440,Cash on Delivery,Store
+ORD003441,Card,Unknown
+ORD003442,Cash on Delivery,Website
+ORD003443,Wallet,Mobile App
+ORD003444,bank transfer,Store
+ORD003445,Unknown,Website
+ORD003446,USSD,Instagram
+ORD003447,Unknown,website
+ORD003448,Cash on Delivery,Website
+ORD003449,Bank Transfer,Store
+ORD003450,Card,Store
+ORD003451,Cash on Delivery,Website
+ORD003452,Cash on Delivery,Store
+ORD003453,USSD,mobile app
+ORD003454,USSD,Unknown
+ORD003455,USSD,Store
+ORD003456,Bank Transfer,Website
+ORD003457,USSD,Unknown
+ORD003458,USSD,website
+ORD003459,Wallet,Store
+ORD003460,Card,Mobile App
+ORD003461,Wallet,Instagram
+ORD003462,Bank Transfer,Instagram
+ORD003463,Card,Mobile App
+ORD003464,Card,Marketplace
+ORD003465,Wallet,Store
+ORD003466,CARD,mobile app
+ORD003467,Card,Website
+ORD003468,Bank Transfer,Store
+ORD003469,Bank Transfer,Marketplace
+ORD003470,Wallet,Website
+ORD003471,bank transfer,Mobile App
+ORD003472,Card,Mobile App
+ORD003473,Wallet,Store
+ORD003474,Bank Transfer,Marketplace
+ORD003475,Bank Transfer,Website
+ORD003476,Cash on Delivery,Mobile App
+ORD003477,Bank Transfer,mobile app
+ORD003478,Card,Website
+ORD003479,Card,Unknown
+ORD003480,Cash on Delivery,Mobile App
+ORD003481,Card,Store
+ORD003482,bank transfer,Store
+ORD003483,Bank Transfer,Store
+ORD003484,Cash on Delivery,Mobile App
+ORD003485,Cash on Delivery,Marketplace
+ORD003486,Cash on Delivery,Instagram
+ORD003487,CARD,Store
+ORD003488,Bank Transfer,Mobile App
+ORD003489,Unknown,Website
+ORD003490,Bank Transfer,Marketplace
+ORD003491,Cash on Delivery,Website
+ORD003492,bank transfer,Website
+ORD003493,Bank Transfer,Instagram
+ORD003494,Card,Website
+ORD003495,bank transfer,Instagram
+ORD003496,Wallet,Instagram
+ORD003497,USSD,Website
+ORD003498,bank transfer,website
+ORD003499,CARD,Store
+ORD003500,CARD,website
+ORD003501,Bank Transfer,Marketplace
+ORD003502,Card,Store
+ORD003503,Cash on Delivery,Website
+ORD003504,Card,Marketplace
+ORD003505,Card,Mobile App
+ORD003506,Card,Website
+ORD003507,bank transfer,Marketplace
+ORD003508,CARD,Store
+ORD003509,Wallet,Instagram
+ORD003510,Wallet,Website
+ORD003511,Card,Unknown
+ORD003512,Card,website
+ORD003513,USSD,Unknown
+ORD003514,bank transfer,Website
+ORD003515,USSD,Website
+ORD003516,Bank Transfer,Instagram
+ORD003517,Bank Transfer,Website
+ORD003518,Card,website
+ORD003519,CARD,Mobile App
+ORD003520,Card,Marketplace
+ORD003521,USSD,website
+ORD003522,Unknown,Store
+ORD003523,bank transfer,Mobile App
+ORD003524,Wallet,Store
+ORD003525,Bank Transfer,Store
+ORD003526,bank transfer,mobile app
+ORD003527,Unknown,Instagram
+ORD003528,Cash on Delivery,Instagram
+ORD003529,Card,Store
+ORD003530,Cash on Delivery,Store
+ORD003531,bank transfer,Instagram
+ORD003532,Card,Marketplace
+ORD003533,Bank Transfer,Store
+ORD003534,Card,Unknown
+ORD003535,Unknown,Store
+ORD003536,Card,Store
+ORD003537,Cash on Delivery,Website
+ORD003538,USSD,Instagram
+ORD003539,Bank Transfer,Instagram
+ORD003540,USSD,Marketplace
+ORD003541,USSD,Instagram
+ORD003542,Wallet,Marketplace
+ORD003543,Wallet,Website
+ORD003544,Card,Store
+ORD003545,Cash on Delivery,mobile app
+ORD003546,Unknown,Marketplace
+ORD003547,USSD,Marketplace
+ORD003548,bank transfer,Marketplace
+ORD003549,Wallet,Marketplace
+ORD003550,Wallet,website
+ORD003551,Cash on Delivery,Marketplace
+ORD003552,CARD,Unknown
+ORD003553,Cash on Delivery,Marketplace
+ORD003554,Card,Instagram
+ORD003555,Card,Mobile App
+ORD003556,Bank Transfer,Unknown
+ORD003557,Cash on Delivery,Store
+ORD003558,Cash on Delivery,Marketplace
+ORD003559,USSD,Store
+ORD003560,Cash on Delivery,Instagram
+ORD003561,Wallet,Store
+ORD003562,Bank Transfer,website
+ORD003563,USSD,Marketplace
+ORD003564,USSD,Website
+ORD003565,Bank Transfer,mobile app
+ORD003566,Cash on Delivery,Store
+ORD003567,Card,Mobile App
+ORD003568,Cash on Delivery,Unknown
+ORD003569,Cash on Delivery,Website
+ORD003570,Wallet,website
+ORD003571,Cash on Delivery,Store
+ORD003572,Wallet,Store
+ORD003573,Bank Transfer,Website
+ORD003574,Cash on Delivery,Unknown
+ORD003575,USSD,Website
+ORD003576,bank transfer,Marketplace
+ORD003577,USSD,Unknown
+ORD003578,Wallet,Store
+ORD003579,CARD,Store
+ORD003580,Wallet,Unknown
+ORD003581,Wallet,Store
+ORD003582,bank transfer,Instagram
+ORD003583,Card,Store
+ORD003584,Card,Marketplace
+ORD003585,Cash on Delivery,Mobile App
+ORD003586,Cash on Delivery,Store
+ORD003587,Card,Website
+ORD003588,Cash on Delivery,Store
+ORD003589,Cash on Delivery,Mobile App
+ORD003590,Card,Instagram
+ORD003591,Cash on Delivery,Instagram
+ORD003592,Wallet,Website
+ORD003593,Bank Transfer,Website
+ORD003594,bank transfer,website
+ORD003595,Bank Transfer,Marketplace
+ORD003596,Bank Transfer,website
+ORD003597,bank transfer,Instagram
+ORD003598,CARD,Marketplace
+ORD003599,USSD,Instagram
+ORD003600,Cash on Delivery,Store
+ORD003601,Wallet,Marketplace
+ORD003602,Cash on Delivery,Instagram
+ORD003603,Unknown,Mobile App
+ORD003604,Wallet,Marketplace
+ORD003605,CARD,Instagram
+ORD003606,Card,Mobile App
+ORD003607,Bank Transfer,Marketplace
+ORD003608,Unknown,Store
+ORD003609,Bank Transfer,Unknown
+ORD003610,Unknown,Website
+ORD003611,CARD,Mobile App
+ORD003612,Cash on Delivery,Website
+ORD003613,Bank Transfer,Website
+ORD003614,CARD,Mobile App
+ORD003615,Bank Transfer,Instagram
+ORD003616,bank transfer,Website
+ORD003617,Bank Transfer,Unknown
+ORD003618,Card,website
+ORD003619,USSD,Store
+ORD003620,USSD,Website
+ORD003621,USSD,Store
+ORD003622,Bank Transfer,Instagram
+ORD003623,Wallet,Website
+ORD003624,Unknown,Mobile App
+ORD003625,CARD,Mobile App
+ORD003626,Card,Store
+ORD003627,Card,Mobile App
+ORD003628,Bank Transfer,website
+ORD003629,Wallet,mobile app
+ORD003630,bank transfer,Instagram
+ORD003631,Bank Transfer,Mobile App
+ORD003632,bank transfer,Marketplace
+ORD003633,Unknown,Mobile App
+ORD003634,USSD,Website
+ORD003635,Cash on Delivery,Website
+ORD003636,Card,Website
+ORD003637,Cash on Delivery,Marketplace
+ORD003638,Card,Website
+ORD003639,bank transfer,Website
+ORD003640,bank transfer,Unknown
+ORD003641,Bank Transfer,website
+ORD003642,Cash on Delivery,Marketplace
+ORD003643,Card,Instagram
+ORD003644,Card,Marketplace
+ORD003645,Unknown,Instagram
+ORD003646,USSD,Website
+ORD003647,bank transfer,Website
+ORD003648,Card,Unknown
+ORD003649,Cash on Delivery,Store
+ORD003650,Unknown,Website
+ORD003651,USSD,Mobile App
+ORD003652,Bank Transfer,Mobile App
+ORD003653,Card,Website
+ORD003654,Cash on Delivery,Website
+ORD003655,Card,Instagram
+ORD003656,bank transfer,Website
+ORD003657,Card,Instagram
+ORD003658,Bank Transfer,Store
+ORD003659,USSD,Store
+ORD003660,Card,Website
+ORD003661,Wallet,Mobile App
+ORD003662,Card,Mobile App
+ORD003663,USSD,Mobile App
+ORD003664,Cash on Delivery,Marketplace
+ORD003665,Card,Website
+ORD003666,Unknown,Website
+ORD003667,Cash on Delivery,Mobile App
+ORD003668,Wallet,Store
+ORD003669,USSD,Store
+ORD003670,Bank Transfer,Mobile App
+ORD003671,bank transfer,Store
+ORD003672,Bank Transfer,Website
+ORD003673,Bank Transfer,Marketplace
+ORD003674,Unknown,Website
+ORD003675,USSD,Marketplace
+ORD003676,Bank Transfer,Unknown
+ORD003677,bank transfer,Unknown
+ORD003678,Unknown,Marketplace
+ORD003679,Cash on Delivery,Website
+ORD003680,USSD,Mobile App
+ORD003681,Bank Transfer,Instagram
+ORD003682,Card,Store
+ORD003683,CARD,Website
+ORD003684,Bank Transfer,Instagram
+ORD003685,USSD,Website
+ORD003686,Bank Transfer,Website
+ORD003687,USSD,Marketplace
+ORD003688,Wallet,Store
+ORD003689,Wallet,Mobile App
+ORD003690,CARD,Mobile App
+ORD003691,Bank Transfer,Unknown
+ORD003692,USSD,Mobile App
+ORD003693,Wallet,Website
+ORD003694,Card,website
+ORD003695,Unknown,Marketplace
+ORD003696,Bank Transfer,Instagram
+ORD003697,USSD,website
+ORD003698,Unknown,Website
+ORD003699,Card,Website
+ORD003700,USSD,Instagram
+ORD003701,Unknown,Website
+ORD003702,Cash on Delivery,website
+ORD003703,Card,Mobile App
+ORD003704,Cash on Delivery,Mobile App
+ORD003705,bank transfer,Store
+ORD003706,Bank Transfer,Store
+ORD003707,Bank Transfer,Website
+ORD003708,Wallet,Store
+ORD003709,USSD,Marketplace
+ORD003710,Wallet,website
+ORD003711,Wallet,Website
+ORD003712,CARD,Website
+ORD003713,Bank Transfer,Unknown
+ORD003714,Card,Store
+ORD003715,Card,Mobile App
+ORD003716,CARD,Marketplace
+ORD003717,Bank Transfer,Website
+ORD003718,Unknown,Marketplace
+ORD003719,Unknown,mobile app
+ORD003720,Bank Transfer,Website
+ORD003721,Card,Website
+ORD003722,Unknown,Marketplace
+ORD003723,Cash on Delivery,Store
+ORD003724,Cash on Delivery,Website
+ORD003725,Card,Website
+ORD003726,Card,Store
+ORD003727,Wallet,Instagram
+ORD003728,CARD,Marketplace
+ORD003729,Cash on Delivery,Website
+ORD003730,bank transfer,Marketplace
+ORD003731,Bank Transfer,Website
+ORD003732,Cash on Delivery,website
+ORD003733,Cash on Delivery,Mobile App
+ORD003734,Bank Transfer,Unknown
+ORD003735,Card,Instagram
+ORD003736,CARD,Unknown
+ORD003737,Cash on Delivery,Store
+ORD003738,Card,Store
+ORD003739,Bank Transfer,Mobile App
+ORD003740,Card,Marketplace
+ORD003741,USSD,Website
+ORD003742,USSD,Website
+ORD003743,Unknown,Store
+ORD003744,CARD,Unknown
+ORD003745,Bank Transfer,Marketplace
+ORD003746,Wallet,website
+ORD003747,Wallet,Marketplace
+ORD003748,Card,Website
+ORD003749,Wallet,Instagram
+ORD003750,CARD,Website
+ORD003751,Cash on Delivery,Mobile App
+ORD003752,Wallet,Mobile App
+ORD003753,Bank Transfer,Website
+ORD003754,Card,Unknown
+ORD003755,USSD,website
+ORD003756,CARD,Unknown
+ORD003757,Cash on Delivery,Website
+ORD003758,bank transfer,Store
+ORD003759,Bank Transfer,website
+ORD003760,Wallet,website
+ORD003761,Card,mobile app
+ORD003762,Card,Unknown
+ORD003763,Card,Store
+ORD003764,Unknown,Marketplace
+ORD003765,Cash on Delivery,Marketplace
+ORD003766,USSD,Unknown
+ORD003767,USSD,Website
+ORD003768,Bank Transfer,Mobile App
+ORD003769,Bank Transfer,Mobile App
+ORD003770,Cash on Delivery,Website
+ORD003771,CARD,Mobile App
+ORD003772,Card,Store
+ORD003773,CARD,Mobile App
+ORD003774,Cash on Delivery,Mobile App
+ORD003775,Cash on Delivery,mobile app
+ORD003776,USSD,Unknown
+ORD003777,Cash on Delivery,website
+ORD003778,USSD,Instagram
+ORD003779,Bank Transfer,Website
+ORD003780,bank transfer,website
+ORD003781,bank transfer,Website
+ORD003782,Cash on Delivery,mobile app
+ORD003783,Unknown,Store
+ORD003784,bank transfer,Store
+ORD003785,Unknown,Mobile App
+ORD003786,Card,Website
+ORD003787,USSD,Instagram
+ORD003788,Wallet,Store
+ORD003789,Bank Transfer,Marketplace
+ORD003790,Cash on Delivery,mobile app
+ORD003791,Cash on Delivery,Website
+ORD003792,bank transfer,Unknown
+ORD003793,Bank Transfer,Marketplace
+ORD003794,Cash on Delivery,Store
+ORD003795,CARD,Marketplace
+ORD003796,Wallet,Marketplace
+ORD003797,Wallet,Mobile App
+ORD003798,Wallet,Store
+ORD003799,Cash on Delivery,Mobile App
+ORD003800,Unknown,Store
+ORD003801,Card,Unknown
+ORD003802,Bank Transfer,Mobile App
+ORD003803,Card,Website
+ORD003804,Card,Mobile App
+ORD003805,Wallet,website
+ORD003806,Unknown,Unknown
+ORD003807,bank transfer,Mobile App
+ORD003808,Card,Mobile App
+ORD003809,Card,Instagram
+ORD003810,USSD,Website
+ORD003811,Cash on Delivery,Website
+ORD003812,Card,Mobile App
+ORD003813,bank transfer,Marketplace
+ORD003814,CARD,Store
+ORD003815,Card,Website
+ORD003816,USSD,mobile app
+ORD003817,Bank Transfer,Instagram
+ORD003818,Card,Marketplace
+ORD003819,Cash on Delivery,Website
+ORD003820,Bank Transfer,website
+ORD003821,Unknown,Mobile App
+ORD003822,Unknown,Instagram
+ORD003823,CARD,Instagram
+ORD003824,Wallet,Unknown
+ORD003825,bank transfer,Store
+ORD003826,Bank Transfer,Instagram
+ORD003827,USSD,website
+ORD003828,Bank Transfer,Marketplace
+ORD003829,USSD,Marketplace
+ORD003830,Bank Transfer,Marketplace
+ORD003831,USSD,Mobile App
+ORD003832,Card,website
+ORD003833,USSD,Mobile App
+ORD003834,Cash on Delivery,Marketplace
+ORD003835,Wallet,Mobile App
+ORD003836,USSD,Website
+ORD003837,Bank Transfer,Mobile App
+ORD003838,CARD,Mobile App
+ORD003839,CARD,website
+ORD003840,Bank Transfer,mobile app
+ORD003841,Bank Transfer,Instagram
+ORD003842,USSD,Store
+ORD003843,Bank Transfer,Store
+ORD003844,Card,Marketplace
+ORD003845,USSD,Website
+ORD003846,Bank Transfer,Store
+ORD003847,bank transfer,Instagram
+ORD003848,Unknown,Unknown
+ORD003849,Card,Marketplace
+ORD003850,Card,Store
+ORD003851,Card,Mobile App
+ORD003852,Card,Store
+ORD003853,Wallet,Store
+ORD003854,Card,Store
+ORD003855,USSD,Website
+ORD003856,CARD,Unknown
+ORD003857,bank transfer,Store
+ORD003858,Card,Store
+ORD003859,Cash on Delivery,Unknown
+ORD003860,Card,Mobile App
+ORD003861,Bank Transfer,mobile app
+ORD003862,Wallet,website
+ORD003863,bank transfer,website
+ORD003864,CARD,Store
+ORD003865,Card,Instagram
+ORD003866,Wallet,Store
+ORD003867,Cash on Delivery,Instagram
+ORD003868,Cash on Delivery,Website
+ORD003869,USSD,Mobile App
+ORD003870,Cash on Delivery,Marketplace
+ORD003871,Bank Transfer,Unknown
+ORD003872,Cash on Delivery,Instagram
+ORD003873,Card,Marketplace
+ORD003874,bank transfer,Store
+ORD003875,CARD,Marketplace
+ORD003876,USSD,Website
+ORD003877,Bank Transfer,Marketplace
+ORD003878,bank transfer,Marketplace
+ORD003879,CARD,website
+ORD003880,Card,Marketplace
+ORD003881,Bank Transfer,Unknown
+ORD003882,bank transfer,Instagram
+ORD003883,Card,website
+ORD003884,USSD,Unknown
+ORD003885,USSD,Marketplace
+ORD003886,Card,Unknown
+ORD003887,Card,Website
+ORD003888,Unknown,Store
+ORD003889,Unknown,mobile app
+ORD003890,Card,Mobile App
+ORD003891,Cash on Delivery,Instagram
+ORD003892,USSD,website
+ORD003893,USSD,Website
+ORD003894,Card,Mobile App
+ORD003895,Wallet,Unknown
+ORD003896,Card,Store
+ORD003897,Unknown,Store
+ORD003898,Card,Instagram
+ORD003899,CARD,Marketplace
+ORD003900,Card,Unknown
+ORD003901,bank transfer,Marketplace
+ORD003902,Cash on Delivery,website
+ORD003903,Card,Instagram
+ORD003904,USSD,Website
+ORD003905,Wallet,Instagram
+ORD003906,bank transfer,Website
+ORD003907,Bank Transfer,Website
+ORD003908,bank transfer,Instagram
+ORD003909,bank transfer,Store
+ORD003910,Card,Store
+ORD003911,Wallet,Instagram
+ORD003912,Cash on Delivery,Instagram
+ORD003913,Unknown,Store
+ORD003914,USSD,Mobile App
+ORD003915,Cash on Delivery,Instagram
+ORD003916,Bank Transfer,Mobile App
+ORD003917,bank transfer,Marketplace
+ORD003918,Bank Transfer,mobile app
+ORD003919,USSD,Unknown
+ORD003920,Card,Website
+ORD003921,Cash on Delivery,Instagram
+ORD003922,bank transfer,Website
+ORD003923,bank transfer,Mobile App
+ORD003924,Unknown,Instagram
+ORD003925,Bank Transfer,Marketplace
+ORD003926,bank transfer,Website
+ORD003927,CARD,Store
+ORD003928,USSD,Instagram
+ORD003929,Wallet,Store
+ORD003930,USSD,Mobile App
+ORD003931,Cash on Delivery,Instagram
+ORD003932,USSD,Website
+ORD003933,bank transfer,Mobile App
+ORD003934,Cash on Delivery,Website
+ORD003935,Bank Transfer,Store
+ORD003936,Bank Transfer,Mobile App
+ORD003937,bank transfer,Mobile App
+ORD003938,Wallet,Marketplace
+ORD003939,Wallet,Store
+ORD003940,Card,Store
+ORD003941,Wallet,Unknown
+ORD003942,Cash on Delivery,Store
+ORD003943,USSD,Website
+ORD003944,CARD,website
+ORD003945,Bank Transfer,Store
+ORD003946,Cash on Delivery,Mobile App
+ORD003947,CARD,mobile app
+ORD003948,Card,Website
+ORD003949,Card,Unknown
+ORD003950,Card,Unknown
+ORD003951,USSD,website
+ORD003952,Bank Transfer,Mobile App
+ORD003953,Cash on Delivery,Marketplace
+ORD003954,USSD,Store
+ORD003955,Cash on Delivery,mobile app
+ORD003956,Wallet,Unknown
+ORD003957,Wallet,Mobile App
+ORD003958,Bank Transfer,Store
+ORD003959,USSD,Marketplace
+ORD003960,Cash on Delivery,Mobile App
+ORD003961,CARD,mobile app
+ORD003962,Cash on Delivery,Website
+ORD003963,Bank Transfer,Store
+ORD003964,USSD,Unknown
+ORD003965,Bank Transfer,Mobile App
+ORD003966,Bank Transfer,Instagram
+ORD003967,Wallet,Mobile App
+ORD003968,Card,Mobile App
+ORD003969,Unknown,Store
+ORD003970,Bank Transfer,website
+ORD003971,Bank Transfer,Instagram
+ORD003972,Unknown,Store
+ORD003973,Card,Website
+ORD003974,Cash on Delivery,Instagram
+ORD003975,Card,Store
+ORD003976,Cash on Delivery,website
+ORD003977,Card,Marketplace
+ORD003978,Bank Transfer,Instagram
+ORD003979,Cash on Delivery,Marketplace
+ORD003980,bank transfer,Marketplace
+ORD003981,CARD,Store
+ORD003982,Wallet,Mobile App
+ORD003983,Bank Transfer,Website
+ORD003984,Wallet,Store
+ORD003985,Wallet,Website
+ORD003986,Cash on Delivery,Website
+ORD003987,USSD,website
+ORD003988,Cash on Delivery,Website
+ORD003989,Cash on Delivery,Website
+ORD003990,Bank Transfer,Website
+ORD003991,Wallet,Store
+ORD003992,USSD,Website
+ORD003993,Card,Store
+ORD003994,Bank Transfer,mobile app
+ORD003995,Wallet,mobile app
+ORD003996,Card,Store
+ORD003997,Cash on Delivery,Mobile App
+ORD003998,Bank Transfer,Store
+ORD003999,Cash on Delivery,Marketplace
+ORD004000,Cash on Delivery,mobile app
+ORD004001,Cash on Delivery,Website
+ORD004002,Wallet,Store
+ORD004003,Bank Transfer,Website
+ORD004004,Card,Website
+ORD004005,USSD,Mobile App
+ORD004006,Unknown,website
+ORD004007,USSD,Marketplace
+ORD004008,Bank Transfer,Marketplace
+ORD004009,Card,Unknown
+ORD004010,Card,Marketplace
+ORD004011,Cash on Delivery,mobile app
+ORD004012,USSD,mobile app
+ORD004013,USSD,Unknown
+ORD004014,Card,Website
+ORD004015,CARD,Instagram
+ORD004016,Card,Unknown
+ORD004017,USSD,Instagram
+ORD004018,Wallet,Marketplace
+ORD004019,USSD,Marketplace
+ORD004020,Unknown,Unknown
+ORD004021,USSD,Store
+ORD004022,USSD,Instagram
+ORD004023,Bank Transfer,Marketplace
+ORD004024,Card,Store
+ORD004025,Wallet,Instagram
+ORD004026,Cash on Delivery,mobile app
+ORD004027,bank transfer,Instagram
+ORD004028,Card,mobile app
+ORD004029,Wallet,Instagram
+ORD004030,Unknown,Website
+ORD004031,Card,Mobile App
+ORD004032,Wallet,Marketplace
+ORD004033,Cash on Delivery,Marketplace
+ORD004034,Bank Transfer,Unknown
+ORD004035,Unknown,Marketplace
+ORD004036,Cash on Delivery,Website
+ORD004037,Cash on Delivery,Unknown
+ORD004038,Card,Instagram
+ORD004039,Card,Mobile App
+ORD004040,Card,Store
+ORD004041,Bank Transfer,Store
+ORD004042,Bank Transfer,Store
+ORD004043,Wallet,Instagram
+ORD004044,Bank Transfer,Store
+ORD004045,Card,Website
+ORD004046,CARD,Store
+ORD004047,Cash on Delivery,website
+ORD004048,Bank Transfer,Store
+ORD004049,Bank Transfer,Website
+ORD004050,CARD,Instagram
+ORD004051,USSD,Store
+ORD004052,Bank Transfer,Unknown
+ORD004053,bank transfer,Instagram
+ORD004054,USSD,Unknown
+ORD004055,Bank Transfer,Unknown
+ORD004056,Unknown,Unknown
+ORD004057,USSD,Marketplace
+ORD004058,Wallet,Instagram
+ORD004059,USSD,website
+ORD004060,Cash on Delivery,Mobile App
+ORD004061,Cash on Delivery,Store
+ORD004062,bank transfer,Mobile App
+ORD004063,Card,Unknown
+ORD004064,Cash on Delivery,Store
+ORD004065,Wallet,Mobile App
+ORD004066,Card,Store
+ORD004067,Bank Transfer,Instagram
+ORD004068,Bank Transfer,Marketplace
+ORD004069,Bank Transfer,Website
+ORD004070,Wallet,Instagram
+ORD004071,Bank Transfer,Website
+ORD004072,Bank Transfer,Website
+ORD004073,Cash on Delivery,Mobile App
+ORD004074,Card,Website
+ORD004075,Card,mobile app
+ORD004076,Card,Instagram
+ORD004077,CARD,Store
+ORD004078,bank transfer,Website
+ORD004079,CARD,website
+ORD004080,Unknown,Store
+ORD004081,Bank Transfer,Website
+ORD004082,Wallet,website
+ORD004083,Card,Marketplace
+ORD004084,Wallet,website
+ORD004085,Cash on Delivery,Store
+ORD004086,Card,Store
+ORD004087,CARD,Marketplace
+ORD004088,Cash on Delivery,Unknown
+ORD004089,Cash on Delivery,Mobile App
+ORD004090,Unknown,Store
+ORD004091,Cash on Delivery,Store
+ORD004092,Unknown,Instagram
+ORD004093,Bank Transfer,Unknown
+ORD004094,Bank Transfer,Store
+ORD004095,CARD,Mobile App
+ORD004096,Bank Transfer,Website
+ORD004097,USSD,Website
+ORD004098,Cash on Delivery,Instagram
+ORD004099,Cash on Delivery,Website
+ORD004100,CARD,Website
+ORD004101,Bank Transfer,Marketplace
+ORD004102,Wallet,website
+ORD004103,Wallet,Marketplace
+ORD004104,Cash on Delivery,Marketplace
+ORD004105,Bank Transfer,website
+ORD004106,Wallet,Website
+ORD004107,Cash on Delivery,Website
+ORD004108,USSD,Instagram
+ORD004109,Bank Transfer,Website
+ORD004110,Bank Transfer,Store
+ORD004111,Bank Transfer,Store
+ORD004112,Wallet,Instagram
+ORD004113,Wallet,Marketplace
+ORD004114,USSD,Unknown
+ORD004115,Wallet,Website
+ORD004116,Card,Mobile App
+ORD004117,Bank Transfer,Mobile App
+ORD004118,Card,Instagram
+ORD004119,Wallet,mobile app
+ORD004120,Cash on Delivery,Website
+ORD004121,Unknown,Website
+ORD004122,Card,Store
+ORD004123,USSD,website
+ORD004124,Unknown,Unknown
+ORD004125,Bank Transfer,Instagram
+ORD004126,Wallet,website
+ORD004127,Bank Transfer,Mobile App
+ORD004128,Card,Website
+ORD004129,bank transfer,mobile app
+ORD004130,CARD,Website
+ORD004131,USSD,Marketplace
+ORD004132,bank transfer,Store
+ORD004133,Wallet,Mobile App
+ORD004134,Unknown,Instagram
+ORD004135,Bank Transfer,Marketplace
+ORD004136,Cash on Delivery,Unknown
+ORD004137,Cash on Delivery,Mobile App
+ORD004138,Card,Website
+ORD004139,Bank Transfer,Store
+ORD004140,Wallet,Unknown
+ORD004141,Card,Store
+ORD004142,Bank Transfer,mobile app
+ORD004143,Bank Transfer,Store
+ORD004144,Cash on Delivery,Store
+ORD004145,Bank Transfer,Mobile App
+ORD004146,Bank Transfer,Mobile App
+ORD004147,USSD,Website
+ORD004148,Cash on Delivery,mobile app
+ORD004149,USSD,Store
+ORD004150,Wallet,Mobile App
+ORD004151,Card,Marketplace
+ORD004152,Unknown,Instagram
+ORD004153,Card,Mobile App
+ORD004154,bank transfer,Instagram
+ORD004155,Card,Store
+ORD004156,Card,Marketplace
+ORD004157,CARD,Instagram
+ORD004158,USSD,Store
+ORD004159,CARD,Marketplace
+ORD004160,Bank Transfer,Store
+ORD004161,USSD,Unknown
+ORD004162,Bank Transfer,Instagram
+ORD004163,Cash on Delivery,website
+ORD004164,CARD,Marketplace
+ORD004165,bank transfer,Store
+ORD004166,Card,Mobile App
+ORD004167,USSD,Marketplace
+ORD004168,CARD,Website
+ORD004169,Bank Transfer,Mobile App
+ORD004170,Bank Transfer,Store
+ORD004171,Bank Transfer,Store
+ORD004172,Wallet,Unknown
+ORD004173,Bank Transfer,Instagram
+ORD004174,Bank Transfer,Store
+ORD004175,bank transfer,mobile app
+ORD004176,CARD,Mobile App
+ORD004177,Wallet,Marketplace
+ORD004178,Unknown,Store
+ORD004179,Cash on Delivery,Unknown
+ORD004180,Bank Transfer,Marketplace
+ORD004181,Card,Marketplace
+ORD004182,Card,Marketplace
+ORD004183,CARD,Website
+ORD004184,Wallet,Store
+ORD004185,Unknown,Unknown
+ORD004186,Bank Transfer,Website
+ORD004187,Card,Website
+ORD004188,CARD,website
+ORD004189,Card,Unknown
+ORD004190,Wallet,Mobile App
+ORD004191,Cash on Delivery,Store
+ORD004192,CARD,Marketplace
+ORD004193,Cash on Delivery,Store
+ORD004194,Card,Mobile App
+ORD004195,Bank Transfer,Store
+ORD004196,Bank Transfer,Store
+ORD004197,Cash on Delivery,Website
+ORD004198,Card,Instagram
+ORD004199,Card,Mobile App
+ORD004200,Unknown,Marketplace
+ORD004201,USSD,Mobile App
+ORD004202,USSD,Unknown
+ORD004203,Unknown,Store
+ORD004204,Unknown,Store
+ORD004205,Unknown,Marketplace
+ORD004206,bank transfer,Instagram
+ORD004207,Card,Store
+ORD004208,Bank Transfer,Instagram
+ORD004209,Bank Transfer,mobile app
+ORD004210,Bank Transfer,Marketplace
+ORD004211,CARD,Unknown
+ORD004212,bank transfer,Mobile App
+ORD004213,Cash on Delivery,Unknown
+ORD004214,Wallet,Store
+ORD004215,Unknown,Mobile App
+ORD004216,Bank Transfer,Store
+ORD004217,Cash on Delivery,Unknown
+ORD004218,Card,Store
+ORD004219,USSD,Unknown
+ORD004220,Bank Transfer,Unknown
+ORD004221,Unknown,Marketplace
+ORD004222,Card,Website
+ORD004223,CARD,Marketplace
+ORD004224,Wallet,Instagram
+ORD004225,Wallet,Marketplace
+ORD004226,Cash on Delivery,Mobile App
+ORD004227,Card,Store
+ORD004228,Cash on Delivery,Mobile App
+ORD004229,USSD,Store
+ORD004230,Cash on Delivery,Website
+ORD004231,USSD,Mobile App
+ORD004232,Card,Website
+ORD004233,Wallet,Store
+ORD004234,Wallet,website
+ORD004235,Cash on Delivery,Website
+ORD004236,Bank Transfer,Marketplace
+ORD004237,Bank Transfer,Unknown
+ORD004238,CARD,Instagram
+ORD004239,Bank Transfer,Mobile App
+ORD004240,Cash on Delivery,Mobile App
+ORD004241,Cash on Delivery,Website
+ORD004242,Bank Transfer,Store
+ORD004243,Cash on Delivery,mobile app
+ORD004244,USSD,Instagram
+ORD004245,USSD,website
+ORD004246,bank transfer,Website
+ORD004247,CARD,Mobile App
+ORD004248,bank transfer,Website
+ORD004249,bank transfer,mobile app
+ORD004250,Card,Website
+ORD004251,bank transfer,Website
+ORD004252,Unknown,Store
+ORD004253,Card,Store
+ORD004254,Card,Instagram
+ORD004255,Cash on Delivery,Unknown
+ORD004256,Card,Marketplace
+ORD004257,Bank Transfer,Marketplace
+ORD004258,Bank Transfer,Mobile App
+ORD004259,Wallet,Marketplace
+ORD004260,Cash on Delivery,website
+ORD004261,Bank Transfer,Website
+ORD004262,Cash on Delivery,Instagram
+ORD004263,Unknown,Marketplace
+ORD004264,Card,Instagram
+ORD004265,Card,Mobile App
+ORD004266,USSD,Unknown
+ORD004267,Bank Transfer,website
+ORD004268,Bank Transfer,Website
+ORD004269,Card,Mobile App
+ORD004270,Wallet,Instagram
+ORD004271,USSD,Instagram
+ORD004272,Wallet,Marketplace
+ORD004273,Card,Instagram
+ORD004274,Card,Website
+ORD004275,Card,Store
+ORD004276,Bank Transfer,website
+ORD004277,CARD,Instagram
+ORD004278,USSD,Store
+ORD004279,Wallet,Website
+ORD004280,USSD,Marketplace
+ORD004281,Card,Store
+ORD004282,USSD,Mobile App
+ORD004283,CARD,Website
+ORD004284,bank transfer,Store
+ORD004285,Bank Transfer,Mobile App
+ORD004286,Card,Marketplace
+ORD004287,USSD,website
+ORD004288,Bank Transfer,Mobile App
+ORD004289,Cash on Delivery,Marketplace
+ORD004290,bank transfer,Website
+ORD004291,Cash on Delivery,mobile app
+ORD004292,Wallet,Website
+ORD004293,bank transfer,Marketplace
+ORD004294,Cash on Delivery,Marketplace
+ORD004295,bank transfer,website
+ORD004296,Card,Marketplace
+ORD004297,Card,Mobile App
+ORD004298,Cash on Delivery,Marketplace
+ORD004299,Bank Transfer,Website
+ORD004300,USSD,Instagram
+ORD004301,Unknown,Marketplace
+ORD004302,Card,Store
+ORD004303,Bank Transfer,Mobile App
+ORD004304,Unknown,Store
+ORD004305,USSD,Instagram
+ORD004306,Cash on Delivery,mobile app
+ORD004307,Unknown,Instagram
+ORD004308,CARD,Marketplace
+ORD004309,Bank Transfer,Instagram
+ORD004310,USSD,website
+ORD004311,Wallet,Store
+ORD004312,Cash on Delivery,website
+ORD004313,Wallet,mobile app
+ORD004314,Wallet,Store
+ORD004315,Bank Transfer,Marketplace
+ORD004316,Card,Store
+ORD004317,Unknown,Unknown
+ORD004318,Bank Transfer,Marketplace
+ORD004319,Bank Transfer,Store
+ORD004320,USSD,Mobile App
+ORD004321,USSD,Mobile App
+ORD004322,bank transfer,mobile app
+ORD004323,Wallet,Website
+ORD004324,USSD,Unknown
+ORD004325,Card,Instagram
+ORD004326,Card,Store
+ORD004327,Unknown,Marketplace
+ORD004328,Card,Marketplace
+ORD004329,Bank Transfer,Store
+ORD004330,Card,Marketplace
+ORD004331,Bank Transfer,Marketplace
+ORD004332,Card,website
+ORD004333,Cash on Delivery,website
+ORD004334,Card,Marketplace
+ORD004335,USSD,Instagram
+ORD004336,USSD,Marketplace
+ORD004337,USSD,Website
+ORD004338,bank transfer,Mobile App
+ORD004339,Card,Store
+ORD004340,Cash on Delivery,Website
+ORD004341,Cash on Delivery,Mobile App
+ORD004342,Wallet,Store
+ORD004343,Bank Transfer,Marketplace
+ORD004344,Wallet,Website
+ORD004345,USSD,Store
+ORD004346,Card,Mobile App
+ORD004347,Wallet,mobile app
+ORD004348,Bank Transfer,Instagram
+ORD004349,Cash on Delivery,Store
+ORD004350,USSD,Store
+ORD004351,Bank Transfer,Store
+ORD004352,Card,Unknown
+ORD004353,Card,Store
+ORD004354,Card,Instagram
+ORD004355,Cash on Delivery,Website
+ORD004356,Cash on Delivery,Mobile App
+ORD004357,Bank Transfer,Marketplace
+ORD004358,Unknown,Marketplace
+ORD004359,CARD,Website
+ORD004360,Cash on Delivery,Mobile App
+ORD004361,Unknown,Website
+ORD004362,Cash on Delivery,Store
+ORD004363,Wallet,Website
+ORD004364,USSD,Store
+ORD004365,Wallet,Mobile App
+ORD004366,USSD,Store
+ORD004367,Card,Marketplace
+ORD004368,Bank Transfer,Website
+ORD004369,Card,Mobile App
+ORD004370,Card,Mobile App
+ORD004371,Bank Transfer,Mobile App
+ORD004372,Bank Transfer,Instagram
+ORD004373,Card,Mobile App
+ORD004374,Wallet,Instagram
+ORD004375,Cash on Delivery,Marketplace
+ORD004376,USSD,mobile app
+ORD004377,USSD,website
+ORD004378,CARD,Store
+ORD004379,Bank Transfer,Marketplace
+ORD004380,bank transfer,Mobile App
+ORD004381,CARD,Store
+ORD004382,Bank Transfer,Website
+ORD004383,Bank Transfer,Instagram
+ORD004384,Cash on Delivery,Instagram
+ORD004385,bank transfer,Website
+ORD004386,Unknown,Marketplace
+ORD004387,Unknown,Website
+ORD004388,Card,Instagram
+ORD004389,Wallet,Unknown
+ORD004390,Cash on Delivery,Unknown
+ORD004391,Card,Website
+ORD004392,Cash on Delivery,Store
+ORD004393,Wallet,Instagram
+ORD004394,Cash on Delivery,Website
+ORD004395,USSD,Mobile App
+ORD004396,Cash on Delivery,Mobile App
+ORD004397,Card,mobile app
+ORD004398,Bank Transfer,Instagram
+ORD004399,Bank Transfer,website
+ORD004400,Unknown,Website
+ORD004401,USSD,Store
+ORD004402,Bank Transfer,Store
+ORD004403,bank transfer,Mobile App
+ORD004404,USSD,Store
+ORD004405,Bank Transfer,Mobile App
+ORD004406,USSD,Marketplace
+ORD004407,Card,Instagram
+ORD004408,Card,Instagram
+ORD004409,Card,Mobile App
+ORD004410,Cash on Delivery,Website
+ORD004411,USSD,Marketplace
+ORD004412,Unknown,Website
+ORD004413,USSD,Mobile App
+ORD004414,Cash on Delivery,Marketplace
+ORD004415,Unknown,Mobile App
+ORD004416,Card,Unknown
+ORD004417,Wallet,website
+ORD004418,Card,Store
+ORD004419,bank transfer,Unknown
+ORD004420,Bank Transfer,Store
+ORD004421,Cash on Delivery,Instagram
+ORD004422,Wallet,Website
+ORD004423,Card,Store
+ORD004424,Wallet,mobile app
+ORD004425,Bank Transfer,Marketplace
+ORD004426,bank transfer,Unknown
+ORD004427,Card,Marketplace
+ORD004428,Bank Transfer,Website
+ORD004429,CARD,Store
+ORD004430,Cash on Delivery,mobile app
+ORD004431,Unknown,Store
+ORD004432,CARD,Website
+ORD004433,CARD,Mobile App
+ORD004434,Bank Transfer,Marketplace
+ORD004435,Cash on Delivery,Mobile App
+ORD004436,Card,Store
+ORD004437,Wallet,Store
+ORD004438,Cash on Delivery,mobile app
+ORD004439,Card,Instagram
+ORD004440,USSD,Website
+ORD004441,Unknown,website
+ORD004442,bank transfer,Website
+ORD004443,Card,Mobile App
+ORD004444,Bank Transfer,Mobile App
+ORD004445,USSD,Store
+ORD004446,Card,Instagram
+ORD004447,Cash on Delivery,Website
+ORD004448,CARD,Store
+ORD004449,Unknown,Marketplace
+ORD004450,USSD,website
+ORD004451,Cash on Delivery,Website
+ORD004452,Bank Transfer,Mobile App
+ORD004453,Cash on Delivery,Website
+ORD004454,Card,Mobile App
+ORD004455,Wallet,Website
+ORD004456,Cash on Delivery,Mobile App
+ORD004457,Cash on Delivery,Store
+ORD004458,CARD,Store
+ORD004459,Card,Store
+ORD004460,Unknown,mobile app
+ORD004461,Bank Transfer,Unknown
+ORD004462,Bank Transfer,Unknown
+ORD004463,Cash on Delivery,Instagram
+ORD004464,Bank Transfer,website
+ORD004465,Card,mobile app
+ORD004466,Wallet,Instagram
+ORD004467,Unknown,Unknown
+ORD004468,bank transfer,Marketplace
+ORD004469,CARD,Website
+ORD004470,Cash on Delivery,Mobile App
+ORD004471,Unknown,Marketplace
+ORD004472,USSD,Instagram
+ORD004473,Cash on Delivery,Marketplace
+ORD004474,Wallet,Store
+ORD004475,USSD,Marketplace
+ORD004476,Cash on Delivery,Website
+ORD004477,bank transfer,Marketplace
+ORD004478,Cash on Delivery,Store
+ORD004479,USSD,Unknown
+ORD004480,Card,Website
+ORD004481,USSD,Marketplace
+ORD004482,CARD,mobile app
+ORD004483,Cash on Delivery,Marketplace
+ORD004484,Card,Mobile App
+ORD004485,USSD,Marketplace
+ORD004486,Card,Unknown
+ORD004487,Wallet,Marketplace
+ORD004488,Cash on Delivery,Marketplace
+ORD004489,Bank Transfer,Marketplace
+ORD004490,Unknown,Store
+ORD004491,Bank Transfer,Store
+ORD004492,bank transfer,Marketplace
+ORD004493,CARD,Marketplace
+ORD004494,Card,Website
+ORD004495,USSD,Marketplace
+ORD004496,Bank Transfer,Unknown
+ORD004497,Bank Transfer,Instagram
+ORD004498,Card,Mobile App
+ORD004499,Bank Transfer,Mobile App
+ORD004500,Card,Store
+ORD004501,Unknown,mobile app
+ORD004502,Card,Website
+ORD004503,bank transfer,Website
+ORD004504,USSD,Marketplace
+ORD004505,Card,Marketplace
+ORD004506,bank transfer,Marketplace
+ORD004507,Bank Transfer,Store
+ORD004508,Wallet,Marketplace
+ORD004509,Wallet,website
+ORD004510,Cash on Delivery,Marketplace
+ORD004511,Bank Transfer,Mobile App
+ORD004512,USSD,Website
+ORD004513,CARD,Mobile App
+ORD004514,Bank Transfer,Website
+ORD004515,Bank Transfer,Website
+ORD004516,CARD,Instagram
+ORD004517,Cash on Delivery,Marketplace
+ORD004518,Cash on Delivery,Mobile App
+ORD004519,Cash on Delivery,website
+ORD004520,Card,Store
+ORD004521,CARD,Website
+ORD004522,Wallet,website
+ORD004523,USSD,Website
+ORD004524,USSD,Store
+ORD004525,Bank Transfer,Mobile App
+ORD004526,Bank Transfer,Marketplace
+ORD004527,Bank Transfer,Website
+ORD004528,CARD,mobile app
+ORD004529,Unknown,Marketplace
+ORD004530,USSD,Website
+ORD004531,Cash on Delivery,Website
+ORD004532,Wallet,Instagram
+ORD004533,Bank Transfer,Mobile App
+ORD004534,Wallet,Store
+ORD004535,Wallet,Website
+ORD004536,Unknown,Website
+ORD004537,Wallet,Marketplace
+ORD004538,Bank Transfer,Instagram
+ORD004539,Card,Instagram
+ORD004540,Bank Transfer,Website
+ORD004541,Card,Website
+ORD004542,Cash on Delivery,Marketplace
+ORD004543,bank transfer,Marketplace
+ORD004544,Cash on Delivery,mobile app
+ORD004545,Cash on Delivery,Store
+ORD004546,Cash on Delivery,Mobile App
+ORD004547,Card,Mobile App
+ORD004548,USSD,Mobile App
+ORD004549,USSD,Mobile App
+ORD004550,Card,Website
+ORD004551,Cash on Delivery,Marketplace
+ORD004552,USSD,website
+ORD004553,USSD,website
+ORD004554,USSD,Mobile App
+ORD004555,CARD,mobile app
+ORD004556,Unknown,Mobile App
+ORD004557,Bank Transfer,Instagram
+ORD004558,Cash on Delivery,Marketplace
+ORD004559,USSD,Store
+ORD004560,Bank Transfer,Website
+ORD004561,USSD,website
+ORD004562,bank transfer,Marketplace
+ORD004563,CARD,Store
+ORD004564,Card,Mobile App
+ORD004565,USSD,Store
+ORD004566,Card,Mobile App
+ORD004567,Cash on Delivery,Marketplace
+ORD004568,Wallet,mobile app
+ORD004569,Card,Website
+ORD004570,Cash on Delivery,website
+ORD004571,USSD,Website
+ORD004572,Wallet,Instagram
+ORD004573,USSD,Mobile App
+ORD004574,Cash on Delivery,Unknown
+ORD004575,bank transfer,Unknown
+ORD004576,Unknown,Mobile App
+ORD004577,USSD,Store
+ORD004578,bank transfer,Website
+ORD004579,USSD,Instagram
+ORD004580,Bank Transfer,Website
+ORD004581,USSD,Unknown
+ORD004582,Bank Transfer,Store
+ORD004583,Wallet,Store
+ORD004584,bank transfer,Unknown
+ORD004585,CARD,Mobile App
+ORD004586,Card,Store
+ORD004587,Bank Transfer,Mobile App
+ORD004588,Bank Transfer,Store
+ORD004589,Wallet,Website
+ORD004590,CARD,Website
+ORD004591,USSD,Mobile App
+ORD004592,CARD,Mobile App
+ORD004593,CARD,Store
+ORD004594,Card,Website
+ORD004595,Card,Marketplace
+ORD004596,Card,mobile app
+ORD004597,Unknown,Website
+ORD004598,Bank Transfer,Website
+ORD004599,Card,Instagram
+ORD004600,Card,website
+ORD004601,Card,mobile app
+ORD004602,Unknown,Website
+ORD004603,Card,Unknown
+ORD004604,USSD,Instagram
+ORD004605,Unknown,Store
+ORD004606,USSD,Store
+ORD004607,Bank Transfer,Marketplace
+ORD004608,Cash on Delivery,Website
+ORD004609,Cash on Delivery,website
+ORD004610,Card,Marketplace
+ORD004611,Bank Transfer,Unknown
+ORD004612,Card,Mobile App
+ORD004613,USSD,Marketplace
+ORD004614,USSD,Unknown
+ORD004615,Bank Transfer,Marketplace
+ORD004616,Card,Store
+ORD004617,USSD,Store
+ORD004618,Unknown,Store
+ORD004619,USSD,Instagram
+ORD004620,USSD,Store
+ORD004621,Cash on Delivery,Marketplace
+ORD004622,Cash on Delivery,Store
+ORD004623,Card,Website
+ORD004624,Cash on Delivery,Website
+ORD004625,CARD,Store
+ORD004626,Unknown,Mobile App
+ORD004627,Wallet,Mobile App
+ORD004628,USSD,Unknown
+ORD004629,Bank Transfer,Unknown
+ORD004630,Wallet,Store
+ORD004631,Cash on Delivery,Instagram
+ORD004632,Card,Store
+ORD004633,Cash on Delivery,Website
+ORD004634,Wallet,Instagram
+ORD004635,Unknown,Instagram
+ORD004636,USSD,Store
+ORD004637,CARD,Unknown
+ORD004638,Card,Store
+ORD004639,Card,Store
+ORD004640,USSD,Instagram
+ORD004641,Wallet,Mobile App
+ORD004642,Bank Transfer,Mobile App
+ORD004643,Card,Instagram
+ORD004644,Cash on Delivery,Store
+ORD004645,Wallet,website
+ORD004646,Bank Transfer,mobile app
+ORD004647,Cash on Delivery,Instagram
+ORD004648,Wallet,Mobile App
+ORD004649,Cash on Delivery,Website
+ORD004650,bank transfer,Instagram
+ORD004651,Wallet,Marketplace
+ORD004652,Unknown,Marketplace
+ORD004653,Cash on Delivery,Mobile App
+ORD004654,Unknown,Store
+ORD004655,Card,Marketplace
+ORD004656,USSD,Store
+ORD004657,Card,Store
+ORD004658,CARD,Unknown
+ORD004659,Wallet,Website
+ORD004660,Card,Store
+ORD004661,Card,Marketplace
+ORD004662,USSD,Marketplace
+ORD004663,USSD,Website
+ORD004664,Wallet,Website
+ORD004665,Cash on Delivery,Mobile App
+ORD004666,Cash on Delivery,Mobile App
+ORD004667,Cash on Delivery,Mobile App
+ORD004668,Cash on Delivery,mobile app
+ORD004669,Bank Transfer,Mobile App
+ORD004670,Wallet,mobile app
+ORD004671,Bank Transfer,Mobile App
+ORD004672,Card,Mobile App
+ORD004673,Wallet,website
+ORD004674,Bank Transfer,Marketplace
+ORD004675,Card,Store
+ORD004676,bank transfer,Store
+ORD004677,USSD,Unknown
+ORD004678,Bank Transfer,Unknown
+ORD004679,bank transfer,Mobile App
+ORD004680,Cash on Delivery,Website
+ORD004681,Card,Marketplace
+ORD004682,CARD,Instagram
+ORD004683,Card,Mobile App
+ORD004684,bank transfer,Marketplace
+ORD004685,Bank Transfer,Marketplace
+ORD004686,Bank Transfer,Unknown
+ORD004687,Unknown,Website
+ORD004688,USSD,Website
+ORD004689,USSD,Marketplace
+ORD004690,CARD,website
+ORD004691,Card,Store
+ORD004692,Wallet,Mobile App
+ORD004693,Cash on Delivery,Marketplace
+ORD004694,USSD,Website
+ORD004695,Unknown,Mobile App
+ORD004696,Bank Transfer,Website
+ORD004697,USSD,Website
+ORD004698,Cash on Delivery,Store
+ORD004699,Cash on Delivery,Mobile App
+ORD004700,Bank Transfer,Website
+ORD004701,Bank Transfer,Marketplace
+ORD004702,Card,Unknown
+ORD004703,Card,Instagram
+ORD004704,CARD,Store
+ORD004705,bank transfer,Website
+ORD004706,Bank Transfer,Store
+ORD004707,Bank Transfer,Website
+ORD004708,Unknown,website
+ORD004709,Unknown,Website
+ORD004710,Wallet,Website
+ORD004711,Bank Transfer,Website
+ORD004712,Wallet,Website
+ORD004713,Bank Transfer,mobile app
+ORD004714,Bank Transfer,Store
+ORD004715,Unknown,Instagram
+ORD004716,USSD,Mobile App
+ORD004717,Wallet,website
+ORD004718,Bank Transfer,Store
+ORD004719,Card,mobile app
+ORD004720,Bank Transfer,Marketplace
+ORD004721,CARD,Store
+ORD004722,Bank Transfer,Store
+ORD004723,Card,Store
+ORD004724,USSD,Marketplace
+ORD004725,Card,Mobile App
+ORD004726,Cash on Delivery,Unknown
+ORD004727,Cash on Delivery,Website
+ORD004728,Card,Store
+ORD004729,Wallet,Website
+ORD004730,Bank Transfer,Website
+ORD004731,Bank Transfer,Website
+ORD004732,Card,Mobile App
+ORD004733,Card,Store
+ORD004734,Card,Website
+ORD004735,Card,Mobile App
+ORD004736,Wallet,Mobile App
+ORD004737,Cash on Delivery,Instagram
+ORD004738,Bank Transfer,Instagram
+ORD004739,USSD,Store
+ORD004740,Wallet,Unknown
+ORD004741,CARD,Store
+ORD004742,Card,Marketplace
+ORD004743,USSD,Store
+ORD004744,CARD,Website
+ORD004745,Wallet,Store
+ORD004746,Wallet,Store
+ORD004747,Cash on Delivery,Marketplace
+ORD004748,Unknown,Mobile App
+ORD004749,Wallet,Store
+ORD004750,Card,Website
+ORD004751,Bank Transfer,Marketplace
+ORD004752,Wallet,Unknown
+ORD004753,Bank Transfer,website
+ORD004754,Wallet,Mobile App
+ORD004755,Cash on Delivery,Mobile App
+ORD004756,Unknown,Marketplace
+ORD004757,Card,website
+ORD004758,Card,Unknown
+ORD004759,Unknown,Mobile App
+ORD004760,Cash on Delivery,Instagram
+ORD004761,Bank Transfer,Unknown
+ORD004762,Cash on Delivery,Instagram
+ORD004763,bank transfer,Instagram
+ORD004764,Wallet,Mobile App
+ORD004765,USSD,Marketplace
+ORD004766,Bank Transfer,Website
+ORD004767,Wallet,Store
+ORD004768,Unknown,Marketplace
+ORD004769,USSD,Mobile App
+ORD004770,Bank Transfer,Marketplace
+ORD004771,Wallet,Mobile App
+ORD004772,bank transfer,Website
+ORD004773,USSD,Marketplace
+ORD004774,CARD,Website
+ORD004775,Card,Instagram
+ORD004776,Cash on Delivery,Marketplace
+ORD004777,Unknown,Mobile App
+ORD004778,Bank Transfer,Instagram
+ORD004779,Cash on Delivery,Website
+ORD004780,bank transfer,Store
+ORD004781,CARD,Website
+ORD004782,Bank Transfer,Website
+ORD004783,CARD,Mobile App
+ORD004784,Cash on Delivery,Store
+ORD004785,Card,mobile app
+ORD004786,Card,Website
+ORD004787,Wallet,website
+ORD004788,CARD,Marketplace
+ORD004789,Card,Instagram
+ORD004790,Card,Marketplace
+ORD004791,Bank Transfer,Marketplace
+ORD004792,Cash on Delivery,Mobile App
+ORD004793,Card,website
+ORD004794,Unknown,Website
+ORD004795,Wallet,Unknown
+ORD004796,CARD,Store
+ORD004797,Unknown,Store
+ORD004798,Wallet,Store
+ORD004799,CARD,Instagram
+ORD004800,Card,Marketplace
+ORD004801,Cash on Delivery,Website
+ORD004802,Bank Transfer,mobile app
+ORD004803,Cash on Delivery,mobile app
+ORD004804,Cash on Delivery,Mobile App
+ORD004805,USSD,Instagram
+ORD004806,Cash on Delivery,Marketplace
+ORD004807,Card,Marketplace
+ORD004808,Card,Website
+ORD004809,Bank Transfer,Instagram
+ORD004810,Cash on Delivery,Store
+ORD004811,Unknown,Marketplace
+ORD004812,Unknown,Unknown
+ORD004813,Wallet,Mobile App
+ORD004814,Cash on Delivery,Instagram
+ORD004815,USSD,Store
+ORD004816,Cash on Delivery,Instagram
+ORD004817,Card,Unknown
+ORD004818,Bank Transfer,Unknown
+ORD004819,Bank Transfer,mobile app
+ORD004820,Wallet,mobile app
+ORD004821,Cash on Delivery,Store
+ORD004822,Bank Transfer,Marketplace
+ORD004823,Card,Website
+ORD004824,Card,Store
+ORD004825,USSD,Website
+ORD004826,bank transfer,Mobile App
+ORD004827,Card,Unknown
+ORD004828,Card,Website
+ORD004829,Bank Transfer,Marketplace
+ORD004830,USSD,Marketplace
+ORD004831,Unknown,Website
+ORD004832,USSD,Website
+ORD004833,Bank Transfer,Store
+ORD004834,Cash on Delivery,Website
+ORD004835,Wallet,Instagram
+ORD004836,Cash on Delivery,Store
+ORD004837,Card,Mobile App
+ORD004838,Bank Transfer,Store
+ORD004839,Bank Transfer,Website
+ORD004840,Card,Store
+ORD004841,USSD,website
+ORD004842,CARD,Store
+ORD004843,bank transfer,Marketplace
+ORD004844,bank transfer,Marketplace
+ORD004845,Bank Transfer,Mobile App
+ORD004846,Bank Transfer,Marketplace
+ORD004847,Card,mobile app
+ORD004848,Unknown,Website
+ORD004849,Card,mobile app
+ORD004850,Wallet,Unknown
+ORD004851,Cash on Delivery,Website
+ORD004852,Cash on Delivery,Unknown
+ORD004853,USSD,website
+ORD004854,Card,Unknown
+ORD004855,CARD,Mobile App
+ORD004856,Bank Transfer,Store
+ORD004857,Card,Website
+ORD004858,Cash on Delivery,Website
+ORD004859,Bank Transfer,mobile app
+ORD004860,Unknown,Instagram
+ORD004861,Wallet,Website
+ORD004862,Bank Transfer,Mobile App
+ORD004863,Cash on Delivery,Website
+ORD004864,Card,mobile app
+ORD004865,Cash on Delivery,Instagram
+ORD004866,CARD,website
+ORD004867,USSD,Marketplace
+ORD004868,Bank Transfer,Website
+ORD004869,CARD,website
+ORD004870,USSD,Instagram
+ORD004871,Wallet,Marketplace
+ORD004872,USSD,Marketplace
+ORD004873,Bank Transfer,mobile app
+ORD004874,Card,Instagram
+ORD004875,Card,Mobile App
+ORD004876,CARD,Marketplace
+ORD004877,USSD,Store
+ORD004878,CARD,Instagram
+ORD004879,Bank Transfer,Store
+ORD004880,USSD,Website
+ORD004881,USSD,Store
+ORD004882,Bank Transfer,Instagram
+ORD004883,bank transfer,Store
+ORD004884,Wallet,website
+ORD004885,Card,mobile app
+ORD004886,Cash on Delivery,Mobile App
+ORD004887,bank transfer,Instagram
+ORD004888,Wallet,Marketplace
+ORD004889,Card,Store
+ORD004890,CARD,Store
+ORD004891,Bank Transfer,Unknown
+ORD004892,bank transfer,Store
+ORD004893,Card,Store
+ORD004894,Card,Mobile App
+ORD004895,Card,Unknown
+ORD004896,Bank Transfer,Mobile App
+ORD004897,Card,Store
+ORD004898,Card,website
+ORD004899,USSD,Store
+ORD004900,Card,Store
+ORD004901,Wallet,Mobile App
+ORD004902,USSD,Store
+ORD004903,bank transfer,Website
+ORD004904,Card,Store
+ORD004905,CARD,Mobile App
+ORD004906,Cash on Delivery,Website
+ORD004907,Card,Instagram
+ORD004908,Card,Marketplace
+ORD004909,Bank Transfer,website
+ORD004910,Card,Unknown
+ORD004911,Wallet,Mobile App
+ORD004912,CARD,Unknown
+ORD004913,Bank Transfer,Unknown
+ORD004914,USSD,Instagram
+ORD004915,Unknown,mobile app
+ORD004916,Wallet,Marketplace
+ORD004917,Unknown,Unknown
+ORD004918,CARD,website
+ORD004919,bank transfer,Mobile App
+ORD004920,USSD,Mobile App
+ORD004921,Bank Transfer,Marketplace
+ORD004922,Bank Transfer,Mobile App
+ORD004923,Card,mobile app
+ORD004924,CARD,Website
+ORD004925,Cash on Delivery,Instagram
+ORD004926,Wallet,Mobile App
+ORD004927,Card,Store
+ORD004928,Bank Transfer,Mobile App
+ORD004929,Cash on Delivery,mobile app
+ORD004930,CARD,Store
+ORD004931,Wallet,Website
+ORD004932,Cash on Delivery,Instagram
+ORD004933,Cash on Delivery,Marketplace
+ORD004934,Card,Store
+ORD004935,bank transfer,Marketplace
+ORD004936,bank transfer,Mobile App
+ORD004937,Bank Transfer,Mobile App
+ORD004938,bank transfer,website
+ORD004939,Cash on Delivery,Mobile App
+ORD004940,Card,Website
+ORD004941,Wallet,Instagram
+ORD004942,Bank Transfer,Website
+ORD004943,USSD,Instagram
+ORD004944,Card,Mobile App
+ORD004945,Unknown,Unknown
+ORD004946,Cash on Delivery,Mobile App
+ORD004947,Card,Mobile App
+ORD004948,bank transfer,Website
+ORD004949,Card,Store
+ORD004950,Card,Marketplace
+ORD004951,CARD,Store
+ORD004952,Unknown,Mobile App
+ORD004953,Wallet,Website
+ORD004954,CARD,Instagram
+ORD004955,bank transfer,Unknown
+ORD004956,USSD,Store
+ORD004957,Unknown,Instagram
+ORD004958,bank transfer,Mobile App
+ORD004959,Wallet,Store
+ORD004960,bank transfer,Website
+ORD004961,Wallet,website
+ORD004962,Unknown,mobile app
+ORD004963,Unknown,mobile app
+ORD004964,Wallet,website
+ORD004965,Bank Transfer,Marketplace
+ORD004966,Bank Transfer,Website
+ORD004967,Cash on Delivery,Instagram
+ORD004968,Cash on Delivery,Store
+ORD004969,Card,Instagram
+ORD004970,Bank Transfer,Store
+ORD004971,Cash on Delivery,Website
+ORD004972,Card,Instagram
+ORD004973,USSD,Website
+ORD004974,Unknown,Instagram
+ORD004975,Unknown,Mobile App
+ORD004976,Wallet,Website
+ORD004977,Wallet,Store
+ORD004978,Cash on Delivery,Marketplace
+ORD004979,USSD,Instagram
+ORD004980,bank transfer,Website
+ORD004981,Wallet,mobile app
+ORD004982,Card,Mobile App
+ORD004983,USSD,Store
+ORD004984,Wallet,Website
+ORD004985,Bank Transfer,Marketplace
+ORD004986,Card,mobile app
+ORD004987,Card,Mobile App
+ORD004988,Wallet,Store
+ORD004989,Bank Transfer,Website
+ORD004990,USSD,Store
+ORD004991,Card,Store
+ORD004992,Cash on Delivery,Mobile App
+ORD004993,Bank Transfer,Mobile App
+ORD004994,Card,website
+ORD004995,USSD,Instagram
+ORD004996,Bank Transfer,Instagram
+ORD004997,Bank Transfer,Marketplace
+ORD004998,USSD,mobile app
+ORD004999,Cash on Delivery,website
+ORD005000,bank transfer,Store
